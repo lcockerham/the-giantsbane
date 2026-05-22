@@ -1,0 +1,50 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  post: CollectionEntry<'posts'>;
+}
+
+const { post } = Astro.props;
+const { title, date, tags, description } = post.data;
+
+const formattedDate = date.toLocaleDateString('en-US', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+});
+---
+
+<BaseLayout title={title} description={description}>
+  <article>
+    <header class="mb-8 pb-6 border-b border-stone-700">
+      <div class="flex flex-wrap gap-2 mb-3">
+        {tags.map((tag) => (
+          <a
+            href={`/tags/${tag.toLowerCase()}`}
+            class="font-cinzel text-xs text-gold-dark border border-stone-600 px-2 py-0.5 rounded hover:border-gold hover:text-gold transition-colors"
+          >
+            {tag}
+          </a>
+        ))}
+      </div>
+      <h1 class="font-cinzel text-3xl sm:text-4xl font-bold text-gold leading-tight mb-3">
+        {title}
+      </h1>
+      <time datetime={date.toISOString()} class="text-parchment/60 font-cinzel text-sm">
+        {formattedDate}
+      </time>
+    </header>
+
+    <div class="prose prose-giantsbane max-w-none">
+      <slot />
+    </div>
+
+    <footer class="mt-10 pt-6 border-t border-stone-700">
+      <a href="/" class="font-cinzel text-sm text-gold hover:text-gold-light transition-colors">
+        &larr; Back to all posts
+      </a>
+    </footer>
+  </article>
+</BaseLayout>

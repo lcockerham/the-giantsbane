@@ -1,0 +1,11 @@
+[deployment]
+deploymentTarget = "static"
+build = ["npm", "run", "build"]
+publicDir = "dist"
+
+[nix]
+channel = "stable-24_05"
+
+[[ports]]
+localPort = 4321
+externalPort = 80

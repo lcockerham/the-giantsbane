@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.astro/
+.env
+.env.*
+!.env.example
+.playwright-mcp/
+.claude/settings.local.json
+/*.png
+/*.jpg
+/*.jpeg

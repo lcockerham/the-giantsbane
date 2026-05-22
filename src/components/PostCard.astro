@@ -1,0 +1,44 @@
+---
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  post: CollectionEntry<'posts'>;
+}
+
+const { post } = Astro.props;
+const { title, date, tags, description } = post.data;
+
+const formattedDate = date.toLocaleDateString('en-US', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+});
+
+const slug = post.id.replace(/\.md$/, '').replace(/^\d{4}-\d{2}-\d{2}-/, '');
+---
+
+<article class="border border-stone-700 rounded-lg p-5 bg-stone-900 hover:border-stone-600 transition-colors">
+  <div class="flex flex-wrap gap-2 mb-2">
+    {tags.map((tag) => (
+      <a
+        href={`/tags/${tag.toLowerCase()}`}
+        class="font-cinzel text-xs text-gold-dark border border-stone-700 px-2 py-0.5 rounded hover:border-gold hover:text-gold transition-colors"
+      >
+        {tag}
+      </a>
+    ))}
+  </div>
+  <h2 class="font-cinzel text-lg font-semibold mb-1">
+    <a href={`/posts/${slug}`} class="text-gold hover:text-gold-light transition-colors">
+      {title}
+    </a>
+  </h2>
+  <time datetime={date.toISOString()} class="text-parchment/50 font-cinzel text-xs block mb-3">
+    {formattedDate}
+  </time>
+  {description && (
+    <p class="text-parchment/75 text-base leading-relaxed font-crimson line-clamp-3">
+      {description}
+    </p>
+  )}
+</article>

@@ -1,0 +1,44 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const allPosts = await getCollection('posts', ({ data }) => !data.draft);
+const posts = allPosts.sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+
+// Group by year
+const byYear = posts.reduce<Record<number, typeof posts>>((acc, post) => {
+  const year = post.data.date.getFullYear();
+  if (!acc[year]) acc[year] = [];
+  acc[year].push(post);
+  return acc;
+}, {});
+
+const years = Object.keys(byYear).map(Number).sort((a, b) => b - a);
+---
+
+<BaseLayout title="Archive">
+  <h1 class="font-cinzel text-3xl font-bold text-gold mb-8">Archive</h1>
+
+  {years.map((year) => (
+    <section class="mb-10">
+      <h2 class="font-cinzel text-xl text-gold-dark border-b border-stone-700 pb-2 mb-4">{year}</h2>
+      <ul class="space-y-3">
+        {byYear[year].map((post) => {
+          const slug = post.id.replace(/\.md$/, '').replace(/^\d{4}-\d{2}-\d{2}-/, '');
+          const date = post.data.date.toLocaleDateString('en-US', {
+            month: 'short',
+            day: 'numeric',
+          });
+          return (
+            <li class="flex gap-4 items-baseline">
+              <span class="font-cinzel text-xs text-parchment/50 w-16 shrink-0">{date}</span>
+              <a href={`/posts/${slug}`} class="text-parchment hover:text-gold transition-colors font-crimson">
+                {post.data.title}
+              </a>
+            </li>
+          );
+        })}
+      </ul>
+    </section>
+  ))}
+</BaseLayout>

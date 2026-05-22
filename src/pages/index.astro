@@ -1,0 +1,21 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PostCard from '../components/PostCard.astro';
+
+const allPosts = await getCollection('posts', ({ data }) => !data.draft);
+const posts = allPosts.sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+---
+
+<BaseLayout title="The Giantsbane">
+  <div class="mb-8">
+    <h1 class="font-cinzel text-4xl font-bold text-gold mb-2">The Giantsbane</h1>
+    <p class="text-parchment/70 text-lg font-crimson">
+      A dungeon master's resource for running published D&D adventures — guides, reviews, and 5e conversions.
+    </p>
+  </div>
+
+  <div class="grid gap-4 sm:grid-cols-2">
+    {posts.map((post) => <PostCard post={post} />)}
+  </div>
+</BaseLayout>
