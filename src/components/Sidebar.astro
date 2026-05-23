@@ -1,0 +1,59 @@
+---
+import { getCollection } from 'astro:content';
+
+const allPosts = await getCollection('posts', ({ data }) => !data.draft);
+
+const tagCounts = allPosts.reduce<Record<string, number>>((acc, post) => {
+  for (const tag of post.data.tags) {
+    acc[tag] = (acc[tag] ?? 0) + 1;
+  }
+  return acc;
+}, {});
+
+const topTags = Object.entries(tagCounts)
+  .sort((a, b) => b[1] - a[1])
+  .slice(0, 12);
+---
+
+<aside class="space-y-8">
+  <div>
+    <h3 class="font-cinzel text-xs tracking-widest uppercase text-crimson border-b border-pit-600 pb-2 mb-4">About</h3>
+    <p class="text-dim text-sm leading-relaxed font-lora">
+      DMing since 1997. <em>Dragon of Icespire Peak</em> guide achieved Gold status on DM's Guild.
+    </p>
+  </div>
+
+  <div>
+    <h3 class="font-cinzel text-xs tracking-widest uppercase text-crimson border-b border-pit-600 pb-2 mb-4">Tags</h3>
+    <div class="flex flex-wrap gap-2">
+      {topTags.map(([tag, count]) => (
+        <a
+          href={`/tags/${tag.toLowerCase()}`}
+          class="font-cinzel text-xs tracking-wide bg-pit-800 border border-pit-600 px-2 py-1 text-dim hover:text-crimson hover:border-crimson-dark transition-colors"
+        >
+          {tag} <span class="text-pit-500">{count}</span>
+        </a>
+      ))}
+    </div>
+  </div>
+
+  <div>
+    <h3 class="font-cinzel text-xs tracking-widest uppercase text-crimson border-b border-pit-600 pb-2 mb-4">DM's Guild</h3>
+    <ul class="space-y-2 text-sm font-lora">
+      <li><a href="https://www.dmsguild.com/product/339739/DMs-Guide-to-Dragon-of-Icespire-Peak" target="_blank" rel="noopener" class="text-dim hover:text-ink transition-colors">Icespire Peak Guide <span class="text-crimson">★ Gold</span></a></li>
+      <li><a href="https://www.dmsguild.com/product/471844/DMs-Guide-to-Turn-of-Fortunes-Wheel-Part-1" target="_blank" rel="noopener" class="text-dim hover:text-ink transition-colors">Fortune's Wheel Pt. 1</a></li>
+      <li><a href="https://www.dmsguild.com/product/492360/DMs-Guide-to-Turn-of-Fortunes-Wheel-Part-2" target="_blank" rel="noopener" class="text-dim hover:text-ink transition-colors">Fortune's Wheel Pt. 2</a></li>
+      <li><a href="https://www.dmsguild.com/product/421692/Ghosts-of-Saltmarsh-Encounters" target="_blank" rel="noopener" class="text-dim hover:text-ink transition-colors">Ghosts of Saltmarsh</a></li>
+      <li><a href="https://www.dmsguild.com/product/383936/Return-to-White-Plume-Mountain-5E-Conversion" target="_blank" rel="noopener" class="text-dim hover:text-ink transition-colors">White Plume Mountain</a></li>
+      <li><a href="https://www.dmsguild.com/browse.php?author=Lucas+Cockerham" target="_blank" rel="noopener" class="text-pit-500 hover:text-dim transition-colors text-xs font-cinzel tracking-wider uppercase">All 10 products →</a></li>
+    </ul>
+  </div>
+
+  <div>
+    <h3 class="font-cinzel text-xs tracking-widest uppercase text-crimson border-b border-pit-600 pb-2 mb-4">Recommended</h3>
+    <ul class="space-y-2 text-sm font-lora">
+      <li><a href="https://dmdavid.com" target="_blank" rel="noopener" class="text-dim hover:text-ink transition-colors">DMDavid</a></li>
+      <li><a href="https://slyflourish.com" target="_blank" rel="noopener" class="text-dim hover:text-ink transition-colors">Sly Flourish</a></li>
+    </ul>
+  </div>
+</aside>

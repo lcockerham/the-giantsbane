@@ -17,34 +17,45 @@ const formattedDate = date.toLocaleDateString('en-US', {
 ---
 
 <BaseLayout title={title} description={description}>
-  <article>
-    <header class="mb-8 pb-6 border-b border-stone-700">
-      <div class="flex flex-wrap gap-2 mb-3">
-        {tags.map((tag) => (
-          <a
-            href={`/tags/${tag.toLowerCase()}`}
-            class="font-cinzel text-xs text-gold-dark border border-stone-600 px-2 py-0.5 rounded hover:border-gold hover:text-gold transition-colors"
-          >
-            {tag}
-          </a>
-        ))}
+  <div class="max-w-3xl">
+    <article>
+      <header class="mb-8 pb-6 border-b border-pit-600">
+        <div class="flex flex-wrap gap-2 mb-4">
+          {tags.map((tag) => (
+            <a
+              href={`/tags/${tag.toLowerCase()}`}
+              class="font-cinzel text-xs text-pit-500 bg-pit-800 px-2 py-0.5 tracking-wider uppercase hover:text-crimson transition-colors"
+            >
+              {tag}
+            </a>
+          ))}
+        </div>
+        <h1 class="font-cinzel text-3xl sm:text-4xl font-semibold text-ink leading-tight mb-4">
+          {title}
+        </h1>
+        <time datetime={date.toISOString()} class="font-cinzel text-xs tracking-widest uppercase text-pit-500">
+          {formattedDate}
+        </time>
+      </header>
+
+      <div class="prose prose-blood max-w-none">
+        <slot />
       </div>
-      <h1 class="font-cinzel text-3xl sm:text-4xl font-bold text-gold leading-tight mb-3">
-        {title}
-      </h1>
-      <time datetime={date.toISOString()} class="text-parchment/60 font-cinzel text-sm">
-        {formattedDate}
-      </time>
-    </header>
 
-    <div class="prose prose-giantsbane max-w-none">
-      <slot />
-    </div>
-
-    <footer class="mt-10 pt-6 border-t border-stone-700">
-      <a href="/" class="font-cinzel text-sm text-gold hover:text-gold-light transition-colors">
-        &larr; Back to all posts
-      </a>
-    </footer>
-  </article>
+      <footer class="mt-12 pt-6 border-t border-pit-600 flex items-center justify-between">
+        <a href="/" class="font-cinzel text-xs tracking-widest uppercase text-dim hover:text-crimson transition-colors">
+          &larr; All Posts
+        </a>
+        {tags.length > 0 && (
+          <div class="flex gap-2">
+            {tags.map((tag) => (
+              <a href={`/tags/${tag.toLowerCase()}`} class="font-cinzel text-xs text-pit-500 hover:text-crimson transition-colors tracking-wider uppercase">
+                {tag}
+              </a>
+            ))}
+          </div>
+        )}
+      </footer>
+    </article>
+  </div>
 </BaseLayout>

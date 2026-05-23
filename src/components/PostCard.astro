@@ -10,35 +10,33 @@ const { title, date, tags, description } = post.data;
 
 const formattedDate = date.toLocaleDateString('en-US', {
   year: 'numeric',
-  month: 'long',
+  month: 'short',
   day: 'numeric',
 });
 
 const slug = post.id.replace(/\.md$/, '').replace(/^\d{4}-\d{2}-\d{2}-/, '');
 ---
 
-<article class="border border-stone-700 rounded-lg p-5 bg-stone-900 hover:border-stone-600 transition-colors">
+<article class="py-5 border-b border-pit-700 first:pt-0">
   <div class="flex flex-wrap gap-2 mb-2">
     {tags.map((tag) => (
       <a
         href={`/tags/${tag.toLowerCase()}`}
-        class="font-cinzel text-xs text-gold-dark border border-stone-700 px-2 py-0.5 rounded hover:border-gold hover:text-gold transition-colors"
+        class="font-cinzel text-xs tracking-wider uppercase text-pit-500 bg-pit-800 px-2 py-0.5 hover:text-crimson transition-colors"
       >
         {tag}
       </a>
     ))}
   </div>
-  <h2 class="font-cinzel text-lg font-semibold mb-1">
-    <a href={`/posts/${slug}`} class="text-gold hover:text-gold-light transition-colors">
+  <h2 class="font-cinzel text-lg font-semibold leading-snug mb-1">
+    <a href={`/posts/${slug}`} class="text-ink hover:text-crimson transition-colors">
       {title}
     </a>
   </h2>
-  <time datetime={date.toISOString()} class="text-parchment/50 font-cinzel text-xs block mb-3">
+  <time datetime={date.toISOString()} class="font-cinzel text-xs tracking-widest uppercase text-pit-500 block mb-2">
     {formattedDate}
   </time>
   {description && (
-    <p class="text-parchment/75 text-base leading-relaxed font-crimson line-clamp-3">
-      {description}
-    </p>
+    <p class="text-dim text-sm leading-relaxed font-lora line-clamp-2">{description}</p>
   )}
 </article>

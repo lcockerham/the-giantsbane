@@ -2,10 +2,10 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import PostCard from '../../components/PostCard.astro';
+import Sidebar from '../../components/Sidebar.astro';
 
 export async function getStaticPaths() {
   const allPosts = await getCollection('posts', ({ data }) => !data.draft);
-
   const tags = [...new Set(allPosts.flatMap((p) => p.data.tags.map((t) => t.toLowerCase())))];
 
   return tags.map((tag) => ({
@@ -23,15 +23,17 @@ const { posts, displayTag } = Astro.props;
 ---
 
 <BaseLayout title={`Posts tagged: ${displayTag}`}>
-  <div class="mb-6">
-    <a href="/tags" class="font-cinzel text-sm text-gold/60 hover:text-gold transition-colors">&larr; All tags</a>
-  </div>
-  <h1 class="font-cinzel text-3xl font-bold text-gold mb-8">
-    {displayTag}
-    <span class="text-parchment/40 text-lg font-normal ml-2">({posts.length})</span>
-  </h1>
-
-  <div class="grid gap-4 sm:grid-cols-2">
-    {posts.map((post) => <PostCard post={post} />)}
+  <div class="grid grid-cols-1 lg:grid-cols-[1fr_260px] gap-12">
+    <div>
+      <div class="mb-6">
+        <a href="/tags" class="font-cinzel text-xs tracking-widest uppercase text-pit-500 hover:text-crimson transition-colors">&larr; All Tags</a>
+      </div>
+      <p class="font-cinzel text-xs tracking-widest uppercase text-crimson mb-1">{displayTag}</p>
+      <p class="text-dim text-sm font-lora italic mb-6">{posts.length} {posts.length === 1 ? 'post' : 'posts'}</p>
+      <div>
+        {posts.map((post) => <PostCard post={post} />)}
+      </div>
+    </div>
+    <Sidebar />
   </div>
 </BaseLayout>

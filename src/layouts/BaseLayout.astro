@@ -19,61 +19,35 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Lora:ital,wght@0,400;0,600;1,400&display=swap"
       rel="stylesheet"
     />
     <link rel="alternate" type="application/rss+xml" title="The Giantsbane" href="/rss.xml" />
     <title>{title === 'The Giantsbane' ? title : `${title} | The Giantsbane`}</title>
   </head>
-  <body class="bg-stone-950 text-parchment min-h-screen flex flex-col font-crimson">
-    <header class="border-b border-stone-700 bg-stone-900">
-      <div class="max-w-5xl mx-auto px-4 py-5 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
-        <a href="/" class="font-cinzel text-2xl font-bold text-gold hover:text-gold-light transition-colors no-underline">
-          The Giantsbane
+  <body class="bg-pit-900 text-ink min-h-screen flex flex-col font-lora">
+    <header class="bg-pit-800 border-b-2 border-crimson-dark">
+      <div class="max-w-6xl mx-auto px-6 py-5 flex items-center justify-between">
+        <a href="/" class="font-cinzel text-2xl font-bold tracking-wide no-underline">
+          The <span class="text-crimson">Giantsbane</span>
         </a>
-        <nav class="flex gap-6 font-cinzel text-sm tracking-wide">
-          <a href="/" class="text-parchment hover:text-gold transition-colors">Home</a>
-          <a href="/archive" class="text-parchment hover:text-gold transition-colors">Archive</a>
-          <a href="/tags" class="text-parchment hover:text-gold transition-colors">Tags</a>
-          <a href="/rss.xml" class="text-parchment hover:text-gold transition-colors">RSS</a>
+        <nav class="flex items-stretch font-cinzel text-xs tracking-widest uppercase">
+          <a href="/" class="text-dim hover:text-crimson hover:bg-pit-700 px-5 py-2 border-l border-pit-600 transition-colors">Home</a>
+          <a href="/archive" class="text-dim hover:text-crimson hover:bg-pit-700 px-5 py-2 border-l border-pit-600 transition-colors">Archive</a>
+          <a href="/tags" class="text-dim hover:text-crimson hover:bg-pit-700 px-5 py-2 border-l border-pit-600 transition-colors">Tags</a>
+          <a href="/rss.xml" class="text-dim hover:text-crimson hover:bg-pit-700 px-5 py-2 border-l border-pit-600 transition-colors">RSS</a>
         </nav>
       </div>
     </header>
 
-    <main class="flex-1 max-w-5xl mx-auto w-full px-4 py-10">
+    <main class="flex-1 max-w-6xl mx-auto w-full px-6 py-10">
       <slot />
     </main>
 
-    <footer class="border-t border-stone-700 bg-stone-900 mt-10">
-      <div class="max-w-5xl mx-auto px-4 py-8 grid sm:grid-cols-3 gap-8 text-sm">
-        <div>
-          <h3 class="font-cinzel text-gold font-semibold mb-3">About</h3>
-          <p class="text-parchment/80 leading-relaxed">
-            Lucas Cockerham has been DMing since 1997. His guide to
-            <em>Dragon of Icespire Peak</em> achieved Gold status on DM's Guild.
-          </p>
-        </div>
-        <div>
-          <h3 class="font-cinzel text-gold font-semibold mb-3">On DM's Guild</h3>
-          <ul class="space-y-1 text-parchment/80">
-            <li><a href="https://www.dmsguild.com/product/339739/DMs-Guide-to-Dragon-of-Icespire-Peak" target="_blank" rel="noopener" class="hover:text-gold transition-colors">Dragon of Icespire Peak Guide ★ Gold</a></li>
-            <li><a href="https://www.dmsguild.com/product/471844/DMs-Guide-to-Turn-of-Fortunes-Wheel-Part-1" target="_blank" rel="noopener" class="hover:text-gold transition-colors">Turn of Fortune's Wheel Pt. 1</a></li>
-            <li><a href="https://www.dmsguild.com/product/492360/DMs-Guide-to-Turn-of-Fortunes-Wheel-Part-2" target="_blank" rel="noopener" class="hover:text-gold transition-colors">Turn of Fortune's Wheel Pt. 2</a></li>
-            <li><a href="https://www.dmsguild.com/product/421692/Ghosts-of-Saltmarsh-Encounters" target="_blank" rel="noopener" class="hover:text-gold transition-colors">Ghosts of Saltmarsh Encounters</a></li>
-            <li><a href="https://www.dmsguild.com/product/383936/Return-to-White-Plume-Mountain-5E-Conversion" target="_blank" rel="noopener" class="hover:text-gold transition-colors">Return to White Plume Mountain</a></li>
-            <li><a href="https://www.dmsguild.com/browse.php?author=Lucas+Cockerham" target="_blank" rel="noopener" class="hover:text-gold transition-colors text-parchment/50">All 10 products →</a></li>
-          </ul>
-        </div>
-        <div>
-          <h3 class="font-cinzel text-gold font-semibold mb-3">Recommended</h3>
-          <ul class="space-y-1 text-parchment/80">
-            <li><a href="https://dmdavid.com" target="_blank" rel="noopener" class="hover:text-gold transition-colors">DMDavid</a></li>
-            <li><a href="https://slyflourish.com" target="_blank" rel="noopener" class="hover:text-gold transition-colors">Sly Flourish</a></li>
-          </ul>
-        </div>
-      </div>
-      <div class="text-center text-parchment/40 text-xs pb-6 font-cinzel">
-        &copy; {new Date().getFullYear()} Lucas Cockerham
+    <footer class="bg-pit-800 border-t-2 border-crimson-dark mt-10">
+      <div class="max-w-6xl mx-auto px-6 py-5 flex justify-between items-center font-cinzel text-xs tracking-widest uppercase text-pit-500">
+        <span>The Giantsbane</span>
+        <span>&copy; {new Date().getFullYear()} Lucas Cockerham</span>
       </div>
     </footer>
   </body>

@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import Sidebar from '../../components/Sidebar.astro';
 
 const allPosts = await getCollection('posts', ({ data }) => !data.draft);
 
@@ -15,17 +16,21 @@ const tags = Object.entries(tagCounts).sort((a, b) => b[1] - a[1]);
 ---
 
 <BaseLayout title="Tags">
-  <h1 class="font-cinzel text-3xl font-bold text-gold mb-8">Tags</h1>
-
-  <div class="flex flex-wrap gap-3">
-    {tags.map(([tag, count]) => (
-      <a
-        href={`/tags/${tag.toLowerCase()}`}
-        class="font-cinzel text-sm border border-stone-600 px-3 py-1.5 rounded text-gold hover:border-gold hover:bg-stone-800 transition-colors flex items-center gap-2"
-      >
-        {tag}
-        <span class="text-parchment/50 text-xs">{count}</span>
-      </a>
-    ))}
+  <div class="grid grid-cols-1 lg:grid-cols-[1fr_260px] gap-12">
+    <div>
+      <p class="font-cinzel text-xs tracking-widest uppercase text-crimson mb-6">Tags</p>
+      <div class="flex flex-wrap gap-3">
+        {tags.map(([tag, count]) => (
+          <a
+            href={`/tags/${tag.toLowerCase()}`}
+            class="font-cinzel text-xs tracking-wider uppercase border border-pit-600 px-3 py-2 text-dim hover:text-crimson hover:border-crimson-dark bg-pit-800 transition-colors flex items-center gap-2"
+          >
+            {tag}
+            <span class="text-pit-500">{count}</span>
+          </a>
+        ))}
+      </div>
+    </div>
+    <Sidebar />
   </div>
 </BaseLayout>
