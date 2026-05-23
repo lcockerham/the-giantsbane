@@ -1,12 +1,15 @@
 ---
 import BaseLayout from './BaseLayout.astro';
 import type { CollectionEntry } from 'astro:content';
+import type { SeriesNav } from '../lib/series';
+import { postSlug } from '../lib/series';
 
 interface Props {
   post: CollectionEntry<'posts'>;
+  seriesNav?: SeriesNav | null;
 }
 
-const { post } = Astro.props;
+const { post, seriesNav } = Astro.props;
 const { title, date, tags, description } = post.data;
 
 const formattedDate = date.toLocaleDateString('en-US', {
@@ -42,7 +45,47 @@ const formattedDate = date.toLocaleDateString('en-US', {
         <slot />
       </div>
 
-      <footer class="mt-12 pt-6 border-t border-pit-600 flex items-center justify-between">
+      {seriesNav && (
+        <nav class="mt-12 pt-6 border-t border-pit-600">
+          <p class="font-cinzel text-xs tracking-widest uppercase text-pit-500 mb-4">
+            {seriesNav.seriesName} &mdash; Part {seriesNav.index} of {seriesNav.total}
+          </p>
+          <div class="grid grid-cols-2 gap-4">
+            <div>
+              {seriesNav.prev && (
+                <a
+                  href={`/posts/${postSlug(seriesNav.prev)}`}
+                  class="group flex flex-col gap-1"
+                >
+                  <span class="font-cinzel text-xs tracking-widest uppercase text-pit-500 group-hover:text-crimson transition-colors">
+                    &larr; Previous
+                  </span>
+                  <span class="font-lora text-sm text-dim group-hover:text-ink transition-colors leading-snug">
+                    {seriesNav.prev.data.title}
+                  </span>
+                </a>
+              )}
+            </div>
+            <div class="text-right">
+              {seriesNav.next && (
+                <a
+                  href={`/posts/${postSlug(seriesNav.next)}`}
+                  class="group flex flex-col gap-1 items-end"
+                >
+                  <span class="font-cinzel text-xs tracking-widest uppercase text-pit-500 group-hover:text-crimson transition-colors">
+                    Next &rarr;
+                  </span>
+                  <span class="font-lora text-sm text-dim group-hover:text-ink transition-colors leading-snug">
+                    {seriesNav.next.data.title}
+                  </span>
+                </a>
+              )}
+            </div>
+          </div>
+        </nav>
+      )}
+
+      <footer class="mt-8 pt-6 border-t border-pit-600 flex items-center justify-between">
         <a href="/" class="font-cinzel text-xs tracking-widest uppercase text-dim hover:text-crimson transition-colors">
           &larr; All Posts
         </a>
