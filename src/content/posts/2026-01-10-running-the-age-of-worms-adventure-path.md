@@ -2,35 +2,41 @@
 title: "Running the Age of Worms Adventure Path"
 date: "2026-01-10"
 tags: []
-description: "This post will collect links to the Age of Worms content I have written in one handy post. I'll update it as I add more posts. I'll also occasionally update where I am at in the conversion process. To…"
+description: "This post will collect links to the Age of Worms content I have written in one handy post. I'll update it as I add more posts."
 ---
 
-This post will collect links to the Age of Worms content I have written in one handy post. I'll update it as I add more posts. I'll also occasionally update where I am at in the conversion process. Today, I have posts scheduled through January (appearing every Sunday) covering the Three Faces of Evil. My conversion of the next adventure, Encounter at Blackwall Keep, is done, and I am running the adventure now. I expect the guides for it to post in February, and I am working on my conversion for the fourth adventure, The Hall of Harsh Reflections, now. 
+This post will collect links to the Age of Worms content I have written in one handy post. I'll update it as I add more posts. I'll also occasionally update where I am at in the conversion process. Today, I have posts scheduled through January (appearing every Sunday) covering the Three Faces of Evil. My conversion of the next adventure, Encounter at Blackwall Keep, is done, and I am running the adventure now. I expect the guides for it to post in February, and I am working on my conversion for the fourth adventure, The Hall of Harsh Reflections, now.
 
-Reviews
+## Reviews
 
-[The Whispering Cairn](https://thegiantsbane.blogspot.com/2025/08/review-of-whipering-cairn-from-age-of.html)
+[The Whispering Cairn](/posts/review-of-the-whipering-cairn-from-the-age-of-worms-adventure-path)
 
-[The Three Faces of Evil](https://thegiantsbane.blogspot.com/2025/12/review-of-three-faces-of-evil-from-age.html)
+[The Three Faces of Evil](/posts/review-of-the-three-faces-of-evil-from-the-age-of-worms-adventure-path)
 
-GuidesThe Whispering Cairn
+## Guides
 
-[Part 1](https://thegiantsbane.blogspot.com/2025/12/guide-to-running-whispering-cairn-part-1.html)
+### The Whispering Cairn
 
-[Part 2](https://thegiantsbane.blogspot.com/2025/12/guide-to-running-whispering-cairn-part-2.html)
+[Part 1](/posts/guide-to-running-the-whispering-cairn-part-1)
 
-[Part 3](https://thegiantsbane.blogspot.com/2026/01/guide-to-running-whispering-cairn-part-3.html)
+[Part 2](/posts/guide-to-running-the-whispering-cairn-part-2)
 
-The Three Faces of Evil
+[Part 3](/posts/guide-to-running-the-whispering-cairn-part-3)
 
-[Part 1](https://thegiantsbane.blogspot.com/2026/01/guide-to-running-three-faces-of-evil.html)
+### The Three Faces of Evil
 
-[Part 2](https://thegiantsbane.blogspot.com/2026/01/guide-to-running-three-faces-of-evil_073247875.html)
+[Part 1](/posts/guide-to-running-the-three-faces-of-evil-part-1)
 
-[Part 3](https://thegiantsbane.blogspot.com/2026/01/guide-to-running-three-faces-of-evil_01276102749.html)
+[Part 2](/posts/guide-to-running-the-three-faces-of-evil-part-2)
 
-[Part 4](https://thegiantsbane.blogspot.com/2026/02/guide-to-running-three-faces-of-evil.html)
+[Part 3](/posts/guide-to-running-the-three-faces-of-evil-part-3)
 
-Other Supplements
+[Part 4](/posts/guide-to-running-the-three-faces-of-evil-part-4)
 
-[Player's Guide to Diamond Lake](https://thegiantsbane.blogspot.com/2025/12/players-guide-to-diamond-lake.html)
+### Encounter at Blackwall Keep
+
+[Guide](/posts/guide-to-encounter-at-blackwall-keep)
+
+## Other Supplements
+
+[Player's Guide to Diamond Lake](/posts/player-s-guide-to-diamond-lake)
