@@ -1,7 +1,10 @@
 ---
 title: "Preparing a Waterdeep: Dragon Heist Campaign"
 date: "2024-11-23"
-tags: []
+tags:
+  - "Campaigns"
+  - "Guides"
+  - "DragonHeist"
 description: "I'm ten sessions into a Waterdeep: Dragon Heist campaign. So far, it's been great fun. Here is my Session 0 for the campaign. If I were to amend that based on what I have learned so far, I would add t…"
 ---
 

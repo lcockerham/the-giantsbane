@@ -1,7 +1,9 @@
 ---
 title: "How to Choose Your Next 5e Dungeons and Dragons Campaign: Dragon of Icespire Keep From D&D Essientials"
 date: "2023-04-13"
-tags: []
+tags:
+  - "Campaigns"
+  - "Guides"
 description: "I've been DMing, playing, and reading fifth edition adventures since the launch of the edition. I decided to write some guides that DMs can use to can use to choose their next adventure. I'll post one…"
 ---
 

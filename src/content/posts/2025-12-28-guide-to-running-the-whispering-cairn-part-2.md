@@ -1,7 +1,11 @@
 ---
 title: "Guide to Running the Whispering Cairn, Part 2"
 date: "2025-12-28"
-tags: []
+tags:
+  - "Campaigns"
+  - "Guides"
+  - "AgeOfWorms"
+  - "Greyhawk"
 ---
 
 This is the second part of my guide to running The Whispering Cairn from the Age of Worms adventure path, originally published in 2005 in Dungeon 124. Part 2 covers the false tomb and the rest of the Cairn. Part 3 will cover the interlude that requires the characters to leave the Cairn to help put Alaster Land's spirit to rest and access the true tomb.

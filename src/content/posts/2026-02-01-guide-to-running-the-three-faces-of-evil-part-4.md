@@ -1,7 +1,11 @@
 ---
 title: "Guide to Running the Three Faces of Evil, Part 4"
 date: "2026-02-01"
-tags: []
+tags:
+  - "Campaigns"
+  - "Guides"
+  - "AgeOfWorms"
+  - "Greyhawk"
 description: "Assuming the players slay all three high priests, the Ebon Aspect wakes up sometime shortly thereafter and attacks when it has the most dramatic effect. My party chose to let the Faceless One escape, …"
 ---
 

@@ -1,7 +1,10 @@
 ---
 title: "Review of The Whipering Cairn from the Age of Worms Adventure Path"
 date: "2025-08-21"
-tags: []
+tags:
+  - "Review"
+  - "AgeOfWorms"
+  - "Greyhawk"
 ---
 
 # Introduction and Background

@@ -1,7 +1,10 @@
 ---
 title: "Waterdeep Dragon Heist Session Zero"
 date: "2024-09-06"
-tags: []
+tags:
+  - "Campaigns"
+  - "Guides"
+  - "DragonHeist"
 ---
 
 # A New Campaign

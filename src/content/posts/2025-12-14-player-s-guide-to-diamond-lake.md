@@ -1,7 +1,10 @@
 ---
 title: "Player's Guide to Diamond Lake"
 date: "2025-12-14"
-tags: []
+tags:
+  - "Guides"
+  - "AgeOfWorms"
+  - "Greyhawk"
 ---
 
 ## Diamond Lake: A Greyhawk Mining Town

@@ -1,7 +1,10 @@
 ---
 title: "Running the Vault of Dragons from Waterdeep: Dragon Heist"
 date: "2025-04-22"
-tags: []
+tags:
+  - "Campaigns"
+  - "Guides"
+  - "DragonHeist"
 description: "I just finished running Waterdeep: Dragon Heist, and wanted to fire off a few quick thoughts about the final part of the adventure, the Vault of Dragons.&nbsp;"
 ---
 

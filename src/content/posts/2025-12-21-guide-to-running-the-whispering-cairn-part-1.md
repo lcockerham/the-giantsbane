@@ -1,7 +1,11 @@
 ---
 title: "Guide to Running the Whispering Cairn, Part 1"
 date: "2025-12-21"
-tags: []
+tags:
+  - "Campaigns"
+  - "Guides"
+  - "AgeOfWorms"
+  - "Greyhawk"
 ---
 
 ## Reference Material

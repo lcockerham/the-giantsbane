@@ -1,7 +1,11 @@
 ---
 title: "Guide to Running The Whispering Cairn, Part 3"
 date: "2026-01-04"
-tags: []
+tags:
+  - "Campaigns"
+  - "Guides"
+  - "AgeOfWorms"
+  - "Greyhawk"
 description: "Part Four: The Feral Cock"
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Dungeons and Dragons Settings 101: The Forgotten Realms (Part 1)"
 date: "2024-10-28"
-tags: []
+tags:
+  - "Campaigns"
+  - "Guides"
 ---
 
 This is the next part in my series of 101 introductions for the most common Dungeons and Dragons settings. If it made sense to cover [Greyhawk](https://thegiantsbane.blogspot.com/2024/09/dungeons-and-dragons-settings-101.html) first, it only makes sense for part two to be the most prolific campaign setting for Dungeons and Dragons: The Forgotten Realms. I've been running campaigns set in the Realms for two decades, so I'm excited to dive into one of my favorite settings. 

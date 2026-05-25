@@ -1,7 +1,11 @@
 ---
 title: "Guide to Running the Three Faces of Evil, Part 2"
 date: "2026-01-18"
-tags: []
+tags:
+  - "Campaigns"
+  - "Guides"
+  - "AgeOfWorms"
+  - "Greyhawk"
 ---
 
 Part 2: The Dark Cathedral

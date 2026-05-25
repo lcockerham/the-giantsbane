@@ -1,7 +1,9 @@
 ---
 title: "Random Guilds of Waterdeep"
 date: "2025-02-05"
-tags: []
+tags:
+  - "Guides"
+  - "DragonHeist"
 description: "&nbsp;After the characters opened up the Trollskull, I wanted a way to randomly select a Waterdhavian guild for off-the-cuff scene building. So I went to the Guilds of Waterdeep fandom wiki page and c…"
 ---
 

@@ -1,7 +1,11 @@
 ---
 title: "Guide to Running the Three Faces of Evil, Part 3"
 date: "2026-01-25"
-tags: []
+tags:
+  - "Campaigns"
+  - "Guides"
+  - "AgeOfWorms"
+  - "Greyhawk"
 description: "There are no light sources in the caves, and the ground is difficult terrain everywhere."
 ---
 

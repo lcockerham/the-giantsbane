@@ -1,7 +1,11 @@
 ---
 title: "Running the Age of Worms Adventure Path"
 date: "2026-01-10"
-tags: []
+tags:
+  - "Campaigns"
+  - "Guides"
+  - "AgeOfWorms"
+  - "Greyhawk"
 description: "This post will collect links to the Age of Worms content I have written in one handy post. I'll update it as I add more posts."
 ---
 

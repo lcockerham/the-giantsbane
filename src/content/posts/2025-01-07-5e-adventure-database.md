@@ -1,7 +1,8 @@
 ---
 title: "5E Adventure Database"
 date: "2025-01-07"
-tags: []
+tags:
+  - "Guides"
 description: "&nbsp;As I near Dragon Heist's end, I want to throw random published adventures at my group to continue the campaign.&nbsp; I want to do some pre-planning so I can foreshadow future adventures, but th…"
 ---
 

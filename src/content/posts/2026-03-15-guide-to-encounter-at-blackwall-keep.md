@@ -1,7 +1,11 @@
 ---
 title: "Guide to Encounter at Blackwall Keep"
 date: "2026-03-15"
-tags: []
+tags:
+  - "Campaigns"
+  - "Guides"
+  - "AgeOfWorms"
+  - "Greyhawk"
 description: "This is a prerty rough outline of the third adventure in the adventure path. It is a fine adventure, and an important connector to the rest of the path, but nothing stands out about it. The siege is f…"
 ---
 

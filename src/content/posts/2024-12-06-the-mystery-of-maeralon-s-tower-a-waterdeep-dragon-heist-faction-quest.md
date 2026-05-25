@@ -1,7 +1,10 @@
 ---
 title: "The Mystery of Maeralon's Tower, A Waterdeep: Dragon Heist Faction Quest"
 date: "2024-12-06"
-tags: []
+tags:
+  - "Campaigns"
+  - "Guides"
+  - "DragonHeist"
 description: "Barnabus Blastwind of the Watchful Order of Magists and Protectors approaches the party with an urgent request. The Watchful Order has lost contact with Maeralon Silvercord, a reclusive yet respected …"
 ---
 

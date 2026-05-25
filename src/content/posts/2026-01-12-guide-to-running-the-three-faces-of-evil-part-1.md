@@ -1,7 +1,11 @@
 ---
 title: "Guide to Running the Three Faces of Evil, Part 1"
 date: "2026-01-12"
-tags: []
+tags:
+  - "Campaigns"
+  - "Guides"
+  - "AgeOfWorms"
+  - "Greyhawk"
 description: "This is how I changed the Call to Action. Telegraph to your characters that it's meant to be a strong start to introduce a recurring villain, and admit that you are railroading them for the sake of th…"
 ---
 

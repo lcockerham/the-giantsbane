@@ -1,7 +1,10 @@
 ---
 title: "The Mystery of Maerlon's Tower: Tools for Running a Hybrid Adventure"
 date: "2024-12-27"
-tags: []
+tags:
+  - "Campaigns"
+  - "Guides"
+  - "DragonHeist"
 description: "I ran The Mystery of Maerlon's Tower&nbsp;as a hybrid game. My home group used to run hybrid pre-pandemic using only Zoom, a webcam, and a normal tabletop with terrain and minis so I had some experien…"
 ---
 
