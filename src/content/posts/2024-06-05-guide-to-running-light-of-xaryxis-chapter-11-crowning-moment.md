@@ -6,46 +6,39 @@ tags:
   - "Spelljammer"
 ---
 
-[Guide to Chapter 10 - Space Invaders](https://thegiantsbane.blogspot.com/2024/05/guide-to-running-light-of-xaryxis_28.html)
+[Guide to Chapter 10 - Space Invaders](/posts/guide-to-running-light-of-xaryxis-chapter-10-space-invaders)
 
-![The Citadel of Xaryxis](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3o1IFHd1jDHXuOIgU2C3NT_0pVmDqoEa_rB1EFpmjSvx6wAr-TPMXz9UAHsmAlo-wuM0YvPHr_XihZwaH-ETvQCg9WqBIUu2Sns63Pnqm0MVJgd2tKniFIPjU9TnbnYwRm497leK2g5uaqhxj0LW0TU49tcn3H5CGXhMBUIKAzCSBl6whlnR3k8vVHOk/s320/The%20Citadel.png "The Citadel of Xaryxis")  
+![The Citadel of Xaryxis](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3o1IFHd1jDHXuOIgU2C3NT_0pVmDqoEa_rB1EFpmjSvx6wAr-TPMXz9UAHsmAlo-wuM0YvPHr_XihZwaH-ETvQCg9WqBIUu2Sns63Pnqm0MVJgd2tKniFIPjU9TnbnYwRm497leK2g5uaqhxj0LW0TU49tcn3H5CGXhMBUIKAzCSBl6whlnR3k8vVHOk/s320/The%20Citadel.png "The Citadel of Xaryxis")
 
-  
-
--   Arrival at the Citadel
+## Arrival at the Citadel
 
 -   Read the box text.
 -   If the characters are prisoners:
-
--   A guard named Corelleth, who is loyal to Xedalli, meets the characters. He will escort them to the palace. He makes his friendly intentions clear, and can tell characters the following:
-
--   Prince Xeleth’s coronation will occur immediately after his father’s funeral.
--   Many wish Xeleth AND Xedalli to be coronated together, following the emperor’s wishes.
--   As emperor, Xeleth will have the characters executed.
-
+    -   A guard named Corelleth, who is loyal to Xedalli, meets the characters. He will escort them to the palace. He makes his friendly intentions clear, and can tell characters the following:
+        -   Prince Xeleth's coronation will occur immediately after his father's funeral.
+        -   Many wish Xeleth AND Xedalli to be coronated together, following the emperor's wishes.
+        -   As emperor, Xeleth will have the characters executed.
 -   If the characters are infiltrating:
-
--   The characters can land at the common docks and sneak into the city.
--   Once in the city, everyone is preoccupied with the coronation.
--   They have time to take a short rest if they take this approach.
-
+    -   The characters can land at the common docks and sneak into the city.
+    -   Once in the city, everyone is preoccupied with the coronation.
+    -   They have time to take a short rest if they take this approach.
 -   If they land at the imperial docks, they will be greeted by Corelleth.
 
--   Temple of Light
+## Temple of Light
 
 -   Read the box text.
 -   Have Xedalli look towards the characters insinuating they should speak up.
--   If they don’t, she still nominates them as bearers of a ring of shooting stars.
+-   If they don't, she still nominates them as bearers of a ring of shooting stars.
 -   Verbal sparring between Xeleth and the characters. DC 20 Charisma (Persuasion) check to sway the crowd to favoring Xedalli.
 -   Depending on who loses the verbal sparring, a challenge for trial by combat.
 -   Read box text where Xeleth names the zodar his challenger.
 
--   Fighting the Zodar
+## Fighting the Zodar
 
 -   If the characters won the verbal sparring for Xedalli, she leads a chant that gives each character 20 temporary hit points.
--   The zodar has two tactics – hit someone close to it twice and teleport them away or teleport a squishy far away near by and then hit them twice. I’d lean into the latter since characters keeping their distance probably have weaker Constitution saves.
+-   The zodar has two tactics — hit someone close to it twice and teleport them away, or teleport a squishy target far away and then hit them twice. I'd lean into the latter since characters keeping their distance probably have weaker Constitution saves.
 
--   Aftermath
+## Aftermath
 
 -   Read the different box text depending on if the characters defeat the Zodar.
 -   On to the final chapter!
