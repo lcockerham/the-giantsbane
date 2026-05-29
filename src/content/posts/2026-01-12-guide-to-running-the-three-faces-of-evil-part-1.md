@@ -6,7 +6,7 @@ tags:
   - "Guides"
   - "AgeOfWorms"
   - "Greyhawk"
-description: "This is how I changed the Call to Action. Telegraph to your characters that it's meant to be a strong start to introduce a recurring villain, and admit that you are railroading them for the sake of th…"
+description: "Part 1 of the DM guide to The Three Faces of Evil — the modified Call to Action using Balabar Smenk as a coercive villain hook, and detailed notes on infiltrating the Dourstone mine."
 ---
 
 Introduction

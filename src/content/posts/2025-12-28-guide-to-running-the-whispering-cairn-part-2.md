@@ -6,6 +6,7 @@ tags:
   - "Guides"
   - "AgeOfWorms"
   - "Greyhawk"
+description: "Part 2 of the 5e DM guide to The Whispering Cairn — the false tomb's seven-lantern puzzle, the deadly Screaming Mouth trap, the underwater Laborer's area, and Alastor's haunted gauntlet."
 ---
 
 This is the second part of my guide to running The Whispering Cairn from the Age of Worms adventure path, originally published in 2005 in Dungeon 124. Part 2 covers the false tomb and the rest of the Cairn. Part 3 will cover the interlude that requires the characters to leave the Cairn to help put Alaster Land's spirit to rest and access the true tomb.

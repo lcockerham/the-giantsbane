@@ -5,7 +5,7 @@ tags:
   - "Campaigns"
   - "Guides"
   - "DragonHeist"
-description: "I'm ten sessions into a Waterdeep: Dragon Heist campaign. So far, it's been great fun. Here is my Session 0 for the campaign. If I were to amend that based on what I have learned so far, I would add t…"
+description: "Practical lessons from ten sessions of Waterdeep: Dragon Heist — gold pacing, faction assignments, villain selection, season choice, and the best DM's Guild supplements to expand the campaign."
 ---
 
 ![Image of the City of Waterdeep](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4A1Wfwgvzepfe85cchykJFPD8Kv-X68-y-wOFRLxiQn4jI92OnGL6jdqmNbnckFeaKAAn-WOY77jbLYcUVVUYiJ5BJ9Smjmre7MDRVAEoJYt-wUaQW3YhvIAv7ukThbtF9DeC5vOcsCm-_0IQvu8sNMy6_8ZH98CvdV8RWWrnE43K9PUqzA09EjdKApU/w320-h212/Waterdeep.jpg "Waterdeep, City of Splendors")Introduction

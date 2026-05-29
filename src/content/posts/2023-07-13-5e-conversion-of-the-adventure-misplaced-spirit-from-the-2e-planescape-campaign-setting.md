@@ -3,6 +3,7 @@ title: "5e Conversion of the Adventure \"Misplaced Spirit\" from the 2e Planesca
 date: "2023-07-13"
 tags:
   - "Planescape"
+description: "A 5e conversion of Misplaced Spirit, a short introductory 2e Planescape adventure, with scene breakdowns, faction summaries, and stat block recommendations for tiers 2 and 3."
 ---
 
 Misplaced Spirit is a short introductory adventure in the Planescape Campaign Setting. It’s meant to be a good introduction to the setting for the characters, and explain some of the key concepts of the setting - petitioners, competing factions, and the role the powers of different prime worlds play in the setting. First, let’s talk through some of the concepts of Planescape you need to know about for this adventure. I generated first drafts of these sections with ChatGPT, which did a pretty good job concisely explaining the concepts. I fact checked it to the best of my knowledge.

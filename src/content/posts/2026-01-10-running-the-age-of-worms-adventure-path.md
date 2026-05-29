@@ -6,7 +6,7 @@ tags:
   - "Guides"
   - "AgeOfWorms"
   - "Greyhawk"
-description: "This post will collect links to the Age of Worms content I have written in one handy post. I'll update it as I add more posts."
+description: "A master index of all Age of Worms content on this blog — reviews, DM guides for each adventure, and supplements for the classic Greyhawk adventure path, updated as new posts are published."
 ---
 
 This post will collect links to the Age of Worms content I have written in one handy post. I'll update it as I add more posts. I'll also occasionally update where I am at in the conversion process. Today, I have posts scheduled through January (appearing every Sunday) covering the Three Faces of Evil. My conversion of the next adventure, Encounter at Blackwall Keep, is done, and I am running the adventure now. I expect the guides for it to post in February, and I am working on my conversion for the fourth adventure, The Hall of Harsh Reflections, now.

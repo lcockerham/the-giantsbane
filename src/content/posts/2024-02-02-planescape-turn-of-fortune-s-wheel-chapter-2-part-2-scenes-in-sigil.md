@@ -5,9 +5,7 @@ tags:
   - "Campaigns"
   - "Guides"
   - "Planescape"
-description: "Scene 1 happens as soon as the characters leave the
-mortuary. Give the players the provided “Experiencing Sigil” handout and show
-them the map of Sigil to get their bearings. This guide summarizes the…"
+description: “A collection of scenes for the characters' free exploration of Sigil — the Smoldering Corpse Bar, Fell's Tattoos, the Great Bazaar, and the Harmonium encounter that closes the chapter.”
 ---
 
 Scenes in Sigil

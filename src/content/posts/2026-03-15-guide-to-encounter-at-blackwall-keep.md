@@ -6,10 +6,12 @@ tags:
   - "Guides"
   - "AgeOfWorms"
   - "Greyhawk"
-description: "This is a prerty rough outline of the third adventure in the adventure path. It is a fine adventure, and an important connector to the rest of the path, but nothing stands out about it. The siege is f…"
+description: "A guide to running Encounter at Blackwall Keep, the third Age of Worms adventure — the keep siege, the Mistmarsh lizardfolk diplomacy, and the terrifying Spawn of Kyuss confrontation."
 ---
 
-This is a prerty rough outline of the third adventure in the adventure path. It is a fine adventure, and an important connector to the rest of the path, but nothing stands out about it. The siege is fun as its a good chance for players to whip out their 5th level powers. I think the lizardfolk lair would not be fun if the characters took the murder hobo approach. I led them towards sick lizardfolk, and set it up so they just had to fight the chieftan then deal with Ilthane's kobolds. The Spawn is a good capper, and players will be petrified of the worms which creates great tension. On to the guide...Outline
+This is a prerty rough outline of the third adventure in the adventure path. It is a fine adventure, and an important connector to the rest of the path, but nothing stands out about it. The siege is fun as its a good chance for players to whip out their 5th level powers. I think the lizardfolk lair would not be fun if the characters took the murder hobo approach. I led them towards sick lizardfolk, and set it up so they just had to fight the chieftan then deal with Ilthane's kobolds. The Spawn is a good capper, and players will be petrified of the worms which creates great tension. On to the guide...
+
+# Outline
 
 1.  Call to Action
 2.  Random encounters while travelling

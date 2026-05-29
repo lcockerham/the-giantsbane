@@ -6,7 +6,7 @@ tags:
   - "Guides"
   - "AgeOfWorms"
   - "Greyhawk"
-description: "Assuming the players slay all three high priests, the Ebon Aspect wakes up sometime shortly thereafter and attacks when it has the most dramatic effect. My party chose to let the Faceless One escape, …"
+description: "Part 4 of the DM guide to The Three Faces of Evil — the kenku-filled Labyrinth of Vecna, the Faceless One's escape, and a full 5e stat conversion of the Ebon Aspect boss fight."
 ---
 
  Part 4: The Labyrinth of Vecna

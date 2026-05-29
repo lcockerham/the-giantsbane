@@ -4,6 +4,7 @@ date: "2024-05-29"
 tags:
   - "Campaigns"
   - "Spelljammer"
+description: "Guide to Chapter 10 of Light of Xaryxis — the multi-faction fleet battle to reach the Citadel of Xaryxis, with tips for managing ship combat and keeping the session from becoming a combat slog."
 ---
 
 So begins the final part of Light of Xaryxis. This whole last part is a lot of combat with thin slices of high drama.

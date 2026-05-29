@@ -5,6 +5,7 @@ tags:
   - "Guides"
   - "AgeOfWorms"
   - "Greyhawk"
+description: "A player-facing setting guide to Diamond Lake, the corrupt Greyhawk mining town at the heart of the Age of Worms adventure path — key NPCs, rival mine managers, and notable locations."
 ---
 
 ## Diamond Lake: A Greyhawk Mining Town

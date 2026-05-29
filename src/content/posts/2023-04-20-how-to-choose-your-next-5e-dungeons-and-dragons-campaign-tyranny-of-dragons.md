@@ -4,7 +4,7 @@ date: "2023-04-20"
 tags:
   - "Campaigns"
   - "TyrannyOfDragons"
-description: "I've been DMing, playing, and reading fifth edition adventures since the launch of the edition. I decided to write some guides that DMs can use to can use to choose their next adventure. I'll post one…"
+description: "A guide to deciding whether to run Tyranny of Dragons — a classic 5e adventure with a memorable caravan chapter worth stealing for travel even if you skip the rest of the campaign."
 ---
 
 I've been DMing, playing, and reading fifth edition adventures since the launch of the edition. I decided to write some guides that DMs can use to can use to choose their next adventure. I'll post one at a time, then tackle them as a whole at the end. 

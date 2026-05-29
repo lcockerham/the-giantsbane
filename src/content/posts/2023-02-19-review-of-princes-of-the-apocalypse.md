@@ -3,6 +3,7 @@ title: "Review of Princes of the Apocalypse"
 date: "2023-02-19"
 tags:
   - "Review"
+description: "A frank review of Princes of the Apocalypse — too many bland dungeon crawls to recommend running in full, though the Red Larch conspiracy, water cultists, and Weeping Colossus are worth stealing."
 ---
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM63oiPN8wFjO9UvULPX_C79sb6HnTPNh6eUM8eHBbpsLsFrO0srVdF4DcQXw8glaRCN_iw_4PFY-Zf8XfPH4N2yZMkVICMVqh5nYo9SIY4FyN6tcaYjJ-weJe9MqDubA4rKvnYaNxxHBdNKBqqjr76Qabi7MaGv-c_bHZjIco0OofKEOmDIEzRhJl/w450-h111/PotA%20Cover.png)  

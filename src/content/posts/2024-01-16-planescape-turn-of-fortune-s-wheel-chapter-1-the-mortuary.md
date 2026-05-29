@@ -5,6 +5,7 @@ tags:
   - "Campaigns"
   - "Guides"
   - "Planescape"
+description: "Guide to Chapter 1 of Turn of Fortune's Wheel — escaping Sigil's Mortuary, with room-by-room notes, tips for increasing lethality to trigger glitch deaths, and advice on the Morte callback scene."
 ---
 
 ## Welcome Back to the Mortuary

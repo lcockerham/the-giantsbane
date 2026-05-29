@@ -4,6 +4,7 @@ date: "2024-06-12"
 tags:
   - "Guides"
   - "Spelljammer"
+description: "Guide to the final chapter of Light of Xaryxis — the fight against the crowned emperor and their solar dragon, and how to frame the star-destroying ending as a proper victory."
 ---
 
 ## Dying Wish

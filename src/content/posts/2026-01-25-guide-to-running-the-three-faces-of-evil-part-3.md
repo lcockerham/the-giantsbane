@@ -6,7 +6,7 @@ tags:
   - "Guides"
   - "AgeOfWorms"
   - "Greyhawk"
-description: "There are no light sources in the caves, and the ground is difficult terrain everywhere."
+description: "Part 3 of the DM guide to The Three Faces of Evil — the pitch-dark Caves of Erythnul, from the grimlock ambush on the ledge to the showdown with Gralluck Kur's hallucinogenic shrine fire."
 ---
 
  Part 3: The Cave of Erythnul

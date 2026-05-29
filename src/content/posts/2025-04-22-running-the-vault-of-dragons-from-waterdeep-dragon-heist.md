@@ -5,7 +5,7 @@ tags:
   - "Campaigns"
   - "Guides"
   - "DragonHeist"
-description: "I just finished running Waterdeep: Dragon Heist, and wanted to fire off a few quick thoughts about the final part of the adventure, the Vault of Dragons.&nbsp;"
+description: "Post-mortem on running the Vault of Dragons finale of Dragon Heist — tips on the enthralling fresco, negotiating with Aurinax, and balancing the climactic Manshoon fight with Doom Raider backup."
 ---
 
 I just finished running Waterdeep: Dragon Heist, and wanted to fire off a few quick thoughts about the final part of the adventure, the Vault of Dragons. 

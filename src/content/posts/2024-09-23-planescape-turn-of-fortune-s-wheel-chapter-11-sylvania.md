@@ -5,7 +5,7 @@ tags:
   - "Campaigns"
   - "Guides"
   - "Planescape"
-description: "Editor's note: This autopublished on me before I got a chance to finalize it. This is the corrected version!"
+description: "Guide to Sylvania, gate-town to Arborea in Turn of Fortune's Wheel — a roleplay-heavy chapter where the characters babysit a petulant demigod named Kopoha through a series of wild celebrations."
 ---
 
 # Chapter 11:Sylvania

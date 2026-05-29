@@ -5,7 +5,7 @@ tags:
   - "Campaigns"
   - "Guides"
   - "Planescape"
-description: "Before starting this adventure, make sure you have each character's Intelligence (Investigation), Wisdom (Perception) and Wisdom (Insight) scores."
+description: "Guide to Excelsior, the celestial gate-town to Mount Celestia in Turn of Fortune's Wheel — investigating a tiefling selling primes to a night hag, with notes on the tricky glibness-protected interrogation."
 ---
 
 # Chapter 7: Excelsior

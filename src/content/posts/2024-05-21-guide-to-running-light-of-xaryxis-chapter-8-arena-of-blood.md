@@ -4,7 +4,7 @@ date: "2024-05-21"
 tags:
   - "Campaigns"
   - "Spelljammer"
-description: "On to chapter 8. This chapter is pretty straightforward - go to Vocath's base, do a little negotiating, and then fight a gauntlet of foes for Vocath's amusement. And then the BBEG crashes the victory celebration."
+description: "Guide to Chapter 8 of Light of Xaryxis — negotiating with the mercane warlord Vocath, then surviving three escalating arena fights against exotic Wildspace creatures to earn his military alliance."
 ---
 
 On to chapter 8. This chapter is pretty straightforward — go to Vocath's base, do a little negotiating, and then fight a gauntlet of foes for Vocath's amusement. And then the BBEG crashes the victory celebration.

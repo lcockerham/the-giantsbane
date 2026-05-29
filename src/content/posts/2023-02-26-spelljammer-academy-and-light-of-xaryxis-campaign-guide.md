@@ -4,6 +4,7 @@ date: "2023-02-26"
 tags:
   - "Guides"
   - "Spelljammer"
+description: "Session 0 guide for running Spelljammer Academy and Light of Xaryxis — campaign pitch, seven truths about Wildspace, character creation hooks, and safety tool recommendations."
 ---
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC-TAX-2TqICcf98EtOYmKVkw4BfEioeWuzM8CNpH3w9wjFL-FfbW_qomxoUMFIskE-norgEUue8Wkx--AZSMGTc1khoYOUBTrcou2AiOdbeWyc9tTyIqKHFkiAkj73a_tCPUtLdgFlc6tkuBkLnngCFv6KAqEl8axwpUKRfDU14QzU9y6WxiX62K6/s320/spelljammer%20cover.png)

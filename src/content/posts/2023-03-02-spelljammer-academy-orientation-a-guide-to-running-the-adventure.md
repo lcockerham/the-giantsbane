@@ -4,7 +4,7 @@ date: "2023-03-02"
 tags:
   - "Guides"
   - "Spelljammer"
-description: "I'm running Spelljammer Academy for my two DnD groups, and I am posting my prep notes for others to re-use, and updating the posts with learnings from running the game. I'm using the template from Sly…"
+description: "Prep notes for Orientation, the first Spelljammer Academy adventure — an in media res combat start followed by a day of tasks introducing the academy, its NPCs, and a hungover Mirt the Merciless."
 ---
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5u80dkdQ2_W9V2kSgjyDx3G6mq23VZG-TvcCZJeY8z8l_zrlROELTHXJxIcgBo7Lfw5_7SPnxLYHKk73WHHGDoqBqT9ugrOCIC2rc-DVKrFjZyQbk-If1cfVh0lDCEUUao4Py0E7FtRFr_GJ2GN4JTGtBm42psZbJzCEb9cIqo70xzfLwYgzCCDav/s320/orientation.png)  

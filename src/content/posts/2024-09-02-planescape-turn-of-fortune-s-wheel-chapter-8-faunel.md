@@ -5,6 +5,7 @@ tags:
   - "Campaigns"
   - "Guides"
   - "Planescape"
+description: "Guide to Faunel, the half-absorbed beastland gate-town in Turn of Fortune's Wheel — solving the murder of an ibex to track the Vile Hunt gnolls terrorizing the wild, aided by an elephant sage."
 ---
 
 # Chapter 8: Faunel

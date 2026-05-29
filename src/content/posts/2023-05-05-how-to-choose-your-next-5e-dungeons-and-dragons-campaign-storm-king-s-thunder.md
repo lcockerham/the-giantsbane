@@ -4,7 +4,7 @@ date: "2023-05-05"
 tags:
   - "Campaigns"
   - "StormKingsThunder"
-description: "I've been DMing, playing, and reading fifth edition adventures since the launch of the edition. I decided to write some guides that DMs can use to choose their next adventure."
+description: "A guide to deciding whether to run Storm King's Thunder, with a chapter-by-chapter portability breakdown — great building blocks and a fantastic Savage Frontier chapter, but uneven quality throughout."
 ---
 
 I've been DMing, playing, and reading fifth edition adventures since the launch of the edition. I decided to write some guides that DMs can use to choose their next adventure. I'll post one at a time, then tackle them as a whole at the end.

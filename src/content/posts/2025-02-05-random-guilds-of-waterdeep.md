@@ -4,7 +4,7 @@ date: "2025-02-05"
 tags:
   - "Guides"
   - "DragonHeist"
-description: "&nbsp;After the characters opened up the Trollskull, I wanted a way to randomly select a Waterdhavian guild for off-the-cuff scene building. So I went to the Guilds of Waterdeep fandom wiki page and c…"
+description: "A d100 random table of all 44 Waterdhavian guilds for quick scene-building, plus a comparison of how ChatGPT, Gemini, and Claude each generated the table from the same raw guild list."
 ---
 
  After the characters opened up the Trollskull, I wanted a way to randomly select a Waterdhavian guild for off-the-cuff scene building. So I went to the [Guilds of Waterdeep](https://forgottenrealms.fandom.com/wiki/Guilds_of_Waterdeep) fandom wiki page and copied their list. I wanted to get a standard "Roll d100" table in my [notion.so](http://notion.so) Waterdeep project. So I turned to AI to see if they could save me the manual effort of building the table. I'll go ahead and provide the table, then some color on the AI results I got after.

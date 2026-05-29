@@ -5,7 +5,7 @@ tags:
   - "Campaigns"
   - "Guides"
   - "Planescape"
-description: "I'm picking back up posting my in progress guide to running Turn of Fortune's Wheel. I am planning on posting a new gate town each Sunday. I'll have an outline of informatin about each time (including…"
+description: "Guide to Rigus, the militaristic gate-town to Acheron in Turn of Fortune's Wheel — the characters must root out a gray slaad spy before coordinated Acheron attacks exploit the defenders' weaknesses."
 ---
 
 Chapter 10:Rigus 

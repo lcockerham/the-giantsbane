@@ -6,6 +6,7 @@ tags:
   - "Guides"
   - "AgeOfWorms"
   - "Greyhawk"
+description: "Part 1 of the 5e DM guide to The Whispering Cairn — the tomb entrance, wolf den, and Gallery of Seven Lanterns, with room-by-room checks, 5e trap conversions, and stat block recommendations."
 ---
 
 ## Reference Material

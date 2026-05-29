@@ -5,7 +5,7 @@ tags:
   - "Campaigns"
   - "Guides"
   - "Planescape"
-description: "Notes about Glorium"
+description: "Guide to Glorium, the glory-obsessed gate-town to Ysgard in Turn of Fortune's Wheel — games of athletic prowess ashore, then a race across the sea to defend a bariaur village from a massive whirlwyrm."
 ---
 
 # Chapter 9: Glorium

@@ -4,7 +4,7 @@ date: "2024-05-22"
 tags:
   - "Campaigns"
   - "Spelljammer"
-description: "I found this chapter difficult to run. The characters are bystanders in the initial scene and have little agency to change the outcome. Then it's checking a bunch of boxes with very alien factions that the characters haven't seen before."
+description: "Guide to Chapter 9 of Light of Xaryxis — a challenging diplomacy chapter requiring the characters to convince five alien factions to join the war effort, with advice for sharing the spotlight."
 ---
 
 I found this chapter difficult to run. The characters are bystanders in the initial scene and have little agency to change the outcome. Then it's checking a bunch of boxes with very alien factions that the characters haven't seen before. The party's best Charisma (Persuasion) character is going to get all the limelight if you don't work hard to find reasons for other characters to be involved. In retrospect, I would have introduced some of these leaders earlier in the Rock of Bral, and others in the previous chapter. I would pick two factions with similar races to the characters to be the ones that the characters impressed in the arena, and make sure the characters get a chance to interact with them in Chapter 8.

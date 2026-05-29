@@ -6,6 +6,7 @@ tags:
   - "Guides"
   - "AgeOfWorms"
   - "Greyhawk"
+description: "Part 2 of the DM guide to The Three Faces of Evil — a room-by-room breakdown of the Dark Cathedral (Hextor's temple), with a dynamic enemy response table showing how the cult reacts to the intrusion."
 ---
 
 Part 2: The Dark Cathedral

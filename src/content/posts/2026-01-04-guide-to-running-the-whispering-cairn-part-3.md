@@ -6,7 +6,7 @@ tags:
   - "Guides"
   - "AgeOfWorms"
   - "Greyhawk"
-description: "Part Four: The Feral Cock"
+description: "Part 3 of the 5e DM guide to The Whispering Cairn — the outside interlude, interrogating Kullen's grave robbers at the Feral Dog, and defeating Filge the necromancer at the abandoned observatory."
 ---
 
  Guide to Running The Whispering Cairn, Part 3

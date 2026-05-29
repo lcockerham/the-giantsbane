@@ -4,7 +4,7 @@ date: "2023-05-11"
 tags:
   - "Campaigns"
   - "Undermountain"
-description: "I've been DMing, playing, and reading fifth edition adventures since the launch of the edition. I decided to write some guides that DMs can use to can use to choose their next adventure. I'll post one…"
+description: "A guide to deciding whether to run Dungeon of the Mad Mage — the best 5e dungeon crawl with brilliant individual levels, but requiring real DM effort to weave into a coherent narrative."
 ---
 
 I've been DMing, playing, and reading fifth edition adventures since the launch of the edition. I decided to write some guides that DMs can use to can use to choose their next adventure. I'll post one at a time, then tackle them as a whole at the end. 

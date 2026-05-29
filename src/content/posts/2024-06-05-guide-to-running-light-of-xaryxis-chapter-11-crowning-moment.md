@@ -4,6 +4,7 @@ date: "2024-06-05"
 tags:
   - "Guides"
   - "Spelljammer"
+description: "Guide to Chapter 11 of Light of Xaryxis — infiltrating or arriving as prisoners at the Citadel, making the case for Xedalli at the coronation, and fighting the ancient zodar in trial by combat."
 ---
 
 [Guide to Chapter 10 - Space Invaders](/posts/guide-to-running-light-of-xaryxis-chapter-10-space-invaders)

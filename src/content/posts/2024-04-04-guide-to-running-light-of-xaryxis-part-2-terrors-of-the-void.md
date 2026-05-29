@@ -4,7 +4,7 @@ date: "2024-04-04"
 tags:
   - "Campaigns"
   - "Spelljammer"
-description: "Guide to Part 2, Terrors of the Void"
+description: "Guide to Part 2 of Light of Xaryxis — expanded Rock of Bral encounters, recruiting vampirate Grimzod and navigator Topolah, and surviving Hastain the reigar's sabotage that strands the party."
 ---
 
 ## Introduction: Terrors of the Void

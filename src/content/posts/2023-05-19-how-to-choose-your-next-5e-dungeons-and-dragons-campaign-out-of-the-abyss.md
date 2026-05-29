@@ -4,7 +4,7 @@ date: "2023-05-19"
 tags:
   - "Campaigns"
   - "OutOfTheAbyss"
-description: "&nbsp;I've been DMing, playing, and reading fifth edition adventures since the launch of the edition. I decided to write some guides that DMs can use to can use to choose their next adventure. I'll po…"
+description: "A guide to deciding whether to run Out of the Abyss — atmospheric Underdark setting and demon lord showdowns weighed against an unwieldy NPC roster and a structure that frustrates contrarian players."
 ---
 
  I've been DMing, playing, and reading fifth edition adventures since the launch of the edition. I decided to write some guides that DMs can use to can use to choose their next adventure. I'll post one at a time, then tackle them as a whole at the end. 

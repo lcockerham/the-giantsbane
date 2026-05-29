@@ -3,7 +3,7 @@ title: "Dungeons and Dragons Settings 101: Greyhawk"
 date: "2024-10-08"
 tags:
   - "Greyhawk"
-description: "Our group has a very mixed experience level with D&amp;D. This reaction came from Volo showing up to give the characters a quest at the end of our session 0 of Waterdeep: Dragon Heist. But I've seen t…"
+description: "A primer on Greyhawk for players new to D&D lore — covering iconic wizards, famous villains like Vecna and Iggwilv, classic adventures, and key deities of the original D&D setting."
 ---
 
  Dungeons and Dragons Settings 101: Greyhawk

@@ -5,7 +5,7 @@ tags:
   - "Campaigns"
   - "Guides"
   - "Planescape"
-description: "Valek, a tiefling commoner, greets the characters and gives them a letter from Shemeska indicating she is providing accommodation for each of them."
+description: "Guide to Fortune's Wheel casino in Turn of Fortune's Wheel — a room-by-room breakdown of Shemeska's casino, with gambling mechanics, Vecna impersonator thieves, and the hour Shemeska finally appears."
 ---
 
 # Chapter 3: Fortune Favors the Bold

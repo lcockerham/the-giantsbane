@@ -3,6 +3,7 @@ title: "Planescape Factions Quick Reference Sheet"
 date: "2023-07-03"
 tags:
   - "Planescape"
+description: "A quick-reference table of all 15 Planescape factions — listing each faction's nickname, headquarters, philosophy, factol, allies, and enemies for use during Sigil-based play."
 ---
 
 I've been running a high level 5e game in Planescape, and converting a number of the old adventures. Many of the adventures are great, but they tend towards being very hard to run for a number of reasons:

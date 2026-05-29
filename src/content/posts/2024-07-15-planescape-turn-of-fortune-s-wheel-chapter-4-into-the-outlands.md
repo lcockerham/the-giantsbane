@@ -5,7 +5,7 @@ tags:
   - "Campaigns"
   - "Guides"
   - "Planescape"
-description: "In this chapter, the characters will encounter a walking castle they can take control of to journey through the Outlands. The characters must travel to multiple gate towns to add memories to a mimir that will eventually help them find R04M."
+description: "Guide to Chapter 4 of Turn of Fortune's Wheel — securing the walking castle Iedcaru from fiends, learning the mimir quest from the freed sage Zaythir, and the lore of the early Great Modron March."
 ---
 
 In this chapter, the characters will encounter a walking castle they can take control of to journey through the Outlands. The characters must travel to multiple gate towns to add memories to a mimir that will eventually help them find R04M.

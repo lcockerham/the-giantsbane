@@ -4,7 +4,7 @@ date: "2023-04-13"
 tags:
   - "Campaigns"
   - "Guides"
-description: "I've been DMing, playing, and reading fifth edition adventures since the launch of the edition. I decided to write some guides that DMs can use to can use to choose their next adventure. I'll post one…"
+description: "A guide to deciding whether to run Dragon of Icespire Keep — an excellent starter adventure for new DMs and players, with individual quests versatile enough to steal for any low-level Sword Coast campaign."
 ---
 
 I've been DMing, playing, and reading fifth edition adventures since the launch of the edition. I decided to write some guides that DMs can use to can use to choose their next adventure. I'll post one at a time, then tackle them as a whole at the end. The next post will be about Tyranny of Dragons. 

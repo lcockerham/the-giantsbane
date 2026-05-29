@@ -5,6 +5,7 @@ tags:
   - "Review"
   - "AgeOfWorms"
   - "Greyhawk"
+description: "A detailed review of The Whispering Cairn, the first Age of Worms adventure — an excellent tier 1 dungeon crawl with clever trap design, satisfying out-of-dungeon interlude, and important Greyhawk lore."
 ---
 
 # Introduction and Background

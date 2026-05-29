@@ -4,7 +4,7 @@ date: "2023-03-05"
 tags:
   - "Guides"
   - "Spelljammer"
-description: "I'm running Spelljammer Academy for my two DnD groups, and I am posting my prep notes for others to re-use, and updating the posts with learnings from running the game. I'm using the template from Sly…"
+description: "Prep notes for Trial by Fire, the second Spelljammer Academy adventure — a competitive spelljammer simulation followed by sabotage that kills a crew member and implicates an academy cadet."
 ---
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2dPY5h7YfmDg0hD1j8bVLtJlf4MVO8qFW5-ZkKpYLyVpWwxj6JCuDoBP3IW6h_u2YOIJP9BcE1RqFL4aEGYvU2gm5zdYOPO6_XEaRI96iPjD6y82e5-xQA0XvJp79EJI64vvi1IcGoKnpW_evMRXj8nViAta3U4PjYM0l-8wj0VPEMgBMGmhJS5KD/s320/Trial%20By%20Fire.png)

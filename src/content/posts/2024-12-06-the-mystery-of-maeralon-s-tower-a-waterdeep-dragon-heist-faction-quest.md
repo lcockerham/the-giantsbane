@@ -5,7 +5,7 @@ tags:
   - "Campaigns"
   - "Guides"
   - "DragonHeist"
-description: "Barnabus Blastwind of the Watchful Order of Magists and Protectors approaches the party with an urgent request. The Watchful Order has lost contact with Maeralon Silvercord, a reclusive yet respected …"
+description: "A complete Dragon Heist faction quest — The Mystery of Maeralon's Tower, a four-floor wizard tower with a wild magic zone, animated ballista, stone cursed, clockwork iron cobra, and mimic."
 ---
 
 I am running Waterdeep: Dragon Heist for my regular Sunday group. This group is all online and dispersed around the country. However, I organized an in-person Dungeons and Dragons weekend in early November, and a couple folks from the online-only campaign were able to attend in person. So I wanted to run a hybrid game for them...and use my miniatures and terrain!![A group of miniatures approaches a watchtower on a gridded map with a body of water and a bridge.](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVl4Sh6Sg07qwTrQosCEVQ6XL7TOIX2or0Gz5BhlB4Vt7JbQrZiREBJZk3T2uhYP0EyNEt7bLA6jrgbxKS9WftynuLla-Hf058Jh9xGL6_vmMH5lsw4XgO9c_QOXyhXGj1XZqgwmv0X5ak2K7c_QkzPGbmFLd3qm6QaBdlTAC5I2KEizCZb5yg3qusW0U/w240-h320/watchtowe%20blurred%20straight.jpg "The party approaches the tower!")  

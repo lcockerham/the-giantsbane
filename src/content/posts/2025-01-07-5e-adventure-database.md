@@ -3,7 +3,7 @@ title: "5E Adventure Database"
 date: "2025-01-07"
 tags:
   - "Guides"
-description: "&nbsp;As I near Dragon Heist's end, I want to throw random published adventures at my group to continue the campaign.&nbsp; I want to do some pre-planning so I can foreshadow future adventures, but th…"
+description: "A growing Notion database of 5e published adventures rated by quality and portability — currently covering Storm King's Thunder, Dungeon of the Mad Mage, and Tales from the Yawning Portal."
 ---
 
  As I near Dragon Heist's end, I want to throw random published adventures at my group to continue the campaign.  I want to do some pre-planning so I can foreshadow future adventures, but there are so many anthologies and parts of adventures to use. So I decided to start building an adventure database for everything published in 5E so I can look over everything at a glance. I assume if it's useful for me, it will be useful for others. Since I have read, played, or run a significant number of the published 5E content, I can also provide some context on how I feel about each adventure.

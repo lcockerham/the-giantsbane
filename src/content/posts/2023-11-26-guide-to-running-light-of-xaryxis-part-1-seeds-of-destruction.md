@@ -5,7 +5,7 @@ tags:
   - "Campaigns"
   - "Guides"
   - "Spelljammer"
-description: "I'm about to restart my Spelljammer campaign. I ran Spelljammer Academy as a break from my long running campaign, and now that the main campaign has wrapped up, I am shifting back to running Light of Xaryxis."
+description: "Guide to Part 1 of Light of Xaryxis — escaping the astral seed attack on Faerun, a space battle with an astral elf Star Moth, and exploring the dangerous derelict mind flayer ship Lucent Edict."
 ---
 
 I'm about to restart my Spelljammer campaign. I ran Spelljammer Academy as a break from my long running campaign, and now that the main campaign has wrapped up, I am shifting back to running Light of Xarysis. I'm going to post my prep for others to re-use. I'm definitely going to add some ties back to Spelljammer Academy. The first post will cover part 1: Seeds of destruction. You can also find my entire Notion workbook [here](https://noble-crib-29a.notion.site/SpellJammer-Generic-0ab8fb36a75c49fdb35b7a46c206824e) if you would like to copy it for your own campaign. Credit to [SlyFlourish](https://slyflourish.com/lazy_dnd_with_notion.html) for the Notion template.

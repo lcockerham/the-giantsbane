@@ -3,7 +3,7 @@ title: "How to Choose Your Next DnD adventure: Ghosts of Saltmarsh"
 date: "2023-05-26"
 tags:
   - "Campaigns"
-description: "I've been DMing, playing, and reading fifth edition adventures since the launch of the edition. I decided to write some guides that DMs can use to can use to choose their next adventure. I'll post one…"
+description: "A guide to deciding whether to run Ghosts of Saltmarsh — a great coastal home base and several standout sub-adventures, but thin connective tissue that requires significant DM work to hold together."
 ---
 
 I've been DMing, playing, and reading fifth edition adventures since the launch of the edition. I decided to write some guides that DMs can use to can use to choose their next adventure. I'll post one at a time, then tackle them as a whole at the end. 

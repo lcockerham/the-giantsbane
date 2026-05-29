@@ -5,6 +5,7 @@ tags:
   - "Campaigns"
   - "Guides"
   - "Planescape"
+description: "Guide to Automata, the orderly gate-town to Mechanus in Turn of Fortune's Wheel — tracking a fugitive through the anarchic Inverse, the chaotic underground reflection of the modron-run city above."
 ---
 
 # Chapter 5: Automata

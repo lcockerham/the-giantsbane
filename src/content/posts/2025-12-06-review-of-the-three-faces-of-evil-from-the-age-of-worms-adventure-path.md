@@ -5,7 +5,7 @@ tags:
   - "AgeOfWorms"
   - "Campaigns"
   - "Greyhawk"
-description: "&nbsp; See my review of the first adventure, The Whispering Cairn, here.&nbsp;"
+description: "A detailed review of The Three Faces of Evil, the second Age of Worms adventure — a dungeon crawl through three evil cults that is better than its lackluster reputation suggests."
 ---
 
   See my review of the first adventure, The Whispering Cairn, [here](https://thegiantsbane.blogspot.com/2025/08/review-of-whipering-cairn-from-age-of.html). 

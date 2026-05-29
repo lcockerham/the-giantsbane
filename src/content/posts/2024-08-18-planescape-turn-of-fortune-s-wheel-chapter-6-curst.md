@@ -5,6 +5,7 @@ tags:
   - "Campaigns"
   - "Guides"
   - "Planescape"
+description: "Guide to Curst, the prison gate-town to Carceri in Turn of Fortune's Wheel — a jailbreak through a junkyard to smuggle a ghostly son past Mercykiller agents so he can reach his rightful afterlife."
 ---
 
 # Chapter 6: Curst

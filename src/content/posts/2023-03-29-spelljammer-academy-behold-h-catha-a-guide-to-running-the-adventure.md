@@ -4,7 +4,7 @@ date: "2023-03-29"
 tags:
   - "Guides"
   - "Spelljammer"
-description: "Part 1:&nbsp;Orientation"
+description: "Prep notes for Behold H'Catha, the third Spelljammer Academy adventure — negotiating with spectators over a meteorite on the beholder world, with tips on cutting the awkward Journey Interrupted encounter."
 ---
 
 ![Adventurer's beholding H'Catha](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj9FfyPaz5rXzHul9_TDbUKxtOhoQB36Ytl1aBvZv2cV-Dqet40wZ84BGP6wCpu4gWTs2Oauqt6wY4-GCmONngONdr5rpxYnLcpHtsozat1UXmZ6YQ-tRC5KdI1NA1hXDDDPhncaQfXT9ODizSl33VoOtof3i_DFlX1drHST7s15BD0PlgkYPVEq8y/w320-h236/H'Catha.png "Adventurer's beholding H'Catha")

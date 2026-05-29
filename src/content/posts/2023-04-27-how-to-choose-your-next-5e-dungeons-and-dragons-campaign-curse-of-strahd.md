@@ -4,7 +4,7 @@ date: "2023-04-27"
 tags:
   - "Campaigns"
   - "CurseOfStrahd"
-description: "I've been DMing, playing, and reading fifth edition adventures since the launch of the edition. I decided to write some guides that DMs can use to can use to choose their next adventure. I'll post one…"
+description: "A guide to deciding whether to run Curse of Strahd — widely considered the best 5e adventure, with an unmatched sandbox and villain, but too challenging for first-time DMs to tackle."
 ---
 
 I've been DMing, playing, and reading fifth edition adventures since the launch of the edition. I decided to write some guides that DMs can use to can use to choose their next adventure. I'll post one at a time, then tackle them as a whole at the end. 

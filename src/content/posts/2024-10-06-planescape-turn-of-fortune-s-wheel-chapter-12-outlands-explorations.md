@@ -5,7 +5,7 @@ tags:
   - "Campaigns"
   - "Guides"
   - "Planescape"
-description: "Chapter 11: Sylvania"
+description: "Guide to the final chapter of Part 2 of Turn of Fortune's Wheel — the Mausoleum of Chronepsis time dragon encounters, Semuanya's Bog, and notes on optional Outlands locations."
 ---
 
 Planescape: Turn of Fortune's Wheel Chapter 12: Outlands Explorations 

@@ -3,7 +3,7 @@ title: "Building The Mystery of Maeralon's Tower with ChatGPT"
 date: "2024-12-19"
 tags:
   - "DragonHeist"
-description: "In my last post in this series, I said I wanted to do a hybrid game using a cool set piece from my terrain collection. That was the seed for the adventure. It didn't take long for me to decide I wante…"
+description: "An honest look at using ChatGPT to flesh out a custom Dragon Heist adventure, covering what AI does well (saving prep time) and poorly (magic item balance and WotC house style)."
 ---
 
 Adventure Seeding

@@ -4,7 +4,7 @@ date: "2023-03-23"
 tags:
   - "Guides"
   - "Spelljammer"
-description: "Part 1: Orientation"
+description: "Prep notes for Realmspace Sortie, the third Spelljammer Academy adventure — commandeering a tyrant ship, battling clockwork horrors, and uncovering Miken Haverstance as the academy saboteur."
 ---
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8XnU_TISuSdaz6OiL7cRaNf62EvcPVNuSIgAXgFDS-_Ymqy91029ccUNVIYfxMmt36yubDgizD4_QYnlrkVN3qU8wW2cbhkIfO30G0EHXSM1gZKTbA3HYlMSuQCSl7PmH0xrEIXp3toXhMySb-HgchUK5z97noQudrNPDmWVbo-66RrTKhN6K1EOx/s320/Tyrant%20Ship.png)

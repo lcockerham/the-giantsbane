@@ -5,6 +5,7 @@ tags:
   - "Campaigns"
   - "Guides"
   - "Planescape"
+description: "Announcement of the DM's Guild release of the comprehensive guide to Part 2 of Planescape: Turn of Fortune's Wheel, collecting all the Outlands gate-town chapters in one PDF."
 ---
 
 Attention 5e Planescape enthusiasts! I'm excited to announce the release of my latest title on DM's Guild: **[DM's Guide to Planescape: Turn of Fortune's Wheel, Part 2](https://www.dmsguild.com/product/492360/DMs-Guide-to-Turn-of-Fortunes-Wheel-Part-2)**. This comprehensive guide will make running Part 2 of Turn of Fortune's Wheel much easier by outlining the adventure and providing guidance on how to improve the adventure.![Cover page with art by Dean Spencer](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwK4pQGVUhwJdXvqBt5zCWXReDHJ1yIvt_-Dra79pj7wa-nhm8IZKckLe5Etx_Inf1m2NTfMN-WK7vTyM4dOV7VVIjcSSLOJAKQt2AgMot19ym6UzynicO4rW5bucazbHa0_DvXCbggcazshZsjCboQc38KyqhpA-4CGC_AiWZb65kaqbq1bQGXA4gVCM/w223-h320/Part%202%20cover%20image.png "Characters contend with a portal on the cover of the guide")  

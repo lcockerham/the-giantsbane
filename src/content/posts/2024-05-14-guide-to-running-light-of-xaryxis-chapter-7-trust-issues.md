@@ -4,6 +4,7 @@ date: "2024-05-14"
 tags:
   - "Campaigns"
   - "Spelljammer"
+description: "Guide to Chapter 7 of Light of Xaryxis — a character-driven travel chapter to Doomspace, building bonds with the NPC crew and a memorable Deck of Many Things fortune-telling with Topolah."
 ---
 
 ## Chapter 7: Trust Issues

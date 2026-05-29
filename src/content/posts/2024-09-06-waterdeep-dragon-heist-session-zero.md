@@ -5,6 +5,7 @@ tags:
   - "Campaigns"
   - "Guides"
   - "DragonHeist"
+description: "Session 0 guide for a Waterdeep: Dragon Heist campaign — six truths about Waterdeep, house rules for the 2024 Player's Handbook, faction options, and safety tools for an urban investigation adventure."
 ---
 
 # A New Campaign
