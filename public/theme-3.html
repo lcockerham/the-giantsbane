@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Theme 3 — Midnight Arcane</title>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700&family=Cinzel:wght@400;600&family=Crimson+Text:ital,wght@0,400;1,400&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body { background: #080c1a; color: #d0d8f0; font-family: 'Crimson Text', Georgia, serif; font-size: 18px; line-height: 1.8; }
+a { color: inherit; text-decoration: none; }
+
+header { background: #0c1228; border-bottom: 1px solid #1e2d5a; padding: 16px 40px; display: flex; justify-content: space-between; align-items: center; }
+.site-title { font-family: 'Cinzel Decorative', serif; font-size: 18px; font-weight: 700; color: #a78bfa; letter-spacing: 0.03em; text-shadow: 0 0 20px rgba(167,139,250,0.4); }
+nav { display: flex; gap: 28px; font-family: 'Cinzel', serif; font-size: 12px; letter-spacing: 0.1em; }
+nav a { color: #7c8db0; }
+nav a:hover { color: #a78bfa; }
+
+main { max-width: 1100px; margin: 0 auto; padding: 48px 40px; }
+.page-header { margin-bottom: 40px; }
+.page-header h1 { font-family: 'Cinzel Decorative', serif; font-size: 30px; color: #a78bfa; margin-bottom: 10px; text-shadow: 0 0 30px rgba(167,139,250,0.3); }
+.page-header p { color: #7c8db0; font-size: 16px; font-style: italic; }
+
+.grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+.card { background: #0c1228; border: 1px solid #1e2d5a; border-radius: 8px; padding: 20px; position: relative; overflow: hidden; transition: border-color 0.2s, box-shadow 0.2s; }
+.card::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 2px; background: linear-gradient(90deg, transparent, #a78bfa, transparent); opacity: 0; transition: opacity 0.2s; }
+.card:hover { border-color: #3b4d8a; box-shadow: 0 0 20px rgba(167,139,250,0.1); }
+.card:hover::before { opacity: 1; }
+.tags { display: flex; gap: 6px; margin-bottom: 10px; flex-wrap: wrap; }
+.tag { font-family: 'Cinzel', serif; font-size: 10px; color: #a78bfa; border: 1px solid #2a1f5a; padding: 2px 7px; border-radius: 12px; letter-spacing: 0.06em; background: rgba(167,139,250,0.08); }
+.card h2 { font-family: 'Cinzel', serif; font-size: 15px; font-weight: 600; color: #d0d8f0; line-height: 1.4; margin-bottom: 8px; }
+.card time { font-family: 'Cinzel', serif; font-size: 10px; color: #7c8db0; display: block; margin-bottom: 8px; letter-spacing: 0.06em; }
+.card p { font-size: 14px; color: #7c8db0; line-height: 1.6; }
+
+footer { background: #0c1228; border-top: 1px solid #1e2d5a; padding: 40px; margin-top: 48px; }
+footer .inner { max-width: 1100px; margin: 0 auto; display: grid; grid-template-columns: repeat(3, 1fr); gap: 32px; font-size: 14px; }
+footer h3 { font-family: 'Cinzel', serif; font-size: 11px; color: #a78bfa; letter-spacing: 0.12em; margin-bottom: 14px; text-transform: uppercase; }
+footer ul { list-style: none; }
+footer li { margin-bottom: 7px; }
+footer a { color: #7c8db0; }
+footer a:hover { color: #d0d8f0; }
+</style>
+</head>
+<body>
+<header>
+  <div class="site-title">The Giantsbane</div>
+  <nav><a href="#">Home</a><a href="#">Archive</a><a href="#">Tags</a><a href="#">RSS</a></nav>
+</header>
+<main>
+  <div class="page-header">
+    <h1>The Giantsbane</h1>
+    <p>A dungeon master's resource for running published D&amp;D adventures — guides, reviews, and 5e conversions.</p>
+  </div>
+  <div class="grid">
+    <div class="card">
+      <div class="tags"><span class="tag">AgeOfWorms</span><span class="tag">Guides</span></div>
+      <h2>Guide to Encounter at Blackwall Keep</h2>
+      <time>March 14, 2026</time>
+      <p>A rough outline of the third adventure. The siege is a good chance for players to whip out their 5th level powers.</p>
+    </div>
+    <div class="card">
+      <div class="tags"><span class="tag">AgeOfWorms</span><span class="tag">Guides</span></div>
+      <h2>Guide to Running Three Faces of Evil, Part 4</h2>
+      <time>February 1, 2026</time>
+      <p>The Labyrinth of Vecna and the Ebon Aspect boss fight — one of the most climactic encounters in the path.</p>
+    </div>
+    <div class="card">
+      <div class="tags"><span class="tag">AgeOfWorms</span><span class="tag">Guides</span></div>
+      <h2>Guide to Running Three Faces of Evil, Part 3</h2>
+      <time>January 25, 2026</time>
+      <p>The Cave of Erythnul exploration guide — navigating the dangerous cult stronghold's innermost sanctum.</p>
+    </div>
+    <div class="card">
+      <div class="tags"><span class="tag">Planescape</span><span class="tag">Campaigns</span></div>
+      <h2>Planescape: Turn of Fortune's Wheel — Ch. 12</h2>
+      <time>October 6, 2024</time>
+      <p>Outlands explorations and closing out a sprawling Planescape campaign. Notes on long arc resolution.</p>
+    </div>
+    <div class="card">
+      <div class="tags"><span class="tag">Spelljammer</span><span class="tag">Review</span></div>
+      <h2>Spelljammer Academy Review: D&amp;D Meets Star Trek</h2>
+      <time>April 6, 2023</time>
+      <p>Does the free Spelljammer Academy adventure series deliver? A complete review of all four chapters.</p>
+    </div>
+    <div class="card">
+      <div class="tags"><span class="tag">Greyhawk</span><span class="tag">Guides</span></div>
+      <h2>Running the Age of Worms Adventure Path</h2>
+      <time>January 10, 2026</time>
+      <p>A hub post collecting all Age of Worms content, with links to reviews, guides, and supplements.</p>
+    </div>
+  </div>
+</main>
+<footer>
+  <div class="inner">
+    <div><h3>About</h3><p style="color:#7c8db0;line-height:1.7;">Lucas Cockerham has been DMing since 1997. His <em>Dragon of Icespire Peak</em> guide achieved Gold status on DM's Guild.</p></div>
+    <div><h3>On DM's Guild</h3><ul><li><a href="#">Dragon of Icespire Peak ★ Gold</a></li><li><a href="#">Turn of Fortune's Wheel Pt. 1</a></li><li><a href="#">Turn of Fortune's Wheel Pt. 2</a></li><li><a href="#" style="opacity:0.45;">All 10 products →</a></li></ul></div>
+    <div><h3>Recommended</h3><ul><li><a href="#">DMDavid</a></li><li><a href="#">Sly Flourish</a></li></ul></div>
+  </div>
+</footer>
+</body>
+</html>
