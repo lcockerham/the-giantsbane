@@ -8,7 +8,7 @@ tags:
 description: "Session 0 guide for a Waterdeep: Dragon Heist campaign — six truths about Waterdeep, house rules for the 2024 Player's Handbook, faction options, and safety tools for an urban investigation adventure."
 ---
 
-# A New Campaign
+## A New Campaign
 
 One of my groups recently finished Light of Xaryxis (I hope I never have to think about spelling that word correctly again), and with the 2024 ruleset fresh out, I demurred on trying something different (I still have my eye on you, Lost Caravan) to play another campaign I have been wanting to run - Waterdeep. I'm going to use Dragon Heist for at least part of the campaign, but I am interested in making Waterdeep the central character of the campaign and really exploring the area in and around where the characters will be located. I want to dive into my copies of old books set in and around Waterdeep for lots of ideas to flesh things out. I also want a campaign I can run when only a small number of folks are available - we'll advance the main plot when most players are present and do little side stories I seed out of random tables and character's backgrounds on the fly. Hopefully we kick it off this Sunday - thus, here is the session 0 for my players!
 
@@ -18,11 +18,11 @@ I borrowed several things in this post from SlyFlourish's excellent Session Zero
 
   
 
-![City of Spledors: Waterdeep](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQJIr7rCvKBOJ2IURqqvfVPI1n0ssVWSU995J1yI5uLGasQ6X1yQkYC6TaMPTvEk-tHR8-QKwWYITHrZgLwAmj3LtKj-obNHj0GlEdAdKliIGMGQPjhfWYjxVv4b8m-HXxtxdBH9NGeWDehdJ7NJIZe8qrcKAZ1_npesyteDqaRWpNDpmGXAIMpBH7GTk/w247-h320/City_of_Splendors,_Waterdeep_\(D&D_manual\).jpg "The cover to one of my favorite books")  
+![City of Splendors: Waterdeep](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQJIr7rCvKBOJ2IURqqvfVPI1n0ssVWSU995J1yI5uLGasQ6X1yQkYC6TaMPTvEk-tHR8-QKwWYITHrZgLwAmj3LtKj-obNHj0GlEdAdKliIGMGQPjhfWYjxVv4b8m-HXxtxdBH9NGeWDehdJ7NJIZe8qrcKAZ1_npesyteDqaRWpNDpmGXAIMpBH7GTk/w247-h320/City_of_Splendors,_Waterdeep_\(D&D_manual\).jpg "The cover to one of my favorite books")  
 
   
 
-# Session Zero
+## Session Zero
 
 ## Campaign Elevator Pitch
 

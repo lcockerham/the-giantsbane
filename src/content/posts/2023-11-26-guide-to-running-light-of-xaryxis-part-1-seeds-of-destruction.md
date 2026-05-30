@@ -14,7 +14,7 @@ I'm about to restart my Spelljammer campaign. I ran Spelljammer Academy as a bre
 
 ![A scene of terror as Astral Seeds explode into crystalline formations around Baldur's Gate](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCuuGLSmWjgnfwsCzQyNWZom33AoNDwC9n8-eADmfpqYrD04waZe6_day8Wu5U_1aHtmDutYB7TzuFgXqiyHYbSOd6s6KksnMZwlAuECdUALwMsugklRTK_aQ54MHNC97RAcjX3CBiZUTeh2Wozv4KcmVyC7VgVcKqbyyzhDKPrulbepGg_SeA4ZHMYxI/w241-h320/09-001.part-one-splash.jpg "Seeds of Destruction")
 
-# Outline/Scenes
+## Outline/Scenes
 
 -   Chapter 1: Astral Rain
     -   Astral Rain

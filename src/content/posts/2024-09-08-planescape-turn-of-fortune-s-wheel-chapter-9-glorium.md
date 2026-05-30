@@ -8,7 +8,7 @@ tags:
 description: "Guide to Glorium, the glory-obsessed gate-town to Ysgard in Turn of Fortune's Wheel — games of athletic prowess ashore, then a race across the sea to defend a bariaur village from a massive whirlwyrm."
 ---
 
-# Chapter 9: Glorium
+## Chapter 9: Glorium
 
 [Chapter 8: Faunel](https://thegiantsbane.blogspot.com/2024/09/planescape-turn-of-fortunes-wheel.html)
 

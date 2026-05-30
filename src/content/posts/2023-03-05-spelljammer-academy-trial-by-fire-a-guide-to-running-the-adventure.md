@@ -76,7 +76,9 @@ Check off when revealed.
 -   “It seems like Miken is nervous about something besides the academy, like something he is hiding.”
 -   “Vocath is a Mercane, some kind of space giant, who has a grudge against Mirt. I hear it has something to do with an astral elf lady.“
 
-NPCs-   Review NPCs
+NPCs
+
+-   Review NPCs
 
 -   Boatswain Tarto
 -   Saerthe Abizjn

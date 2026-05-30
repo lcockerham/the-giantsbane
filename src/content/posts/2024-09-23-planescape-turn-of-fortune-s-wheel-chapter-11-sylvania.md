@@ -8,7 +8,7 @@ tags:
 description: "Guide to Sylvania, gate-town to Arborea in Turn of Fortune's Wheel — a roleplay-heavy chapter where the characters babysit a petulant demigod named Kopoha through a series of wild celebrations."
 ---
 
-# Chapter 11:Sylvania
+## Chapter 11: Sylvania
 
 [Chapter 10: Rigus](https://thegiantsbane.blogspot.com/2024/09/planescape-turn-of-fortunes-wheel_0679974179.html)
 

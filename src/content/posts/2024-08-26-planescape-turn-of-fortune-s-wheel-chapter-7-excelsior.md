@@ -8,7 +8,7 @@ tags:
 description: "Guide to Excelsior, the celestial gate-town to Mount Celestia in Turn of Fortune's Wheel — investigating a tiefling selling primes to a night hag, with notes on the tricky glibness-protected interrogation."
 ---
 
-# Chapter 7: Excelsior
+## Chapter 7: Excelsior
 
 [Chapter 6: Curst](https://thegiantsbane.blogspot.com/2024/08/planescape-turn-of-fortunes-wheel_01713720547.html)
 

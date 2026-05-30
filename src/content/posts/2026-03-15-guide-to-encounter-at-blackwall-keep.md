@@ -11,7 +11,7 @@ description: "A guide to running Encounter at Blackwall Keep, the third Age of W
 
 This is a prerty rough outline of the third adventure in the adventure path. It is a fine adventure, and an important connector to the rest of the path, but nothing stands out about it. The siege is fun as its a good chance for players to whip out their 5th level powers. I think the lizardfolk lair would not be fun if the characters took the murder hobo approach. I led them towards sick lizardfolk, and set it up so they just had to fight the chieftan then deal with Ilthane's kobolds. The Spawn is a good capper, and players will be petrified of the worms which creates great tension. On to the guide...
 
-# Outline
+## Outline
 
 1.  Call to Action
 2.  Random encounters while travelling
@@ -22,7 +22,7 @@ This is a prerty rough outline of the third adventure in the adventure path. It 
 
 Oerth Map: [https://www.annabmeyer.com/576cy-easyzoom/](https://www.annabmeyer.com/576cy-easyzoom/)
 
-# Call to Action
+## Call to Action
 
 Allustan needs to visit the wizard Marzena at Blackwell Keep to discuss her report of disturbing green worms they have been finding. It's dangerous enough that he needs an escort.
 
@@ -34,7 +34,7 @@ I used the One Ring journey rules to travel to Blackwall Keep, and then used the
 
 ![](https://blogger.googleusercontent.com/img/a/AVvXsEiWB25CeFCCoy6QGZp2s644JnatsZZohgMbufzccnjuzyGcohMUzBHn0QLia-rpcHtAAMs9vmazcrYOXFNRraJKErwkhWfUfZYjl-xIEJAWPxfHzGeneTiaGBkU7whR-Pyd-Vo_5iwKMyLDz0nxGEYDmOAqe8CNV42JXqrcHRHvuu7qa1ITt_MXIQrPwzs)  
 
-# The Siege of Blackwall Keep
+## The Siege of Blackwall Keep
 
 -   Flies and smoke signal the siege up ahead.
 -   30 Lizardfolk [scaleshields](https://www.dndbeyond.com/monsters/313030-lizardfolk-scaleshield) surround the keep with 2 of their leaders, a [Geomancer](https://www.dndbeyond.com/monsters/5195107-lizardfolk-geomancer) named Shest and a [Render](https://www.dndbeyond.com/monsters/313028-lizardfolk-render) named Kushak.

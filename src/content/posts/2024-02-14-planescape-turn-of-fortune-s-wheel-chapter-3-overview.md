@@ -8,7 +8,7 @@ tags:
 description: "Guide to Fortune's Wheel casino in Turn of Fortune's Wheel — a room-by-room breakdown of Shemeska's casino, with gambling mechanics, Vecna impersonator thieves, and the hour Shemeska finally appears."
 ---
 
-# Chapter 3: Fortune Favors the Bold
+## Chapter 3: Fortune Favors the Bold
 
 ### Scene: Valek the Bellhop
 

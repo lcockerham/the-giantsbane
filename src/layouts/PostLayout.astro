@@ -27,7 +27,7 @@ const formattedDate = date.toLocaleDateString('en-US', {
           {tags.map((tag) => (
             <a
               href={`/tags/${tag.toLowerCase()}`}
-              class="font-cinzel text-xs text-pit-500 bg-pit-800 px-2 py-0.5 tracking-wider uppercase hover:text-crimson transition-colors"
+              class="font-cinzel text-xs text-dim bg-pit-800 px-2 py-0.5 tracking-wider uppercase hover:text-crimson transition-colors"
             >
               {tag}
             </a>
@@ -92,7 +92,7 @@ const formattedDate = date.toLocaleDateString('en-US', {
         {tags.length > 0 && (
           <div class="flex gap-2">
             {tags.map((tag) => (
-              <a href={`/tags/${tag.toLowerCase()}`} class="font-cinzel text-xs text-pit-500 hover:text-crimson transition-colors tracking-wider uppercase">
+              <a href={`/tags/${tag.toLowerCase()}`} class="font-cinzel text-xs text-dim hover:text-crimson transition-colors tracking-wider uppercase">
                 {tag}
               </a>
             ))}

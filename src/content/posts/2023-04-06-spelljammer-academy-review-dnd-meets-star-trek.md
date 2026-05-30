@@ -9,7 +9,7 @@ description: "A review of Spelljammer Academy, the limited-release promo adventu
 
 ![Cover Logo to Spelljammer Academy](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4sVLnYkuJLyEFdgpJWWBRJ-PlH0W3NWscMFttPwVqo2zd9ZW84lOd94psh9Tm-U5uutMQX_UyH7hGll1ovhpPEYI0WzGizSvCgCJihNGatkjaUiAPPI6nII9Eii6hiR0uCDOorTpzzyKCxfQuZ2topggCivaV8_e70Sq8OrWV7rBuvKPkl1RzL2KI/w320-h79/Spelljammer%20Academy.png)  
 
-# Summary
+## Summary
 
 Spelljammer Academy is an adventure released on [dndbeyond](https://www.dndbeyond.com/claim/source/spelljammer-academy) to coincide with the physical release of [Spelljammer: Adventures in Space](https://dnd.wizards.com/products/spelljammer). It was available as a promotion for a limited time, and it appears if you did not claim it in that time, there is currently no way to get access to it. So its probably not the best product to do a review of, but at least this can help folks who got the promo and haven't played it yet. 
 
@@ -35,6 +35,6 @@ I played the first two mini adventurers as part of a [Virtual Play Weekend](http
 -   The adventure is railroaded by design, which may not appeal to players who prefer a more open-ended experience.
 -   I'd cut "Journey Interrupted" from Behold H'Catha in favor of the beholder zombie encounter. The characters can spot (and try to attack) a ship that's supposed to show up in the final encounter. Its just not worth the hassle to have an encounter that will either easily be resolved with dialogue, or devolve into a "The monster is going to fight you no matter what you do." kind of encounter. 
 
-# Final Thoughts
+## Final Thoughts
 
 Spelljammer Academy is a delightful introduction to the world of Spelljammer, offering players a chance to quickly advance their characters and familiarize themselves with the setting. While it has some shortcomings, it's an enjoyable and accessible way to prepare for the Light of Xaryxis adventure. If you were lucky enough to claim the promotional adventure during its limited release, it's well worth a playthrough with your group.

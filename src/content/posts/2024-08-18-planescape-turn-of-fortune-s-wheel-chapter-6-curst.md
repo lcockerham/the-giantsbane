@@ -8,7 +8,7 @@ tags:
 description: "Guide to Curst, the prison gate-town to Carceri in Turn of Fortune's Wheel — a jailbreak through a junkyard to smuggle a ghostly son past Mercykiller agents so he can reach his rightful afterlife."
 ---
 
-# Chapter 6: Curst
+## Chapter 6: Curst
 
 [Chapter 5: Automata](https://thegiantsbane.blogspot.com/2024/08/planescape-turn-of-fortunes-wheel.html)
 

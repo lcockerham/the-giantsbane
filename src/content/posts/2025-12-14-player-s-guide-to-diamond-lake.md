@@ -23,7 +23,7 @@ Diamond Lake began as a treasure seeker's outpost, as many cairns dot the surrou
 
 #### Governor-Mayor Lanod Neff
 
-_![](https://blogger.googleusercontent.com/img/a/AVvXsEi-JO-jdAvBkYHVR2oROwMFUuZhwPMSIpklHV1ytlh9XLdHNCVUnlPpxMt8rScBi7kDMqPN3a-GaFMYNj_33oaQUA9wY3GBEdskLCz0Hu5mp4tLhJUBRDq4TUH6DnUKhVZ1bzEeMDsUCG_fnSlLN3PC9XBu2T8_jW9B5msZuNw-O2GUD9R1LvUoJi2jwGw)_
+![](https://blogger.googleusercontent.com/img/a/AVvXsEi-JO-jdAvBkYHVR2oROwMFUuZhwPMSIpklHV1ytlh9XLdHNCVUnlPpxMt8rScBi7kDMqPN3a-GaFMYNj_33oaQUA9wY3GBEdskLCz0Hu5mp4tLhJUBRDq4TUH6DnUKhVZ1bzEeMDsUCG_fnSlLN3PC9XBu2T8_jW9B5msZuNw-O2GUD9R1LvUoJi2jwGw)
 
 The main agent of the Free City in Diamond Lake is a lecherous philanderer who prefers to ignore problems until they go away.
 
@@ -50,13 +50,13 @@ A relative newcomer, Balabar seeks to monopolize mining in town by driving his c
 
 **Ragnolin Daggerstone**
 
-_![](https://blogger.googleusercontent.com/img/a/AVvXsEh2rNfuJ5eJMfh_iED0s2h9cCxux02gyb9WoyGWstXJjNjiCS2LvpS1-YX6e6qb3XnovqMzAdYUxi_Vq1GYFfOEwQ745fT_GQDla4bJ_3eTEVGxnbSMf_RaApbnTckwHA3a_XTCycwoSFNmKYmLEoYgW2h6lb6sIujhp9zxEIuEu1KjQd0l2974dxfwdbA)_
+![](https://blogger.googleusercontent.com/img/a/AVvXsEh2rNfuJ5eJMfh_iED0s2h9cCxux02gyb9WoyGWstXJjNjiCS2LvpS1-YX6e6qb3XnovqMzAdYUxi_Vq1GYFfOEwQ745fT_GQDla4bJ_3eTEVGxnbSMf_RaApbnTckwHA3a_XTCycwoSFNmKYmLEoYgW2h6lb6sIujhp9zxEIuEu1KjQd0l2974dxfwdbA)
 
 Ragnolin moved here 50 years ago from the Dwarven community of Greysmere, and has a successful ore mining and smelting operation.
 
 **Chaum Gansworth**
 
-_![](https://blogger.googleusercontent.com/img/a/AVvXsEjqLoZ10auXESUVFnAdS3vVt2nSb7D9MpGsQbNEBp80Dztr1FZL0CHCeZd135DMtlvqjfdNf8L2gz6nYRxNjH8D3RjpzWK4mxCPuFyQ_5TSPQoDWA6GErKF2mZTSBj_ufKTYszM3Q5f1Ay-4FUdbELA7tGGjIgB5Y_8BUTaG1G3VzG1bO9bwUGPlpWMKZE)_
+![](https://blogger.googleusercontent.com/img/a/AVvXsEjqLoZ10auXESUVFnAdS3vVt2nSb7D9MpGsQbNEBp80Dztr1FZL0CHCeZd135DMtlvqjfdNf8L2gz6nYRxNjH8D3RjpzWK4mxCPuFyQ_5TSPQoDWA6GErKF2mZTSBj_ufKTYszM3Q5f1Ay-4FUdbELA7tGGjIgB5Y_8BUTaG1G3VzG1bO9bwUGPlpWMKZE)
 
 The newest mine manager, Chaum is in an (for his part) uncommitted relationship with Luzane Parrin. He's highly pragmatic and skeptical of the other mine managers' ability to stand up to Smenk.
 

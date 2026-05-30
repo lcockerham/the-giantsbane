@@ -10,7 +10,7 @@ description: "A frank review of Princes of the Apocalypse — too many bland dun
 
   
 
-# Summary
+## Summary
 
 Princes of the Apocalypse is the second 5e super adventure. The main adventure starts at 3rd level, but there is good side content to deal with the first two levels as well. The adventure will take characters up to 14th level. It is themed around the Princes of Elemental Evil, and is something of a spiritual successor to the Temple of Elemental Evil. The characters deal with a conspiracy in Red Larch and then start searching for a missing delegation. This leads them to four outposts built atop an ancient dwarven civilization. As the characters explore the outposts, they face reprisals from the elemental cults. Eventually they get to four elemental fanes beneath the outposts, where they must defeat the cult leaders to prevent them from summoning the four princes of elemental evil.
 
@@ -36,6 +36,6 @@ Princes of the Apocalypse is the second 5e super adventure. The main adventure s
 -   The guidance to tying the adventure to other setting was fine, but it felt like a lot of shoe horning for everywhere but Greyhawk. I’d rather that space be used on aids to help run the adventure in the Realms, where I would guess the vast majority of people actually run the adventure.
 -   The second chapter is basically a mini setting for the Dessarin Valley. Add setting info into the adventures is a early 5e thing. As a Realms fan I enjoy it, but it feels like one of the more generic sections of the Realms to detail. Its also not nearly as useful as the Realms information presented in Storm King’s Thunder, which is really useful for adventures that travel the North.
 
-# Final Thoughts
+## Final Thoughts
 
 I would not run this adventure. Unlike Storm King’s Thunder, for example, there just isn’t enough good here to build out a full adventure without a lot of filler. However, I would happily steal several things (the Red Larch conspiracy, the water cultists, and Weeping Colossus) and stick them in another campaign. Without running it I am not sure how the elemental princes would feel in play, but those are really useful high level enemies that could be re-used as well. Overall, I’d rate this as the weakest of the 5e adventures I have read or played.

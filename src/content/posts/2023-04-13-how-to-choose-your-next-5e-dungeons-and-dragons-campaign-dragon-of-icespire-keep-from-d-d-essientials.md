@@ -9,7 +9,7 @@ description: "A guide to deciding whether to run Dragon of Icespire Keep — an 
 
 I've been DMing, playing, and reading fifth edition adventures since the launch of the edition. I decided to write some guides that DMs can use to can use to choose their next adventure. I'll post one at a time, then tackle them as a whole at the end. The next post will be about Tyranny of Dragons. 
 
-## ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgfMn-84tZiChTKsj3KL7LNNsjf8o7UmANQiXn-gBQQirzHsM0ml0c7M7zYPLfMjHEAPsOQ_6iTL3ePeDwIKYkpJTFSirrgXZZDPlTcIdojXHbHAxbhLMLZiQ7rA4HbrEMT3vzjUqgQo3PiKyNfMY7oho70gAVhDsuXgfUvv2Rqs9AvH2t8Bl-djur/s320/Cover%20Image.png)  
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgfMn-84tZiChTKsj3KL7LNNsjf8o7UmANQiXn-gBQQirzHsM0ml0c7M7zYPLfMjHEAPsOQ_6iTL3ePeDwIKYkpJTFSirrgXZZDPlTcIdojXHbHAxbhLMLZiQ7rA4HbrEMT3vzjUqgQo3PiKyNfMY7oho70gAVhDsuXgfUvv2Rqs9AvH2t8Bl-djur/s320/Cover%20Image.png)  
   
 Dragon of Icespire Keep
 

@@ -8,7 +8,7 @@ tags:
 description: "Introduction to the Sigil sandbox chapter of Turn of Fortune's Wheel — a glitch memory mechanic for inspiration and a bingo card structure to give players direction while exploring the City of Doors."
 ---
 
-# Welcome to Sigil
+## Welcome to Sigil
 
 The second chapter of this adventure makes the entire city of Sigil a sandbox for the characters. There isn't much structured content in the adventure itself, but there is plenty interesting to pull from the Campaign Setting to create a playground the players can explore. This section will provide some tools to structure play within Sigil, and later I will provide some scenes within Sigil you can use while the characters explore.
 

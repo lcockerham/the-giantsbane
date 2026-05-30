@@ -8,7 +8,7 @@ tags:
 description: "Guide to Faunel, the half-absorbed beastland gate-town in Turn of Fortune's Wheel — solving the murder of an ibex to track the Vile Hunt gnolls terrorizing the wild, aided by an elephant sage."
 ---
 
-# Chapter 8: Faunel
+## Chapter 8: Faunel
 
 [Chapter 7: Excelsior](https://thegiantsbane.blogspot.com/2024/08/planescape-turn-of-fortunes-wheel_0899033758.html)
 

@@ -10,7 +10,7 @@ Adventure Seeding
 
 In my last post in this series, I said I wanted to do a hybrid game using a cool set piece from my terrain collection. That was the seed for the adventure. It didn't take long for me to decide I wanted to use Dwarven Forge's [Watchtower](https://dwarvenforge.com/products/watchtower-set-painted) because it was a cool piece I had never used before (and it gave me motivation to get it painted). 
 
-![A wachtower with a bridge in front of it and an adventuring party approaching it.](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEged_Yoo2dzpz-0tdEQUeG0o2e9f_Wmr_1gftkT0Q14BR-Bw2_3sizQ-tgrYCTlmVcm5YC1H5UoxxmzMqlRTyS-gMvqEcHyOnnJmo4Pbt4YRinYhA1TQLir2q_9aQ9Vz_dGRpMiMd6viuaFrXmMgdqmFiocd7y58qnVYP41xZubbsC1jICedID6PYxAW8c/w320-h240/Watchtower%20blurred%20side.jpg "Watchtower and bridge")
+![A watchtower with a bridge in front of it and an adventuring party approaching it.](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEged_Yoo2dzpz-0tdEQUeG0o2e9f_Wmr_1gftkT0Q14BR-Bw2_3sizQ-tgrYCTlmVcm5YC1H5UoxxmzMqlRTyS-gMvqEcHyOnnJmo4Pbt4YRinYhA1TQLir2q_9aQ9Vz_dGRpMiMd6viuaFrXmMgdqmFiocd7y58qnVYP41xZubbsC1jICedID6PYxAW8c/w320-h240/Watchtower%20blurred%20side.jpg "Watchtower and bridge")
 
   
 

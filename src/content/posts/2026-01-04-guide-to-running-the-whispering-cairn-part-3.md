@@ -68,7 +68,7 @@ Part 5: The Observatory
 11.  Operating Theatre
      -   Summary: Filge’s laboratory, where he is trying to create a powerful new zombie.
      -   Checks:
-     -   Threats: For Filge, use a **Necromancer Wizard** without c_**ircle of death**_ or **_summon undead_.** The creatures in the vats are three **zombies** and one **S****trahd zombie.** The **skeleton** of Gertia Land also protects Filge. He has a syringe that acts as a **potion of false life**, and has already cast mage armor and mage hand when the PCs enter the room.
+     -   Threats: For Filge, use a **Necromancer Wizard** without _circle of death_ or _summon undead_. The creatures in the vats are three **zombies** and one **Strahd zombie**. The **skeleton** of Gertia Land also protects Filge. He has a syringe that acts as a **potion of false life**, and has already cast mage armor and mage hand when the PCs enter the room.
      -   Treasure: Filge has operating instruments worth 500 gp. There is also a 20 gp emerald embedded in the corpse. Lastly, there is a worm of Kyuss embedded in embalming fluid.
      -   Developments: Filge quickly spills his guts if intimidated or persuaded.
          -   Balabar recruited him from the Free City for his undead expertise. Something is going on in the Dourstone mine involving cultists of the Ebon Triad and undead. Smenk is scared of the place, and that scares Filge.

@@ -8,7 +8,7 @@ tags:
 description: "A detailed review of The Whispering Cairn, the first Age of Worms adventure — an excellent tier 1 dungeon crawl with clever trap design, satisfying out-of-dungeon interlude, and important Greyhawk lore."
 ---
 
-# Introduction and Background
+## Introduction and Background
 
 I’ve decided to run The Age of Worms adventure path for my home group. The main members of the group have been together for over two decades, so we have a lot of norms and know what we like. We’ve also played most of the 5e high-fantasy campaigns at this point, and this adventure path has been on my bucket list since I read it when it was released in 2005. I decided to run my first campaign in Greyhawk since it's native to the adventure and was just updated in the 2024 DMG. Its the first Greyhawk campaign I have DMed, though I have played in a couple, including the Shackled City adventure path 20 years ago in 3.5e.
 
@@ -20,13 +20,13 @@ Lastly, I’ve DMed since 1997 and have written a number of my own adventures, s
 
 I’ll note Erik Mona was the author for this adventure and the accompanying Diamond Lake backdrop in Dragon magazine. The adventure was published in Dungeon 124 from July 2005, 20 years before our first session.
 
-# Strong Start
+## Strong Start
 
 I’ve always liked SlyFlourish’s [Starting Strong](https://slyflourish.com/starting_strong.html), and while I don’t think the start as written is fantastic, it leaves a lot of room to build a good start. I required all of the characters to be from the backdrop town, Diamond Lake, and gave them a short setting bible on the town. I asked each of them to identify their friends in town, and selected a character as someone who found a piece of the Rod of Seven Parts near the entrance to the tomb, and is recruiting others to help him explore it. He identified which other party member he invited, and then that person invited someone else to a meeting at an abandoned mining office. This worked well to link the characters to the setting and each other. Of course, it totally backfired in that I wanted the character who found the rod to keep it a secret, but instead, he immediately blurted out what he had found. It worked well to establish the barbarian as someone who will blurt out the wrong thing, and it was fine because knowledgeable players will identify that the Rod is a (somewhat) central part of the story early on.
 
 Regardless, we did introductions all the way around, and then had a memorable scene of Cooper the barbarian trying to get everyone to run to the tomb with him (he’s a follower of Kord who has what amounts to a CrossFit gym). The other characters eventually followed, and we did the very first section of the Cairn itself that sets up the motif of the Wind Dukes, and gives a simple fight to let players start learning their characters. We finished session 0 by introducing the false tomb. I’d call it a Strong Start with a good cliffhanger ending.
 
-# Adventure Structure
+## Adventure Structure
 
 I like the structure of this adventure, especially for something that is predominantly a dungeon crawl. You quickly reach a central puzzle chamber that leads to the rest of the dungeon in a wheel-and-spoke pattern.. The puzzle chamber made sense and worked to break apart the dungeon into manageable sections. Each section was usually gated by a lantern needed to access it. The characters find a lantern early that unlocks a subarea. Once they have that last lantern, they can access the final tomb, but will be confronted by an unopenable door that only a ghost can help them with, provided they bury his remains with this family outside the dungeon.
 
@@ -43,7 +43,7 @@ We played the adventure in four 2-3 hour sessions:
 
 In general, the adventure is structured well. The central puzzle room breaks up the dungeon, and you get a full session out of the dungeon for exploration and role play. It would have been a worse adventure and a poorer prelude to the future, without the outside trek.
 
-# Crawling the Cairn
+## Crawling the Cairn
 
 The Cairn itself is mostly great dungeon design. I’ll start with my biggest complaint - it's very difficult to understand and communicate everything that is going on in the false tomb. You need to mentally map where each path leads, which lanterns are missing, and the direction the sarcophagus is pointing. Oh, and remember the various potentially deadly traps along the way. I had to retcon at least two key details I got wrong, and this is with a lot of prep. I think next time I would annotate a map of the false tomb with the details to make it easier, especially since it comes up over and over again.
 
@@ -57,10 +57,10 @@ The last encounter I will highlight is Alaster’s Haunt. You can see my Dwarven
 
   
 
-# Lore Dumps
+## Lore Dumps
 
 There are a lot of lore dumps in the adventure. If you love Greyhawk lore, it's interesting. If you don't there’s a lot of it and players’ eyes may glaze over. My players knew enough Greyhawk that it was fine. It also helps that there are a lot of well-known artifacts like the Rod of Seven Parts and the Sphere of Annihilation.
 
-# Conclusion
+## Conclusion
 
 Whipering Cairn is a great tier 1 adventure that stands the test of time. It's an excellent dungeon crawl that makes sense and gives the characters the information to make good decisions. There is variety in the dungeon structure and it isn’t too big. The difficulty was tough but fair while also being uneven, but a lot of that was how I chose to convert it. The beginning of the adventure converts to very easy encounters, and the end converts very hard (partly by my choice). There is a good interlude outside the dungeon that gives the crawl some time to breathe, plus some role play that is otherwise absent. I would not recommend it to a new DM with an inexperienced group, but I think so long as the DM is seasoned and able to cater to his group’s experience, it would otherwise run well for any group. I recommend it without reservation to anyone looking for an adventure to start their campaign, and especially if you are interested in running the Age of Worms. I’ll note I think the accompanying Diamond Lake backdrop is also excellent, but we’ve not spent enough game time in Diamond Lake yet to say more. Much fun was had by all with this adventure.

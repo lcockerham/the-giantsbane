@@ -9,11 +9,13 @@ description: "Prep notes for Behold H'Catha, the third Spelljammer Academy adven
 
 ![Adventurer's beholding H'Catha](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj9FfyPaz5rXzHul9_TDbUKxtOhoQB36Ytl1aBvZv2cV-Dqet40wZ84BGP6wCpu4gWTs2Oauqt6wY4-GCmONngONdr5rpxYnLcpHtsozat1UXmZ6YQ-tRC5KdI1NA1hXDDDPhncaQfXT9ODizSl33VoOtof3i_DFlX1drHST7s15BD0PlgkYPVEq8y/w320-h236/H'Catha.png "Adventurer's beholding H'Catha")
 
-## I'm running Spelljammer Academy for my two DnD groups, and I am posting my prep notes for others to re-use, and updating the posts with learnings from running the game. I'm using the template from SlyFlourish's notion.so post. 
+I'm running Spelljammer Academy for my two DnD groups, and I am posting my prep notes for others to re-use, and updating the posts with learnings from running the game. I'm using the template from SlyFlourish's notion.so post. 
 
 Part 1: [Orientation](https://thegiantsbane.blogspot.com/2023/03/session-overview-for-spelljammer.html)Part 2: [Trial By Fire](https://thegiantsbane.blogspot.com/2023/03/session-overview-for-spelljammer_0999825051.html)Part 3: [Realmspace Sortie!](https://thegiantsbane.blogspot.com/2023/03/session-overview-for-spelljammer_01265382499.html)
 
-Scenes-   The Spindle
+Scenes
+
+-   The Spindle
     -   Flighty Foundling arrives and takes Miken into custody. Boatswain Tarto and Saerthe Abizjn board the tyrant ship to join them, Saerthe as captain and spelljammer. Wizpop, Krik’let, and Pffred go with the Foundling.
     -   Takes days to reach H’Catha. When they do, show characters the art above.
     -   Tarto gives characters sending stone and bag of holding (for meteorite).
@@ -51,20 +53,20 @@ Scenes-   The Spindle
     -   Grad ceremony. characters told to go to neverwinter to wait assignment to a ship.
     -   Mirt gives a speech where he gives himself all the credit and blames the problems on anyone but himself.
 
-# Secret and Clues
+## Secret and Clues
 
 -   “There have been a bunch of thefts around the academy here lately…Mirt and the bridge are letting any vagrant in the place!”
 -   “Have you been to the Rock of Bral yet? Let me tell you, its the place to be in Wildspace!”
 -   “I’ve heard tale of world inhabited by elves whose star is dying! Hate to be them!” - A reference to the Xaryxian Empire.
 -   “Vocath is a Mercane, some kind of space giant, who has a grudge against Mirt. I hear it has something to do with an astral elf lady.“
 
-# NPCs
+## NPCs
 
 -   Boatswain Tarto
 -   Saerthe Abizjn
 -   Miken Haverstance
 
-# Monsters
+## Monsters
 
 -   [Spectator](https://www.dndbeyond.com/monsters/17094-spectator)
 -   [Gazer](https://www.dndbeyond.com/monsters/2560821-gazer)
@@ -73,7 +75,7 @@ Scenes-   The Spindle
 -   [Star Lancer](https://www.dndbeyond.com/monsters/2506150-star-lancer)
 -   [Giff Shipmate](https://www.dndbeyond.com/monsters/2771399-giff-shipmate)
 
-# Treasure
+## Treasure
 
 At the end of the adventure, each character can choose one of the following:
 

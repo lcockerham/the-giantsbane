@@ -8,7 +8,7 @@ tags:
 description: "Guide to Automata, the orderly gate-town to Mechanus in Turn of Fortune's Wheel — tracking a fugitive through the anarchic Inverse, the chaotic underground reflection of the modron-run city above."
 ---
 
-# Chapter 5: Automata
+## Chapter 5: Automata
 
 [Chapter 4: Into the Outlands](https://thegiantsbane.blogspot.com/2024/07/planescape-turn-of-fortunes-wheel.html)
 

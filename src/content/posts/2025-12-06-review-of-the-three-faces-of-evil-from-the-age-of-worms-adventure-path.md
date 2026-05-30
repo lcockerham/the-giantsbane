@@ -10,17 +10,17 @@ description: "A detailed review of The Three Faces of Evil, the second Age of Wo
 
   See my review of the first adventure, The Whispering Cairn, [here](https://thegiantsbane.blogspot.com/2025/08/review-of-whipering-cairn-from-age-of.html). 
 
-# Initial Thoughts
+## Initial Thoughts
 
 A quick search will turn up several lackluster (informal) reviews of this adventure, calling it the weakest of the path. So I went in with low expectations and expecting to need to do some work. On the other hand, this adventure is written by Mike Mearls, whom I have boundless respect for as the architect of 5e. He blew my mind multiple times at a panel at GameHole this year - I really wanted to ask him about this adventure, but didn't get the chance. 
 
 I ran this adventure over 6 2-3 hour sessions with a group I have gamed with for decades. We played hybrid, half remote and half in person, using Vorpal Board. Miniatures, maps, and Dwarven Forge were used in almost all encounters. Most, but not all of the players are tactically minded and make optimized choices. I removed several extraneous encounters to focus on the more interesting encounters, almost all of which I discuss below. 
 
-# Strong Start
+## Strong Start
 
 One of the top critiques online is of the adventure hook. It's basically a major NPC, Allustan, pointing the characters at the dungeon that makes up the majority of the adventure. I took the advice of one of the threads on the Paizo forums ([link](https://paizo.com/threads/rzs2hgo1?Advice-for-Three-Faces-of-Evil)) and threw the characters in jail. Balabar then showed up and flexed his power in town and forced the characters to go deal with the cultists who had compromised him. As I was preparing this, SlyFlourish posted [Avoid Removing Player Agency](https://slyflourish.com/avoid_removing_player_agency.html) that clearly said, "Don't capture your characters." I did it anyway, but I told the players what I was doing and to treat it cinematically. It worked well as an introduction to a campaign villain and a forceful hook into the adventure. I think this works well so long as you telegraph what you are doing to your party. It is also much safer if you know your players well, which I did. 
 
-# Adventure Structure
+## Adventure Structure
 
 There's no way around it: This is mostly a dungeon crawl. But it's a pretty good dungeon crawl in my estimation. It starts with a hook, then the party finds a way into the mine, and finally enters the dungeon and chooses one of three evil gods' temples to tackle. 
 
@@ -28,7 +28,7 @@ My party went completely sideways from what the adventure expected to enter the 
 
 Once inside the dungeon, there is heavy foreshadowing of the final boss in the first room, and a running guard to encourage the party to choose a particular dungeon to go to first. I'm lucky in that my group leans into hooks - I know many would do anything but follow the obvious hook. If they don't, it wouldn't be a big deal, but I think it tells a tighter narrative of the nature of the three distinct cults if they do. On to the dungeon...
 
-# The Dungeon
+## The Dungeon
 
 The Dark Cathedral
 
@@ -39,7 +39,9 @@ The Caves of Slaughter
 The second dungeon is the Caves of Slaughter, filled with bloodthirsty grimlocks who follow Erythnul. I cut several encounters, such that there were really three major fights. A very cool ambush while the characters first descend to the caves, a battle royale with the grimlock chieftan and the bulk of his forces, and finally a showdown with the high priest of Erythnul, this guy:
 
 ![](https://blogger.googleusercontent.com/img/a/AVvXsEhqBT9gmmmNl1ExpaERGCbF3O6ePmcvS5aISrefyx-dLVgUyWzchtfog1FhX4bO2-gWKi5yoW73B625tXVTbyujjKYoEv9vI3PpVkLgeksrZJ_lmghESDqkrd9GDzy6KsNi6MWyvGL8FhVbszPanZzrnOb_-RYs99KU2P2L8o6Pty48NLi0oZf_D7fY22I)  
-Most grimlock art depicts them as void of eye sockets, but this art is worth going against canon any day of the week! It also let me break out one of my favorite pieces of Dwarven Forge, the [Stairway to Violence](https://dwarvenforge.com/products/6-a197-p_stairway-to-violence-painted?srsltid=AfmBOor9-5ZpmY4O70vaJVGOOcqhHbxryTQr0_t9pTxb3o_k9NNZ_9nW). I used the **grimlock brute** and **grimlock shaman** monsters from [Monster Manual Expanded](https://www.dmsguild.com/en/product/267678/monster-manual-expanded-5e?keyword=dungeon%20124) and it made for a good tactical encounter, with the shaman using higher ground and controller spells to lock the characters in a battle with the brutes. Here's a picture of the build:![](https://blogger.googleusercontent.com/img/a/AVvXsEg0Ht_DXKBgNqt7vXoVwE-yw4GdAbT6B118Jz77Y0xfj7-uDirbGbxePmVaoGoup7rDQuq7VeIj4kTtUvzQce0WhG-nKaKkpmp52-95dTzTK8Y9V8STEZz_CM2XRq_sNd_kdNT0HhB6y8KMzZautpqNxkKCJXCvf-JoHNUDBUjqud1OMV25x_jr3orbnKA)  
+Most grimlock art depicts them as void of eye sockets, but this art is worth going against canon any day of the week! It also let me break out one of my favorite pieces of Dwarven Forge, the [Stairway to Violence](https://dwarvenforge.com/products/6-a197-p_stairway-to-violence-painted?srsltid=AfmBOor9-5ZpmY4O70vaJVGOOcqhHbxryTQr0_t9pTxb3o_k9NNZ_9nW). I used the **grimlock brute** and **grimlock shaman** monsters from [Monster Manual Expanded](https://www.dmsguild.com/en/product/267678/monster-manual-expanded-5e?keyword=dungeon%20124) and it made for a good tactical encounter, with the shaman using higher ground and controller spells to lock the characters in a battle with the brutes. Here's a picture of the build:
+
+![](https://blogger.googleusercontent.com/img/a/AVvXsEg0Ht_DXKBgNqt7vXoVwE-yw4GdAbT6B118Jz77Y0xfj7-uDirbGbxePmVaoGoup7rDQuq7VeIj4kTtUvzQce0WhG-nKaKkpmp52-95dTzTK8Y9V8STEZz_CM2XRq_sNd_kdNT0HhB6y8KMzZautpqNxkKCJXCvf-JoHNUDBUjqud1OMV25x_jr3orbnKA)
 
 That said, I want to circle back to the very first encounter in the Caves, the aforementioned ambush. Here's the map included in the adventure:
 
@@ -53,6 +55,6 @@ The last of the dungeons is the Labyrinth of Vecna. It is, in fact, a claustroph
 
 Once they finally reached the temple of Vecna, the Faceless (their leader) was happy to parley. This didn't seem expected in the adventure, but after so many murderous combatants, the negotiation felt like a great change of pace. Eventually, the priests negotiate their escape under the cover of an allip that attacks the characters. Since the Faceless One escaped, I decided to not have the Ebon Aspect appear - I might make it happen later opportunistically. I certainly expect the Faceless One to show back up. 
 
-# Conclusion
+## Conclusion
 
 The Three Faces of Evil is mostly a dungeon crawl, but it's a pretty good dungeon crawl. It is certainly linear, and that might frustrate some games, but each dungeon could be encapsulated as one good session that had at least one very interesting tactical encounter. My biggest complaint is a poor battle diagram in one of the interesting encounters. But if you have a group that wants to do a challenging, heavy combat-focused dungeon crawl, I strongly recommend the Three Faces of Evil.

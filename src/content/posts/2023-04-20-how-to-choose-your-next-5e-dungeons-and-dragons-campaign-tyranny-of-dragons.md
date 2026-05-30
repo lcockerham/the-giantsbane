@@ -9,7 +9,11 @@ description: "A guide to deciding whether to run Tyranny of Dragons — a classi
 
 I've been DMing, playing, and reading fifth edition adventures since the launch of the edition. I decided to write some guides that DMs can use to can use to choose their next adventure. I'll post one at a time, then tackle them as a whole at the end. 
 
-![Tyranny of Dragons logo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmBZpz9-tGgxqcvsyHeVs59QpUXxCOxsllZJpKs2PYvdeZkN8tAAKt96AKWiB9e0TP7abH3gTgIQTLeaObkYDAHRpN8aLFoXbRb7LdSezcIKV9s08uJ7vHSg21QTsnzaxWGlWvntyr6n9pH8iiudhIxpLEMO2vyRH6xdhQBuRfZDOG21A8y6rOX34g/w320-h97/Tyanny%20of%20Dragons.png "Tyranny of Dragons logo")Hoard of the Dragon Queen/Rise of TiamatSummary
+![Tyranny of Dragons logo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmBZpz9-tGgxqcvsyHeVs59QpUXxCOxsllZJpKs2PYvdeZkN8tAAKt96AKWiB9e0TP7abH3gTgIQTLeaObkYDAHRpN8aLFoXbRb7LdSezcIKV9s08uJ7vHSg21QTsnzaxWGlWvntyr6n9pH8iiudhIxpLEMO2vyRH6xdhQBuRfZDOG21A8y6rOX34g/w320-h97/Tyanny%20of%20Dragons.png "Tyranny of Dragons logo")
+
+Hoard of the Dragon Queen/Rise of Tiamat
+
+Summary
 
 The Cult of the Dragon is trying to summon Tiamat to the Realms. The adventure starts with an attack on Greenest, then the characters shadowing cultists in a caravan before arriving in a cloud castle. After defeating the cultists (and a white dragon) in the castle, the characters work with the Council of Waterdeep to thwart the cultists' plans. The adventure culminates with the characters trying to prevent Tiamat's summoning at the Well of Worlds. 
 

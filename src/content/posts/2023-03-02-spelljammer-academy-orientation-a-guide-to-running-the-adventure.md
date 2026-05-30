@@ -35,7 +35,9 @@ Check off when revealed.
 -   “Have you been to the Rock of Bral yet? Let me tell you, its the place to be in Wildspace!”
 -   “I’ve heard tale of world inhabited by elves whose star is dying! Hate to be them!” - A reference to the Xaryxian Empire. 
 
-NPCs-   Review NPCs
+NPCs
+
+-   Review NPCs
 
 -   Boatswain Tarto
 -   Sor'Kur
