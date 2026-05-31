@@ -6,6 +6,7 @@ dist/
 !.env.example
 .playwright-mcp/
 .claude/settings.local.json
+summary.md
 /*.png
 /*.jpg
 /*.jpeg
