@@ -17,6 +17,32 @@ const topTags = Object.entries(tagCounts)
 
 <aside class="space-y-8">
   <div>
+    <h3 class="font-cinzel text-xs tracking-widest uppercase text-crimson border-b border-pit-600 pb-2 mb-4">Subscribe</h3>
+    <p class="text-dim text-sm leading-relaxed font-lora mb-3">Get new posts by email.</p>
+    <form
+      action="https://buttondown.com/api/emails/embed-subscribe/lcockerham"
+      method="post"
+      target="popupwindow"
+      onsubmit="window.open('https://buttondown.com/lcockerham', 'popupwindow')"
+      class="space-y-2"
+    >
+      <input
+        type="email"
+        name="email"
+        placeholder="your@email.com"
+        required
+        class="w-full bg-pit-900 border border-pit-600 text-ink text-sm px-3 py-2 font-lora placeholder-pit-500 focus:outline-none focus:border-crimson-dark"
+      />
+      <button
+        type="submit"
+        class="w-full font-cinzel text-xs tracking-widest uppercase bg-crimson-dark hover:bg-crimson text-ink px-3 py-2 transition-colors"
+      >
+        Subscribe
+      </button>
+    </form>
+  </div>
+
+  <div>
     <h3 class="font-cinzel text-xs tracking-widest uppercase text-crimson border-b border-pit-600 pb-2 mb-4">About</h3>
     <p class="text-dim text-sm leading-relaxed font-lora">
       DMing since 1997. Platinum author on DM's Guild.
