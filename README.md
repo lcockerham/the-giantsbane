@@ -125,6 +125,30 @@ Suggested prompts to get started:
 
 Claude Code can also write new posts if you give it an outline, help you add new sidebar sections, and handle Cloudflare Pages deployment troubleshooting.
 
+### Generating a custom look and feel
+
+Rather than tweaking the existing theme by hand, ask Claude Code to generate several distinct options and let you pick. The key files for visual identity are `src/layouts/BaseLayout.astro` (header, footer, font imports), `src/components/Sidebar.astro`, and the Tailwind color palette in `tailwind.config.*`.
+
+Try prompts like:
+
+```
+"Generate three different color palette options for this blog — one warm/earthy,
+one dark/moody, one clean/minimal — and show me the Tailwind config for each."
+
+"Redesign the header in BaseLayout.astro three different ways: one with a centered
+logo and full-width nav, one with a large hero banner, one compact single-line.
+Write each as a separate commented block so I can compare them."
+
+"Propose two alternative sidebar layouts: one that moves tags to a collapsible
+section and leads with the subscribe form, one that removes the sidebar entirely
+and puts navigation in a top bar."
+
+"Suggest three Google Font pairings that would suit a [medieval / technical / cozy]
+blog, and update the font imports and Tailwind font-family config for each."
+```
+
+The workflow: ask Claude Code to write the variants, run `npm run dev`, and compare them in your browser. Once you pick one, tell Claude Code to discard the others and clean up.
+
 ---
 
 ## Project structure
