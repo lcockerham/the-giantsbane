@@ -4,7 +4,7 @@ date: "2026-05-30"
 tags:
   - "Meta"
 description: "The Giantsbane has a new home. Here's what changed and what's coming."
-draft: true
+draft: false
 ---
 
 If you've visited before, you may notice things look a little different around here. The Giantsbane has moved off Blogger and onto a proper home at [thegiantsbane.com](https://thegiantsbane.com).
