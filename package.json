@@ -6,10 +6,13 @@
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro build",
-    "preview": "astro preview",
-    "import": "node scripts/import-blogger.mjs"
+    "preview": "npm run build && wrangler dev",
+    "import": "node scripts/import-blogger.mjs",
+    "deploy": "npm run build && wrangler deploy",
+    "cf-typegen": "wrangler types"
   },
   "dependencies": {
+    "@astrojs/cloudflare": "12",
     "@astrojs/rss": "^4.0.11",
     "@astrojs/sitemap": "^3.7.3",
     "@astrojs/tailwind": "^5.1.4",
@@ -18,6 +21,7 @@
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.15",
-    "turndown": "^7.2.0"
+    "turndown": "^7.2.0",
+    "wrangler": "^4.99.0"
   }
 }
