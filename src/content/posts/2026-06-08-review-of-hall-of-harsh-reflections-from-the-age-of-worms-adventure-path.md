@@ -8,7 +8,7 @@ tags:
 description: "A review of Hall of Harsh Reflections, the fourth Age of Worms adventure — a paranoid urban investigation into a doppelganger conspiracy that culminates in a mind flayer's underground lair."
 ---
 
-See my review of the previous adventure, Encounter at Blackwall Keep, [here](). <!-- TODO: add link -->
+See my [guide to running Encounter at Blackwall Keep](/posts/guide-to-encounter-at-blackwall-keep), the previous adventure in the series.
 
 ## Initial Thoughts
 

@@ -2,12 +2,16 @@
   "name": "the-giantsbane",
   "type": "module",
   "version": "1.0.0",
+  "engines": {
+    "node": ">=22"
+  },
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "import": "node scripts/import-blogger.mjs"
+    "import": "node scripts/import-blogger.mjs",
+    "lint:content": "node scripts/lint-content.mjs"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.11",

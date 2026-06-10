@@ -33,12 +33,14 @@ const SERIES: SeriesDef[] = [
     match: (s) => s.includes('mystery-of-mae'),
   },
   {
-    name: 'The Whispering Cairn',
-    match: (s) => s.includes('whispering-cairn') || s.includes('whipering-cairn'),
-  },
-  {
-    name: 'The Three Faces of Evil',
-    match: (s) => s.includes('three-faces-of-evil'),
+    name: 'Age of Worms',
+    match: (s) =>
+      s.includes('age-of-worms') ||
+      s.includes('whispering-cairn') ||
+      s.includes('whipering-cairn') ||
+      s.includes('three-faces-of-evil') ||
+      s.includes('blackwall-keep') ||
+      s.includes('hall-of-harsh-reflections'),
   },
 ];
 

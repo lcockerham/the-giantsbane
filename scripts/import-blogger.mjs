@@ -1,4 +1,9 @@
 /**
+ * DEPRECATED — one-time migration tool, no longer part of site infrastructure.
+ * The migration has already been run. This script is kept for anyone forking
+ * the repo who wants to migrate their own Blogger content.
+ * Requires `turndown` (not installed by default): npm install turndown
+ *
  * One-time migration script: fetches all posts from the Blogger JSON feed
  * and converts them to Markdown files in src/content/posts/.
  *
