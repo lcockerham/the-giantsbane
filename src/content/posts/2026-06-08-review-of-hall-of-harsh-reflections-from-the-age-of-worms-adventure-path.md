@@ -1,7 +1,6 @@
 ---
 title: "Review of Hall of Harsh Reflections from the Age of Worms Adventure Path"
 date: "2026-06-08"
-draft: true
 tags:
   - "AgeOfWorms"
   - "Campaigns"
