@@ -1,60 +1,55 @@
 ---
 title: "My Favorite Dwarven Forge Pieces"
 date: "2026-06-08"
-draft: true
+draft: false
 tags:
   - "Products"
   - "Terrain"
   - "Guides"
-description: "A rundown of my favorite Dwarven Forge pieces after years of running dungeon-heavy campaigns — what's worth the money, what to buy painted vs. unpainted, and where to start."
+description: "A rundown of my favorite Dwarven Forge pieces after years of running dungeon-heavy campaigns — starter sets, showpieces, terrain trays, and where to start your own collection."
 ---
 
-I have been using Dwarven Forge terrain for years, and I use it in almost every session I run. I have written about specific pieces in my adventure writeups, but I wanted to do a dedicated post on the pieces I reach for most often and what I think of them.
+I have been using Dwarven Forge terrain for years, and I use it in almost every in-person session I run. I have mentioned specific pieces in my adventure writeups, but I wanted to do a dedicated post on the pieces I use the most. I was originally inspired by a post from SlyFlourish, and I will link his [Buyer's Guide here](https://slyflourish.com/dwarven_forge_buyers_guide.html). I vaguely remember his guide mentioning specific pieces like the Stairway to Violence, but the current one doesn't seem to. This post links specific pieces and gives my individual recommendations.
 
-A quick note on painted vs. unpainted: Dwarven Forge sells most pieces in both versions, with a significant price difference. My general rule is that **simple stone pieces are worth painting yourself** — it's fast, it's satisfying, and you save money. **Specialty pieces with complex colors (lava, water effects, elaborate detail) are worth buying painted.** The lava terrain in particular is a pain to paint and looks dramatically better when purchased in the painted version. I'll flag this for each piece below.
+## Starter Sets
+
+The starter sets are always worth buying, and honestly you can't have enough of them if you want massive builds. I pick up some form of starter set with each kickstarter. I have at least one of all three listed below. They are fine to get unpainted as they are fairly fast to paint, and especially for the dungeon set, I like my lighter hand with the paint than the painted versions. I've used all of these more times than I can count.
+
+- [Caverns Core](https://dwarvenforge.com/products/6-c102-u_caverns-core-unpainted)
+- [Dungeon Starter Set - Vaulted](https://dwarvenforge.com/products/5-a105-u-dungeon-starter-set-vaulted-unpainted)
+- [City Fieldstone Core Set](https://dwarvenforge.com/products/w-a103-u_city-stone-core-set-unpainted)
 
 ## Stairway to Violence
 
-This is one of my favorite purchases and one I have gotten a lot of use out of. The name sells it, but it's a versatile elevated staircase set that creates multi-level encounters. I used it for the grimlock cave encounter in [Three Faces of Evil](). <!-- TODO: link --> The shaman holding the high ground while brutes pushed up the stairs made for exactly the kind of tactical encounter that makes terrain worth using in the first place.
+It's D&D, you are going to be in caves a lot. And there is nothing like Stairway to Violence to add elevation and make some monsters hard to get to. Minions on the ground, and your ranged caster on top of the stairway able to hide behind it, leads to a great tactical fight. My players have run at least half a dozen variations on this fight, and I have never been accused of repetition. This piece is also easy to paint.
 
-If you run any dungeon-heavy campaign, you will need some kind of verticality eventually. This is the best solution I have found.
-
-**Painted vs. unpainted:** <!-- TODO: which did you buy? Recommendation? -->
+[Stairway to Violence](https://dwarvenforge.com/products/6-a197-u_stairway-to-violence-unpainted)
 
 ## Watchtower Set
 
-The Watchtower is a showpiece purchase and one I have recommended to several people in my group. I used it as the centerpiece of [The Mystery of Maeralon's Tower]() <!-- TODO: link -->, and it delivered exactly what I wanted. Towers come up constantly in D&D — this one gets more mileage per dollar than almost any other piece in my collection.
+The Watchtower is a big flashy set. I used it as the centerpiece of [The Mystery of Maeralon's Tower](/posts/the-mystery-of-maeralon-s-tower-a-waterdeep-dragon-heist-faction-quest), and it worked great. I'll admit, I think I have only used this piece a couple times, but it was memorable every time. The interior is a little cramped, and multi-level combat is doable with a little work and accepting you have to break the tower down. It's also pretty quick to paint.
 
-My one critique is that the interior is a little small for big fights. It works best as a vertical combat space where you are moving up through it, not fighting a mob inside it. Multi-level combat is exactly what it is built for, and it excels there.
+The negatives are it can fall apart on you easily as you break it apart in play, especially the crenellations. I also think the stickers that come with it don't look great - they cheapen the look of the piece, so I just never used them.
 
-**Painted vs. unpainted:** I bought this unpainted and painted it myself in under four hours. Easy paint, obvious scheme, and I saved a meaningful amount of money. I strongly recommend the unpainted version here.
+[Watchtower Set](https://dwarvenforge.com/products/watchtower-set-unpainted)
 
 ## Dungeon Bridge
 
-A smaller purchase but one I keep coming back to. I used it alongside the Watchtower to give the party cover from a ballista. It's also just a useful piece for any river crossing or chasm encounter — the kind of moment that shows up in every campaign.
+A smaller purchase but one I keep coming back to. I used it alongside the Watchtower to give the party cover from a ballista. It's also a useful piece for any river crossing or chasm encounter, so it comes up frequently. Pairing it with elevation pieces and terrain trays works great.
 
-It photographs well and builds quickly. An easy recommendation if you want something with versatility outside of pure dungeon environments.
+[Dungeon Bridge](https://dwarvenforge.com/collections/dungeons-reforged/products/5-a144-u-dungeon-bridge-unpainted)
 
-**Painted vs. unpainted:** Easy paint. Buy unpainted.
+## Terrain Trays
 
-## Texture Mats
+Terrain trays are essential for me. I do every DF build on them or battleboards, and I prefer the terrain trays. They're rigid trays with metal in them, so your magnetized pieces snap right onto them, and it makes the builds very functional - I can break down a build and reassemble it quickly. I use the [Raging River tray](https://dwarvenforge.com/products/7-r321-t-terrain-tray-4-pack-6x6-raging-river-straight-raging-river-curve) as a river base, the [Rough Stone/Lava tray](https://dwarvenforge.com/products/terrain-tray-multi-pack-rough-stonelava-painted) for lava encounters, and the [Quicksand/Cave Stone tray](https://dwarvenforge.com/products/6-a182-t_quicksand-multi-pack-terrain-trays) for cave builds.
 
-The texture mats are underrated. I use the [Mountain Lake mat](https://dwarvenforge.com/products/7-a242-t_texture-mat-mountain-lake-24-x-24-gridless) as a river base under bridge and ford encounters, and it makes a real visual difference. These are flat printed mats rather than 3D resin pieces, which means they are cheap, light, and pack flat. They fill in the spaces between your terrain in a way that a plain battle mat doesn't.
 
-If you use Dwarven Forge pieces on a standard battle mat, grab a texture mat or two. It ties the whole build together.
-
-## <!-- TODO: add one or two more favorites — cavern pieces? lava? specific dungeon sets? -->
-
-[TODO]
 
 ## Where to Start
 
 If I were building a Dwarven Forge collection from scratch for dungeon-heavy play, I would start with:
 
 1. A core dungeon set (the basic dungeon tiles — corridors, rooms, corners)
-2. A texture mat for outdoor scenes and transitions
-3. One showpiece set (Watchtower or Stairway to Violence, depending on your campaign)
+2. A cave terrain tray to build on
 
-The core dungeon tiles are not glamorous, but they are what you will use in almost every session. Build that foundation before buying specialty pieces.
 
-<!-- TODO: any thoughts on the Cavern line? The new Dungeon of Doom Kickstarter stuff? Anything you regret buying? -->
