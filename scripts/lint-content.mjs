@@ -11,6 +11,9 @@ const FRONTMATTER_RE = /^---\r?\n([\s\S]*?)\r?\n---\r?\n([\s\S]*)$/;
 const EMPTY_LINK_RE = /\[[^\]]*\]\(\s*\)/g;
 const TODO_COMMENT_RE = /<!--\s*TODO/;
 const EMPTY_ALT_RE = /!\[\]\([^)]+\)/g;
+const TAGS_BLOCK_RE = /^tags:\s*\r?\n((?:[ \t]+-[^\r\n]*\r?\n?)+)/m;
+// Tag pages route via tag.toLowerCase(), so tags must be URL-safe single tokens.
+const SAFE_TAG_RE = /^[A-Za-z0-9]+$/;
 
 let errors = 0;
 let warnings = 0;
@@ -60,6 +63,19 @@ for (const filename of files) {
   const emptyAlts = body.match(EMPTY_ALT_RE);
   if (emptyAlts) {
     warn(filename, `image(s) with empty alt text: ${emptyAlts.length} found`);
+  }
+
+  const tagsBlock = TAGS_BLOCK_RE.exec(frontmatter);
+  if (tagsBlock) {
+    const tags = tagsBlock[1]
+      .split(/\r?\n/)
+      .map((line) => line.trim().replace(/^-\s*/, '').replace(/^["']|["']$/g, ''))
+      .filter(Boolean);
+    for (const tag of tags) {
+      if (!SAFE_TAG_RE.test(tag)) {
+        error(filename, `tag "${tag}" is not URL-safe (must match ${SAFE_TAG_RE})`);
+      }
+    }
   }
 }
 

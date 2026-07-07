@@ -1,6 +1,6 @@
 # The Giantsbane
 
-A static blog for D&D dungeon masters, built with [Astro 5](https://astro.build) and Tailwind CSS, hosted on Cloudflare Pages.
+A static blog for D&D dungeon masters, built with [Astro 5](https://astro.build) and Tailwind CSS, hosted on Cloudflare Workers (static assets).
 
 Live site: **https://thegiantsbane.com**
 
@@ -12,7 +12,7 @@ Live site: **https://thegiantsbane.com**
 |---|---|
 | Framework | Astro 5 (static output) |
 | Styling | Tailwind CSS v3 |
-| Hosting | Cloudflare Pages (free tier) |
+| Hosting | Cloudflare Workers + static assets (free tier) |
 | Email subscriptions | Buttondown |
 | RSS | `@astrojs/rss` |
 | Sitemap | `@astrojs/sitemap` |
@@ -63,15 +63,18 @@ Post body in Markdown...
 
 ---
 
-## Deploying to Cloudflare Pages
+## Deploying to Cloudflare Workers
+
+The site runs on Cloudflare Workers static assets — **not** Cloudflare Pages (a Pages setup was tried first and didn't work; see `deployments.md` for the full story and troubleshooting runbook).
 
 1. Push your repo to GitHub.
-2. In the [Cloudflare dashboard](https://dash.cloudflare.com), go to **Workers & Pages → Create → Pages → Connect to Git**.
-3. Select your repo and set:
+2. In the [Cloudflare dashboard](https://dash.cloudflare.com), create a Worker and connect it to your repo via **Workers Builds** (Worker → Settings → Build).
+3. Build settings:
    - **Build command:** `npm run build`
-   - **Output directory:** `dist`
-4. Add a custom domain under **Custom domains** if you have one.
-5. Every push to `master` triggers a new deploy automatically.
+   - **Deploy command:** `npx wrangler deploy`
+4. `wrangler.jsonc` in the repo root tells wrangler the worker name and that `./dist` is served as static assets — update the `name` for your own Worker.
+5. Add a custom domain under the Worker's **Settings → Domains & Routes**.
+6. Every push to `master` triggers a build and deploy automatically.
 
 Before deploying, update `astro.config.mjs` with your own domain:
 
@@ -123,7 +126,7 @@ Suggested prompts to get started:
 "There's a scripts/import-blogger.mjs file — help me run it against my Blogger export XML"
 ```
 
-Claude Code can also write new posts if you give it an outline, help you add new sidebar sections, and handle Cloudflare Pages deployment troubleshooting.
+Claude Code can also write new posts if you give it an outline, help you add new sidebar sections, and handle Cloudflare Workers deployment troubleshooting.
 
 ### Generating a custom look and feel
 
@@ -174,6 +177,8 @@ src/
     series.ts         # Utilities for grouping related posts
 public/
   robots.txt
+  favicon.svg
   .assetsignore       # Required by Astro 5 build
 astro.config.mjs      # Astro config (site URL, integrations)
+wrangler.jsonc        # Cloudflare Workers config (worker name, assets dir)
 ```

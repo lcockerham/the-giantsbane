@@ -1,0 +1,20 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Page Not Found">
+  <div class="max-w-3xl mx-auto text-center py-16">
+    <p class="font-cinzel text-xs tracking-widest uppercase text-crimson mb-4">404</p>
+    <h1 class="font-cinzel text-3xl sm:text-4xl font-semibold text-ink leading-tight mb-6">
+      This page has crumbled to dust
+    </h1>
+    <p class="font-lora text-dim mb-10">
+      The page you're looking for doesn't exist, or its URL has changed.
+    </p>
+    <nav class="flex justify-center gap-8 font-cinzel text-xs tracking-widest uppercase">
+      <a href="/" class="text-crimson hover:text-ink transition-colors">Home</a>
+      <a href="/archive" class="text-dim hover:text-crimson transition-colors">Archive</a>
+      <a href="/tags" class="text-dim hover:text-crimson transition-colors">Tags</a>
+    </nav>
+  </div>
+</BaseLayout>
