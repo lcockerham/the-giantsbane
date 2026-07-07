@@ -1,6 +1,7 @@
 import rss from '@astrojs/rss';
 import { getCollection } from 'astro:content';
 import type { APIContext } from 'astro';
+import { postSlug } from '../lib/series';
 
 export async function GET(context: APIContext) {
   const posts = await getCollection('posts', ({ data }) => !data.draft);
@@ -11,7 +12,7 @@ export async function GET(context: APIContext) {
     description: "A D&D dungeon master's resource blog by Lucas Cockerham.",
     site: context.site!,
     items: sorted.map((post) => {
-      const slug = post.id.replace(/\.md$/, '').replace(/^\d{4}-\d{2}-\d{2}-/, '');
+      const slug = postSlug(post);
       return {
         title: post.data.title,
         pubDate: post.data.date,

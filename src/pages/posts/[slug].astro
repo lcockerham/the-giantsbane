@@ -1,13 +1,13 @@
 ---
 import { getCollection, render } from 'astro:content';
 import PostLayout from '../../layouts/PostLayout.astro';
-import { getSeriesNav } from '../../lib/series';
+import { getSeriesNav, postSlug } from '../../lib/series';
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts', ({ data }) => !data.draft);
   return posts.map((post) => ({
     params: {
-      slug: post.id.replace(/\.md$/, '').replace(/^\d{4}-\d{2}-\d{2}-/, ''),
+      slug: postSlug(post),
     },
     props: { post, seriesNav: getSeriesNav(post, posts) },
   }));
