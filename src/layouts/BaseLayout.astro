@@ -2,9 +2,10 @@
 interface Props {
   title: string;
   description?: string;
+  ogType?: 'website' | 'article';
 }
 
-const { title, description = "A D&D dungeon master's resource blog by Lucas Cockerham." } = Astro.props;
+const { title, description = "A D&D dungeon master's resource blog by Lucas Cockerham.", ogType = 'website' } = Astro.props;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 ---
 
@@ -16,6 +17,13 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     <link rel="canonical" href={canonicalURL} />
     <meta name="description" content={description} />
     <meta name="generator" content={Astro.generator} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content={ogType} />
+    <meta property="og:url" content={canonicalURL} />
+    <meta property="og:site_name" content="The Giantsbane" />
+    <meta name="twitter:card" content="summary" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
