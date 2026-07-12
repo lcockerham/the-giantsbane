@@ -1,6 +1,6 @@
 ---
 title: "Guide to Running Hall of Harsh Reflections"
-date: "2026-06-08"
+date: "2026-07-12"
 draft: false
 tags:
   - "AgeOfWorms"
