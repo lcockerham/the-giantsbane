@@ -154,6 +154,14 @@ The workflow: ask Claude Code to write the variants, run `npm run dev`, and comp
 
 ---
 
+## Image attribution
+
+Posts include official art from D&D books, modules, and Dungeon magazine issues (Wizards of the Coast / Paizo), used to illustrate reviews and guides for those specific products — not sold, not used to promote unrelated content, and not stripped of any logos or trademarks present in the source art. This falls under Wizards' [Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy), which permits incorporating their IP into fan blogs and reviews like this one.
+
+Images are self-hosted in `src/assets/posts/` (migrated from Blogger hotlinks via `scripts/migrate-images.mjs`) rather than linked from their original source, so posts don't break if that source disappears. If you're a rights holder with a concern about a specific image, please open a GitHub issue and it'll be addressed.
+
+---
+
 ## Project structure
 
 ```
