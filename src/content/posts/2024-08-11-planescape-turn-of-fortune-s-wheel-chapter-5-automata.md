@@ -12,7 +12,7 @@ description: "Guide to Automata, the orderly gate-town to Mechanus in Turn of Fo
 
 [Chapter 4: Into the Outlands](https://thegiantsbane.blogspot.com/2024/07/planescape-turn-of-fortunes-wheel.html)
 
-![Automata Quote](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW4GPANC1u6tI0682oUCXJt41a_cmLyEUKzL8TDjGEZdG3Av3Ucw8SfaR9k94WDHUDUKNSb3ANytzFxoFOHeeZsR-ORvOgtuoR9zfi_eS0hqeVR_OhECJ8XHOOCKAmdmjKZFAgZBGUxXuudPkoQ2qdBmrip7mnseBxghyEY0aRSZOsA1c_C05jPfPMM3I/w320-h169/Automata%20Quote.png "Automata Quote")
+![Automata Quote](../../assets/posts/2024-08-11-planescape-turn-of-fortune-s-wheel-chapter-5-automata/automata-quote.png "Automata Quote")
 
 I'm picking back up posting my in progress guide to running Turn of Fortune's Wheel. I am planning on posting a new gate town each Sunday. I'll have an outline of information about each gate town (including anything useful from 2e) and an outline of the adventure as written with any of my own tweaks.
 

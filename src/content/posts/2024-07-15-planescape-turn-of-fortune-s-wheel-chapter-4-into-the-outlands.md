@@ -12,7 +12,7 @@ In this chapter, the characters will encounter a walking castle they can take co
 
 Look [here](https://thegiantsbane.blogspot.com/2024/02/planescape-turn-of-fortunes-wheel_13.html) for posts about part 1 of the adventure.
 
-![Iedcaru the walking castle](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz84MQY3JMHzNAaplWWo23kGTdf6c6elqzbarUPYQ_V7LjyQrdKWofVvMSkIu5azUf5ynd_LQQNFZcQ6Vvb9jnXQ9wG3ZKPoayq19OQ6r3it2XlEqal9Ysjm1mkKuU5RAjUBh_ztfIXykM9lvHMBcXvZL4AoKIiCoPs_S3BJnyFAg8OSMDbpTM1YBufFE/w164-h320/walking%20castle.png "Iedcaru the walking castle")
+![Iedcaru the walking castle](../../assets/posts/2024-07-15-planescape-turn-of-fortune-s-wheel-chapter-4-into-the-outlands/walking-castle.png "Iedcaru the walking castle")
 
 ## The Walking Castle
 

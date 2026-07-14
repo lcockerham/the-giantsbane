@@ -18,10 +18,10 @@ One of my players who is newer to DnD asked me a question recently:
 
 Our group has a very mixed experience level with D&D. This reaction came from Volo showing up to give the characters a quest at the end of our session 0 of Waterdeep: Dragon Heist. But I've seen this same thing many times with mixed groups where some iconic D&D character shows up, and half the party is like "Whoa, Mordenkainen!" and the other half has this reaction:
 
-![Confused person saying "who?"](https://blogger.googleusercontent.com/img/a/AVvXsEib-J8QXfXIkm4Kp7RxkuhCnZeLKnGr7WVoVhag1rPNMTi-b4f_HUQ5Hm26vMXR5LON8DYRDrXs9DVoSyoWbuKjRrRDgweTx31n9cOs08VE2nTtEmccuUBKp6e6j7rcWWWR8q0gFkKWyPLhMJDX0_J_RGtwx6X580Fr2MDtb87_BPVVHzwLQaSyfhhxrz8=w320-h240 "Star Lord!")  
+![Confused person saying "who?"](../../assets/posts/2024-10-08-dungeons-and-dragons-settings-101-greyhawk/confused-person-saying-who.png "Star Lord!")  
 So I decided to write a short summary of each setting, its main movers and shakers, and things newer players may want to know without having to surf around several wikis. I am sure I will leave some important folks out and get some things wrong, but I think I can create something good enough to be fit for purpose for new folks coming into the game. And I can always edit my mistakes later! Enough preamble - there is only one logical place to start - Greyhawk. 
 
-![Greyhawk Setting Image](https://blogger.googleusercontent.com/img/a/AVvXsEjpHNr3SSTvZndxGMkI8gojHg0VZJybcNbwq46pXIOZXCpxZtpkcrgaL_ayQOVu2h85eIGnYtJz_c04A64tC7yskw5_RViCRLOaINRXGSNdo13wp2piZTION2dWzFBinOedCrPDg5IkEo2SSPucOTMoFxKzONkUNjt5X-6RNNSKKCObEaUXz77aK1GofZ0=w320-h75)
+![Greyhawk Setting Image](../../assets/posts/2024-10-08-dungeons-and-dragons-settings-101-greyhawk/greyhawk-setting-image.png)
 
 Original Greyhawk Campaign
 

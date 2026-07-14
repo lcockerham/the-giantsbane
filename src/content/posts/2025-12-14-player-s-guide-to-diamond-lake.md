@@ -16,27 +16,27 @@ This post shares the basics about Diamond Lake and is written to be shared with 
 
 Diamond Lake began as a treasure seeker's outpost, as many cairns dot the surrounding hills. Those treasures were all gone decades ago. For a while, the town became a sleepy fishing town until the mines opened for Greyhawk and polluted the lake. It has remained a hard-bitten mining town for decades now. The work is dangerous and difficult, luring only those in the most desperate of circumstances. Greyhawk installs a Governor-Mayor, but the town is mostly run by the managers of the most lucrative mines.
 
-![](https://blogger.googleusercontent.com/img/a/AVvXsEiyy7gsHR4HOjJIkY30DvA9i1NBkYZga10rnqZ_8nNXsk3n2VtQQhvMKNWNmHApc2tCaYtidUBgqAAcOIpVXQgdYhIFdn6beM5fzMr1HFe0Z_K8Tt6UPGfM-B_EUAa1HRMUKPZfUMjDh-alWo1-QNkKtCLfb4YoBQy9avBXP1YB90K1XXTk3EDH1gW6w34)  
+![Map of Diamond Lake showing numbered locations including the Emporium, mines, and the Old Observatory](../../assets/posts/2025-12-14-player-s-guide-to-diamond-lake/image-1.png)  
   
 
 ### NPCs
 
 #### Governor-Mayor Lanod Neff
 
-![](https://blogger.googleusercontent.com/img/a/AVvXsEi-JO-jdAvBkYHVR2oROwMFUuZhwPMSIpklHV1ytlh9XLdHNCVUnlPpxMt8rScBi7kDMqPN3a-GaFMYNj_33oaQUA9wY3GBEdskLCz0Hu5mp4tLhJUBRDq4TUH6DnUKhVZ1bzEeMDsUCG_fnSlLN3PC9XBu2T8_jW9B5msZuNw-O2GUD9R1LvUoJi2jwGw)
+![Portrait of Governor-Mayor Lanod Neff raising a toast with a glass of wine](../../assets/posts/2025-12-14-player-s-guide-to-diamond-lake/image-2.png)
 
 The main agent of the Free City in Diamond Lake is a lecherous philanderer who prefers to ignore problems until they go away.
 
 #### Sheriff Cubbin
 
-![](https://blogger.googleusercontent.com/img/a/AVvXsEjBtwm4YcBd_yAEnnaNLt_3b6c7UBYqq4e4R3U3fev5S0IZK2FB9pq72U9sCKsRFgslRNmUlAI7HB02W9849hRA3EfnyX_QzL-uUJv52FrQgYQytLrtLDH8pGr1nmJt91hl5GVl9vMnsg3734gAK9sdZPKQx0BvO0lTY_KOvdY8hF4U244b-TJ2c3ObFzY)  
+![Portrait of Sheriff Cubbin, a gruff, weathered man seated at a table with a bottle of liquor](../../assets/posts/2025-12-14-player-s-guide-to-diamond-lake/image-3.png)  
   
 
 The Sheriff is Smenk's right hand and enforcer. He is famously corrupt.
 
 #### Allustan
 
-![](https://blogger.googleusercontent.com/img/a/AVvXsEgdn9ma-q93IronH74Ks_fuotf4SD8JQQzYEaAr-t-EuyychufT8I1wfxOJT5cbOGdlOsRpmXVS6IZpJCZ23Oc7lZgec1gAYvTUS6i8zqq-Plj-ORxjYogSpsP7dkcZaAQTBh8PkfPxC9ccv4IvMbmcwwNRInlde6Ql5pHscQA7ec7uiBwhIkQnLMH31fU)  
+![Portrait of Allustan, a bearded man with metal rings woven into his beard](../../assets/posts/2025-12-14-player-s-guide-to-diamond-lake/image-4.png)  
 
 Neff's brother, a wizard who retired to Diamond Lake five years ago. His reputation as a powerful wizard with deep connections to important personages in Greyhawk helps keep Neff in power.
 
@@ -44,19 +44,19 @@ Mine Managers
 
 **Balabar Smenk**
 
-![](https://blogger.googleusercontent.com/img/a/AVvXsEjHqYLWMZZysNWFZHMVSNA0OaHrSwYTcqRXKOIrbhZtKlj7Y2mwOwMwXmQOjQ5POEfWP_c6x1nsmUh-7nenoabv4nfy5Dw3rctoydhUiuCyyej2sMpubuURXm7DkUQCdkN2eMMUoyBmJIo3vrNZxoXQRsw96oHuvAG_D_BZ-zdGvUmMebjI_6fHsIrFPoA)  
+![Portrait of Balabar Smenk, a balding, disheveled mine owner](../../assets/posts/2025-12-14-player-s-guide-to-diamond-lake/image-5.png)  
 
 A relative newcomer, Balabar seeks to monopolize mining in town by driving his competitors out of business, then buying their mines for a song.
 
 **Ragnolin Daggerstone**
 
-![](https://blogger.googleusercontent.com/img/a/AVvXsEh2rNfuJ5eJMfh_iED0s2h9cCxux02gyb9WoyGWstXJjNjiCS2LvpS1-YX6e6qb3XnovqMzAdYUxi_Vq1GYFfOEwQ745fT_GQDla4bJ_3eTEVGxnbSMf_RaApbnTckwHA3a_XTCycwoSFNmKYmLEoYgW2h6lb6sIujhp9zxEIuEu1KjQd0l2974dxfwdbA)
+![Portrait of Ragnolin Daggerstone, a gruff dwarf with a large braided mustache](../../assets/posts/2025-12-14-player-s-guide-to-diamond-lake/image-6.png)
 
 Ragnolin moved here 50 years ago from the Dwarven community of Greysmere, and has a successful ore mining and smelting operation.
 
 **Chaum Gansworth**
 
-![](https://blogger.googleusercontent.com/img/a/AVvXsEjqLoZ10auXESUVFnAdS3vVt2nSb7D9MpGsQbNEBp80Dztr1FZL0CHCeZd135DMtlvqjfdNf8L2gz6nYRxNjH8D3RjpzWK4mxCPuFyQ_5TSPQoDWA6GErKF2mZTSBj_ufKTYszM3Q5f1Ay-4FUdbELA7tGGjIgB5Y_8BUTaG1G3VzG1bO9bwUGPlpWMKZE)
+![Portrait of Chaum Gansworth, a well-dressed man with clasped hands and jeweled rings](../../assets/posts/2025-12-14-player-s-guide-to-diamond-lake/image-7.png)
 
 The newest mine manager, Chaum is in an (for his part) uncommitted relationship with Luzane Parrin. He's highly pragmatic and skeptical of the other mine managers' ability to stand up to Smenk.
 
@@ -70,7 +70,7 @@ Gelch Tilgast was foremost amongst the mine managers until Smenk showed up. Now 
 
 **Luzane Parrin**
 
-![](https://blogger.googleusercontent.com/img/a/AVvXsEi93aWbf_nFXPK_S42Dil0j_IDev-A_oDyaZCRk9hfo4_IYjjQUvL9BEOrPwvy9O0FW0C19UQ3FWRPAW_7bz2XHi80ohcSSEQXwCysnn8SafaXyWbXYCmMGpqHCG5YW3u7rX0jBrEAvUmzf2BwPYRsxLaSzmgFIbXAp6hBuuI5WqXWp-SVccokQNw5GRM0)  
+![Portrait of Luzane Parrin, a woman in an elaborate embroidered dress and jewelry](../../assets/posts/2025-12-14-player-s-guide-to-diamond-lake/image-8.png)  
   
 
 Luzane Parrin inherited her mines from her mother and desperately tries not to lose that inheritance to Smenk. Her husband died mysteriously two years ago, and now she woos Chaum as a lover and an accomplice to challenge Smenk.

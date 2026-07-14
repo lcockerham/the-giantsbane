@@ -7,7 +7,7 @@ tags:
 description: "Prep notes for Orientation, the first Spelljammer Academy adventure — an in media res combat start followed by a day of tasks introducing the academy, its NPCs, and a hungover Mirt the Merciless."
 ---
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5u80dkdQ2_W9V2kSgjyDx3G6mq23VZG-TvcCZJeY8z8l_zrlROELTHXJxIcgBo7Lfw5_7SPnxLYHKk73WHHGDoqBqT9ugrOCIC2rc-DVKrFjZyQbk-If1cfVh0lDCEUUao4Py0E7FtRFr_GJ2GN4JTGtBm42psZbJzCEb9cIqo70xzfLwYgzCCDav/s320/orientation.png)  
+![Illustration of an observatory tower with a spiral staircase and telescope, overlooking a docked spelljamming ship](../../assets/posts/2023-03-02-spelljammer-academy-orientation-a-guide-to-running-the-adventure/orientation.png)  
 I'm running Spelljammer Academy for my two DnD groups, and I am posting my prep notes for others to re-use, and updating the posts with learnings from running the game. I'm using the template from SlyFlourish's notion.so [post](https://slyflourish.com/lazy_dnd_with_notion.html). Part 2: [Trial By Fire](https://thegiantsbane.blogspot.com/2023/03/session-overview-for-spelljammer_0999825051.html)Part 3: [Realmspace Sortie!](https://thegiantsbane.blogspot.com/2023/03/session-overview-for-spelljammer_01265382499.html)Part 4: [Behold H'Catha](https://thegiantsbane.blogspot.com/2023/03/session-overview-for-spelljammer_28.html)Characters
 
 -   Review the characters

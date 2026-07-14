@@ -12,7 +12,7 @@ description: "Guide to Curst, the prison gate-town to Carceri in Turn of Fortune
 
 [Chapter 5: Automata](https://thegiantsbane.blogspot.com/2024/08/planescape-turn-of-fortunes-wheel.html)
 
-![Curst](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlsxP7lZ2YD_2I_aHLFawo5hnjONCAQHCptkh8gPAEsTLiZ6_6BSUdXgzM0zG5YnTHwuDY1RVXBWgH7iuW4ee0YR9iNg3fdmUeDlUG-4-WkEQMmhq0sB5WhhooIKhOvjeRuvMTRdonmY_eGxytPkrCveC437lOlDrIR5MOVVcBf6xPbeAYV0vdPqFACXg/w320-h319/curst_gate.png "You can check out any time you like, but you can never leave")
+![Curst](../../assets/posts/2024-08-18-planescape-turn-of-fortune-s-wheel-chapter-6-curst/curst-gate.png "You can check out any time you like, but you can never leave")
 
 I'm picking back up posting my in progress guide to running Turn of Fortune's Wheel. I am planning on posting a new gate town each Sunday. I'll have an outline of information about each gate town (including anything useful from 2e) and an outline of the adventure as written with any of my own tweaks.
 

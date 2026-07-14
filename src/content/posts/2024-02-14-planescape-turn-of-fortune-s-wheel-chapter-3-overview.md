@@ -19,7 +19,7 @@ Valek, a tiefling commoner, greets the characters and gives them a letter from S
 -   Valek tells the characters they have ample time to get a full night's rest before exploring the casino.
 -   Additionally, Valek should insinuate Shemeska will help them with their current situation, but the characters will need to kill time until she is available.
 
-![Vecna Impersonator](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU8bPNqzhaQ5cyRFW0YrddL1YNdtEAGDEt2TuIpdk7vi06-IMZoYfuPDm5sB1P5jkbXUqXMK70w6U1T_jsfcwzIvTA3RUrre99wcYJmS7sgtl5jrs1w62Oh5b6HCRLQ64Pq1Uav8CuZeGNsNGoTrP2y-xAKYagBKZyUXsUDLEcRnx9IBFwGVFIwgeS3lA/w140-h320/Vecna%20Impersonator.png "Facepalm")
+![Vecna Impersonator](../../assets/posts/2024-02-14-planescape-turn-of-fortune-s-wheel-chapter-3-overview/vecna-impersonator.png "Facepalm")
 
 ## Casino Map
 

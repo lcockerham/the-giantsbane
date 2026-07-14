@@ -19,7 +19,7 @@ Introduction
 
 This is how I changed the Call to Action. Telegraph to your characters that it's meant to be a strong start to introduce a recurring villain, and admit that you are railroading them for the sake of the story. If they really resist, have the other mine managers, Allustan, or some other ally of the party step in and get them released. That NPC can then relate the information below if needed.
 
-![](https://blogger.googleusercontent.com/img/a/AVvXsEi3sbIGmct2fOG3jhZc5oDaA1sr70NeUw5xyhXff-eZw7Ge1aX0GqxNSBjiPS5I8G2FXE1wSBS25zQ9RzU_HQ9dMx2y8F5c-0F0myAkT4xJ-rU_3UdAbScdsg6Fn9lfLMf3EuBcRIDA3igqP91JyAz2PeOMnpiuyru5TyaYgOPNWWW-7LFs1cg8vV1Bjsw)  
+![Portrait of Balabar Smenk, a balding, disheveled mine owner](../../assets/posts/2026-01-12-guide-to-running-the-three-faces-of-evil-part-1/image-1.png)  
   
 
 At the end of The Whispering Cairn, as the characters exit the cave, they are arrested by Sheriff Cubbins and a dozen guardsmen for breaking into the observatory and stealing from Filge. Once in jail, Balabar Smenk comes visiting. After threatening the characters a bit, he tells them the following:

@@ -14,7 +14,7 @@ description: "Guide to Glorium, the glory-obsessed gate-town to Ysgard in Turn o
 
 I'm picking back up posting my in progress guide to running Turn of Fortune's Wheel. I am planning on posting a new gate town each Sunday. I'll have an outline of information about each gate town (including anything useful from 2e) and an outline of the adventure as written with any of my own tweaks.
 
-![Nice try chatGPT](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3pe3d5jq22ICDxj1Yx134WbZHVjGsko9_vmo4I4QeI7wslUmE_B0tTzqqrZ-rRozYxiGU447pwfGEPOjG68SBBsgDkdZipWJsVzTH95SSzdeHghUU6lb6opzjRkCoD56JseA5uY9mkiRjUZRR84C4ieNdqysqT_9DZncnbbF11sTOwxfPByz6QUtats0/w320-h183/Glorium.webp "A whirlwyrm attacking the Courier...but not really")
+![Nice try chatGPT](../../assets/posts/2024-09-08-planescape-turn-of-fortune-s-wheel-chapter-9-glorium/glorium.jpg "A whirlwyrm attacking the Courier...but not really")
 
 -   Notes about Glorium
     -   Everyone is about competition and glory here.

@@ -68,7 +68,7 @@ Part 2: The Dark Cathedral
     -   Rewards: 1000 gp ruby set into the forehead of the statue.
     -   Development: If the characters can't make it past the door in room 6, they will be forced to battle the cultists here on grounds of their choosing. Theldrick, Garrus, and Kendra will attack from the rim of the temple, while zombie and remaining cultists and veterans attack at ground level. Enterprising characters will notice they can topple the statue to reach the rim with the priests.
 
-![Theldrick, Priest of Hextor](https://blogger.googleusercontent.com/img/a/AVvXsEjGGl8raora4350QcvXg228JCX79eEzV6OWjZl3l0VluBWJRfWIrmgPIVP3IEUeXCqVfSdF78LFNsfelfCMPy-mrCpWHK71GKLsX5KoAOm91_wpPABK8FJmNKp7jjpuIRLYAEW4tvm8aRBwOBjWwiC1lM34tRdCsKxyopt91ABxV8A6oyf0EP1qEoUlPAg=w400-h400 "Looks like a Theldrick if I have ever seen one")
+![Theldrick, Priest of Hextor](../../assets/posts/2026-01-18-guide-to-running-the-three-faces-of-evil-part-2/theldrick-priest-of-hextor.png "Looks like a Theldrick if I have ever seen one")
 
 ## Summary of Enemy Responses
 

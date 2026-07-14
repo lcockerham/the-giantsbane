@@ -16,7 +16,7 @@ Whew, almost done with part 2! This final chapter provides some encounters in th
 
 I'm looking forward to finishing running part 2 in early November, and starting on my guide for part 3 then. I will pick this series back up at that time. 
 
-![Adventurers in the Outlands stare at the Spire in the center, with Sigil at its top.](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidHlxdhs3vcaR9Dy1vZC8bkKfhKNix2tn9y1X_TDz8IPlL3Wdf1Fw5cb8bIEp0mGQpcrKPHI_lnE5bqOHoUaYGtCf39fKgGBjrwowx2LiJOgjgKM-Re7_3vep146T-RZGTew6CNVKVLmisUpS3P8-I6drKGvgqZjvKxCgpMhyzQa3jsc7pgUR0j0lNTJI/w241-h320/outlands.jpg "A great piece of art of from the adventure depicting the Outlands.")  
+![Adventurers in the Outlands stare at the Spire in the center, with Sigil at its top.](../../assets/posts/2024-10-06-planescape-turn-of-fortune-s-wheel-chapter-12-outlands-explorations/outlands.jpg "A great piece of art of from the adventure depicting the Outlands.")  
 
   
 

@@ -8,7 +8,7 @@ tags:
 description: "Practical lessons from ten sessions of Waterdeep: Dragon Heist — gold pacing, faction assignments, villain selection, season choice, and the best DM's Guild supplements to expand the campaign."
 ---
 
-![Image of the City of Waterdeep](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4A1Wfwgvzepfe85cchykJFPD8Kv-X68-y-wOFRLxiQn4jI92OnGL6jdqmNbnckFeaKAAn-WOY77jbLYcUVVUYiJ5BJ9Smjmre7MDRVAEoJYt-wUaQW3YhvIAv7ukThbtF9DeC5vOcsCm-_0IQvu8sNMy6_8ZH98CvdV8RWWrnE43K9PUqzA09EjdKApU/w320-h212/Waterdeep.jpg "Waterdeep, City of Splendors")
+![Image of the City of Waterdeep](../../assets/posts/2024-11-23-preparing-a-waterdeep-dragon-heist-campaign/waterdeep.jpg "Waterdeep, City of Splendors")
 
 Introduction
 

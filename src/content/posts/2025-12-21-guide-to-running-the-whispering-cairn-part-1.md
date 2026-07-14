@@ -23,7 +23,7 @@ description: "Part 1 of the 5e DM guide to The Whispering Cairn — the tomb ent
 -   The Whispering Cairn was the final resting place of Zosiel, a Wind Duke who died in the Battle of Pesh against the forces of elemental evil led by Miska the Wolf Spider. The Wind Duke Nardoc architected his tomb.
 -   Many youths dared each other to enter the cave, but most quit after a girl disappeared in the cave 6 years ago
 
-![](https://blogger.googleusercontent.com/img/a/AVvXsEhO6PyCSahjcKVrK8TKYiIp7x-aGPg3faO4ttPP2-kpKOEc7Pk22C0BVPYH5E7CZFOq3asi0loqObkK4XEZQGAzJtNjfgswi5yn7gKb7fOKKPpaGVt2VWQy43iYdwD2ky3GtFOELe5UEDtLS6ikzs9ueNuu3FOYEH74R-5ZjsWGlBw3OqCskYyAfKkoIug)
+![Illustration of three adventurers -- an elf woman, a knight, and a torch-bearing rogue -- approaching the entrance to the Whispering Cairn](../../assets/posts/2025-12-21-guide-to-running-the-whispering-cairn-part-1/image-1.png)
 
 ## Adventure Flowchart
 

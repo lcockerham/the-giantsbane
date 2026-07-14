@@ -10,7 +10,7 @@ Misplaced Spirit is a short introductory adventure in the Planescape Campaign Se
 
   
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYWo-UPGbC3ZIoO_8bO1ab2v1Q49jqAF2t2WoHwgXuUSsT4CGRdf52bMaFV1nx8-XJ15VW0Q9sLIdtGnwxBA4uSq5_loYhNl1F_fqWgYAPni_RJPjpHmAT3JOG1vJKGFqBnsiG5a3T-OgcMLn1ta7het4vQjbmOhQf3JPDSupzGFAhSHm8EjyuxG-yg4g/s320/misplaced%20spirit.png)
+![Ink sketch of a horned fiend wielding a scythe beneath a full moon, standing over a bed of roses](../../assets/posts/2023-07-13-5e-conversion-of-the-adventure-misplaced-spirit-from-the-2e-planescape-campaign-setting/misplaced-spirit.png)
 
 PetitionersA petitioner is the soul of a deceased individual that has been transformed after reaching the plane that aligns with their ethos, beliefs, or alignment in life.  
   

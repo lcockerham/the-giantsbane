@@ -34,7 +34,7 @@ Part Four: The Feral Cock
 -   Kullen has a _**potion of healing**_ in his possession, along with 9 gp.
 -   If characters can’t get information about Filge and his observatory the first time, Kullen and his thugs will look to ambush them later.
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijfz6hkjuS0ZKzEQHZQ2CVl_Pf2-HOa0yYXh8etfBshowWrsnOEbxb6LYKdCbBeBr1SLY0j5T1fxFpC4JO3Xkrl_3MegB4FylSRQA5i5gqbweed_7u1sTy5sQfjaaOQuX32vqnGarMRuHQxIhVfRs7IbDQwORf_z4Fv_ztnBoTsZu_ZLaq0hSC6aR9Sms/s320/filge.png)  
+![Portrait of Filge, a pale, sinister-looking alchemist NPC](../../assets/posts/2026-01-04-guide-to-running-the-whispering-cairn-part-3/filge.png)  
 
   
 

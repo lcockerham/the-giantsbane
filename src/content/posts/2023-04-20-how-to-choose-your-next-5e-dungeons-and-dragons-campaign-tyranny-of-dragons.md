@@ -9,7 +9,7 @@ description: "A guide to deciding whether to run Tyranny of Dragons — a classi
 
 I've been DMing, playing, and reading fifth edition adventures since the launch of the edition. I decided to write some guides that DMs can use to can use to choose their next adventure. I'll post one at a time, then tackle them as a whole at the end. 
 
-![Tyranny of Dragons logo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmBZpz9-tGgxqcvsyHeVs59QpUXxCOxsllZJpKs2PYvdeZkN8tAAKt96AKWiB9e0TP7abH3gTgIQTLeaObkYDAHRpN8aLFoXbRb7LdSezcIKV9s08uJ7vHSg21QTsnzaxWGlWvntyr6n9pH8iiudhIxpLEMO2vyRH6xdhQBuRfZDOG21A8y6rOX34g/w320-h97/Tyanny%20of%20Dragons.png "Tyranny of Dragons logo")
+![Tyranny of Dragons logo](../../assets/posts/2023-04-20-how-to-choose-your-next-5e-dungeons-and-dragons-campaign-tyranny-of-dragons/tyanny-of-dragons.png "Tyranny of Dragons logo")
 
 Hoard of the Dragon Queen/Rise of Tiamat
 

@@ -32,7 +32,7 @@ If a character experiences three glitches in a single level, the character unloc
 
 When the characters first arrive and meet Parisa in "A Tout to Help You Out" have her give the characters the handout below. She explains that the Society of Sensation wants newcomers to Sigil to have a guide of the sights to see in Sigil. If the characters can go to/accomplish each item in the handout, they can turn it in at the Civic Festhall and receive a prize. In terms of running the game, the goal of this is to encourage players to explore Sigil in a semi structured way.
 
-![A basic Sigil Bingo card](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqJeGhNm9Qn0hcQjJ-wzBDAGOrtYmeeDbIHGjw1BmubsozquMuas79rHQDdHCYxExdh7azaiV967RG74GH9gl66vTmxm8XBmrKaLn7xbnBGA7wEdC_JnVSfgvvJLZRWf_tLGSJrxzMdyTIlnxcVHxFCZnZgx5j_P76uiDPWBwwmidy0J-B-O3QhFgK8hQ/w320-h113/Sigil%20Bingo.png "A basic Sigil Bingo card")
+![A basic Sigil Bingo card](../../assets/posts/2024-01-25-planescape-turn-of-fortune-s-wheel-chapter-2-part-1-an-introduction/sigil-bingo.png "A basic Sigil Bingo card")
 
 -   **Meet the Factions:** The characters should learn about at least 6 of the factions in Sigil. They should know their official name, their epithet, and their credo (ie, Athar — Who claim the gods are frauds). If you want a faction heavy campaign you can make this number higher, but it can feel like busywork if there are more than the characters can easily meet organically.
 -   **See the Smoldering Corpse at its Namesake Bar:** See the scene to come.

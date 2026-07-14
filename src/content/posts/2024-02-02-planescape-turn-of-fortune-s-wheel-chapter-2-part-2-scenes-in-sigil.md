@@ -16,7 +16,7 @@ Scene 1 happens as soon as the characters leave the mortuary. Give the players t
 
 After characters bump into irate tiefling, bariaur named Parisa appears and gives characters a tourist guide and offers to show them around. Parisa is a bariaur wanderer that is a tout (city guide) who is happy to show the characters around Sigil for a modest fee (3 gp per day). She also hands them a flyer for experiencing Sigil produced by the Society of Sensation.
 
-![Parisa the tout](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8qk-IcKEG8f-Y1cEPxzWmqlspJiv_GK6o1NMlX5RT0mItWUYDvnrc2UIY-msyLEl0GDkf2Wvm3Aqim6Gyr6wTfe_JF9Ck-xBot5LJhLI7PjSsI8sji_c_GumCFeGiVzAjTlYopMb2yqNoz7RlIcuWPAopSPmgpCGac8FsHs0mlPTEW9q9UQZ8rdw02so/w320-h265/Parisa.png "Parisa the tout")  
+![Parisa the tout](../../assets/posts/2024-02-02-planescape-turn-of-fortune-s-wheel-chapter-2-part-2-scenes-in-sigil/parisa.png "Parisa the tout")  
 
 ### Scene: Sensory Experience
 

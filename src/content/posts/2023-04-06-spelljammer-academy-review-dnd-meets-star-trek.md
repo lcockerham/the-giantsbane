@@ -7,7 +7,7 @@ tags:
 description: "A review of Spelljammer Academy, the limited-release promo adventure — a delightful Star Trek-inspired onboarding experience with rough ship combat rules and a weak tie-in to Light of Xaryxis."
 ---
 
-![Cover Logo to Spelljammer Academy](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4sVLnYkuJLyEFdgpJWWBRJ-PlH0W3NWscMFttPwVqo2zd9ZW84lOd94psh9Tm-U5uutMQX_UyH7hGll1ovhpPEYI0WzGizSvCgCJihNGatkjaUiAPPI6nII9Eii6hiR0uCDOorTpzzyKCxfQuZ2topggCivaV8_e70Sq8OrWV7rBuvKPkl1RzL2KI/w320-h79/Spelljammer%20Academy.png)  
+![Cover Logo to Spelljammer Academy](../../assets/posts/2023-04-06-spelljammer-academy-review-dnd-meets-star-trek/spelljammer-academy.png)  
 
 ## Summary
 

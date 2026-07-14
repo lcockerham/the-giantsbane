@@ -9,7 +9,7 @@ description: "A guide to deciding whether to run Dungeon of the Mad Mage — the
 
 I've been DMing, playing, and reading fifth edition adventures since the launch of the edition. I decided to write some guides that DMs can use to can use to choose their next adventure. I'll post one at a time, then tackle them as a whole at the end. 
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9oMyEwTe2wcEorA3CtyafPuIyNeNz6B2SDYU9WVkjvGKCPtSwotJkIZVm5nLNGIp7mqxCgl5FPz0_dHbkffQR8W5OJ9ZxwVD2MZwPiMX7dWVsrZJfKgox33KDUf0bcFitSdYOEbwWveQBC3OdExat8SmN2T2trunu1We1ZQUFvOHwKCUoKIn5-nWQ/s320/Undermountain.png)  
+![Cover art for the Forgotten Realms boxed set The Ruins of Undermountain](../../assets/posts/2023-05-11-how-to-choose-your-next-5e-dungeons-and-dragons-campaign-waterdeep-dungeon-of-the-mad-mage/undermountain.png)  
 
 ### Summary
 

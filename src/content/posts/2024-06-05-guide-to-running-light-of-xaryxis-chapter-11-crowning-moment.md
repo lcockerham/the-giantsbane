@@ -9,7 +9,7 @@ description: "Guide to Chapter 11 of Light of Xaryxis — infiltrating or arrivi
 
 [Guide to Chapter 10 - Space Invaders](/posts/guide-to-running-light-of-xaryxis-chapter-10-space-invaders)
 
-![The Citadel of Xaryxis](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3o1IFHd1jDHXuOIgU2C3NT_0pVmDqoEa_rB1EFpmjSvx6wAr-TPMXz9UAHsmAlo-wuM0YvPHr_XihZwaH-ETvQCg9WqBIUu2Sns63Pnqm0MVJgd2tKniFIPjU9TnbnYwRm497leK2g5uaqhxj0LW0TU49tcn3H5CGXhMBUIKAzCSBl6whlnR3k8vVHOk/s320/The%20Citadel.png "The Citadel of Xaryxis")
+![The Citadel of Xaryxis](../../assets/posts/2024-06-05-guide-to-running-light-of-xaryxis-chapter-11-crowning-moment/the-citadel.png "The Citadel of Xaryxis")
 
 ## Arrival at the Citadel
 

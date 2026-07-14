@@ -10,7 +10,7 @@ description: "A complete Dragon Heist faction quest — The Mystery of Maeralon'
 
 I am running Waterdeep: Dragon Heist for my regular Sunday group. This group is all online and dispersed around the country. However, I organized an in-person Dungeons and Dragons weekend in early November, and a couple folks from the online-only campaign were able to attend in person. So I wanted to run a hybrid game for them...and use my miniatures and terrain!
 
-![A group of miniatures approaches a watchtower on a gridded map with a body of water and a bridge.](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVl4Sh6Sg07qwTrQosCEVQ6XL7TOIX2or0Gz5BhlB4Vt7JbQrZiREBJZk3T2uhYP0EyNEt7bLA6jrgbxKS9WftynuLla-Hf058Jh9xGL6_vmMH5lsw4XgO9c_QOXyhXGj1XZqgwmv0X5ak2K7c_QkzPGbmFLd3qm6QaBdlTAC5I2KEizCZb5yg3qusW0U/w240-h320/watchtowe%20blurred%20straight.jpg "The party approaches the tower!")
+![A group of miniatures approaches a watchtower on a gridded map with a body of water and a bridge.](../../assets/posts/2024-12-06-the-mystery-of-maeralon-s-tower-a-waterdeep-dragon-heist-faction-quest/watchtowe-blurred-straight.jpg "The party approaches the tower!")
 
 I'm planning three blog posts about this:
 
@@ -47,7 +47,7 @@ Approaching the Tower
     
 -   **Wild Magic Zone**: A 50-foot radius around the tower is suffused with unstable magic. Casting a spell of level 1 or higher potentially triggers a Wild Magic effect. Roll a d20 each time a spell of first level or higher is cast within the zone (including inside the tower).
     
-    ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4jK52QKI9QFuxwUzRFNC0eziDO01ZAJbkGetdTmKmOROng_RfF_MkWr_cHpB1VmOHR5tP56MEccR8jdZrN0ge7XfVQB9w3jJSsmMVmqi7rtwG3H1UDfK8heDRJgGh8uJT2vbwnFFlGKwDxK0yRm913_-LpUjC9yuddGe1lvNOkhJ_bfmPYL3OIVBt7To/w505-h365/Wild%20Magic%20Table.png)  
+    ![Table of wild magic surge effects and their corresponding d20 roll results](../../assets/posts/2024-12-06-the-mystery-of-maeralon-s-tower-a-waterdeep-dragon-heist-faction-quest/wild-magic-table.png)  
     
 -   **Tower Door**: The tower’s door is reinforced with an _arcane lock._ It cannot be picked, but a _knock_ spell will open it. Alternatively, the characters can look for a password hidden under a rock nearby with a DC 14 Intelligence (investigation) check. The password is “sentry”. Lastly, they could chop the door down (50 hp, damage threshold 5), but that will attract the **living burning hands** in area 1 who will be able to attack the characters through the holes in the door with no penalty while receiving three-quarters cover (+5 to AC) while the door has greater than 25 hit points, and half cover while it has less than 25 hit points (+2 to AC).
     
