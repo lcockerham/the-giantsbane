@@ -37,7 +37,6 @@ const SERIES: SeriesDef[] = [
     match: (s) =>
       s.includes('age-of-worms') ||
       s.includes('whispering-cairn') ||
-      s.includes('whipering-cairn') ||
       s.includes('three-faces-of-evil') ||
       s.includes('blackwall-keep') ||
       s.includes('hall-of-harsh-reflections'),

@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Maerlon's Tower: Tools for Running a Hybrid Adventure"
+title: "The Mystery of Maeralon's Tower: Tools for Running a Hybrid Adventure"
 date: "2024-12-27"
 tags:
   - "Campaigns"

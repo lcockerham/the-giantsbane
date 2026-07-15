@@ -13,7 +13,7 @@ This post will collect links to the Age of Worms content I have written in one h
 
 ## Reviews
 
-[The Whispering Cairn](/posts/review-of-the-whipering-cairn-from-the-age-of-worms-adventure-path)
+[The Whispering Cairn](/posts/review-of-the-whispering-cairn-from-the-age-of-worms-adventure-path)
 
 [The Three Faces of Evil](/posts/review-of-the-three-faces-of-evil-from-the-age-of-worms-adventure-path)
 

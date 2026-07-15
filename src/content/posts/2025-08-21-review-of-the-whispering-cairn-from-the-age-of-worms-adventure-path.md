@@ -1,5 +1,5 @@
 ---
-title: "Review of The Whipering Cairn from the Age of Worms Adventure Path"
+title: "Review of The Whispering Cairn from the Age of Worms Adventure Path"
 date: "2025-08-21"
 tags:
   - "Review"
