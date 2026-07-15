@@ -4,8 +4,9 @@
 
 import { readFileSync, readdirSync } from 'fs';
 import { join, relative } from 'path';
+import { fileURLToPath } from 'url';
 
-const POSTS_DIR = new URL('../src/content/posts/', import.meta.url).pathname.replace(/^\/([A-Z]:)/, '$1');
+const POSTS_DIR = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 
 const FRONTMATTER_RE = /^---\r?\n([\s\S]*?)\r?\n---\r?\n([\s\S]*)$/;
 const EMPTY_LINK_RE = /\[[^\]]*\]\(\s*\)/g;
