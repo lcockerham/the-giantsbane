@@ -10,7 +10,7 @@ description: "Post-mortem on running the Vault of Dragons finale of Dragon Heist
 
 I just finished running Waterdeep: Dragon Heist, and wanted to fire off a few quick thoughts about the final part of the adventure, the Vault of Dragons. 
 
-![Manshoon](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBKJniZ6RW9mHID-iTM2Cgs6qNfeHKY9nuJn4_JF1AbCYM3sqQcuZVVQRDInvfVCdnUtEWIvJfmtAIJF7eVqZF_GPcQbq5x4TY9ODVbj9HxGazCCocWjT7nbDXqLnG_NXLQ8QmQhhrldFypCTv54fpRVGgFAK_lIFEveYpzzCeveSGfmfSG3D0nce_38Y/w205-h320/manshoon.png "Manshoon")  
+![Manshoon](../../assets/posts/2025-04-22-running-the-vault-of-dragons-from-waterdeep-dragon-heist/manshoon.png "Manshoon")  
 
 A few things up front about how I ran the campaign:
 

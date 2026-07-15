@@ -11,9 +11,9 @@ description: "Part 2 of the 5e DM guide to The Whispering Cairn — the false to
 
 This is the second part of my guide to running The Whispering Cairn from the Age of Worms adventure path, originally published in 2005 in Dungeon 124. Part 2 covers the false tomb and the rest of the Cairn. Part 3 will cover the interlude that requires the characters to leave the Cairn to help put Alaster Land's spirit to rest and access the true tomb.
 
-![](https://blogger.googleusercontent.com/img/a/AVvXsEiADJM7Oe4c9NURdS3Zkk4E56M_Jx6I7a5qzZ7KgGN3ntyG6ZCaX1wXRsCmsWzfJW5puEWXkzB5sQDKTcxIX5qFGiI0RUIglzoOFQnRYQRDafaidTk4iQ87VK22Jki2GighVsC_6VWaw2MNp3ay1YUSxSxjipmrH2xzov8bLppzuWVuokC_iQShxHAs3hg)
+![Dungeon map of the Whispering Cairn, showing its flower-shaped chamber layout](../../assets/posts/2025-12-28-guide-to-running-the-whispering-cairn-part-2/image-1.png)
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkaxjOkigGG2XOl5IJ1f0KE7AIn5Bl2d44NSpj6KqhMv8W9KxocXzDjlcwvd1aJjspMM-Vu713mdk8pDFTzKbWcybBam_SAXtQ0A_kqRZ3JnUOQJf2EWWRwyeeROILNZcVAbMjz2Tur-6_b6EbIkIcItE_jMFDqX28K33qHG-xnlJ36l7GbuLwMdZOfEY/w580-h275/Whispering%20Cairn.jpg)
+![Flowchart of the False Tomb's lantern puzzle paths and their outcomes](../../assets/posts/2025-12-28-guide-to-running-the-whispering-cairn-part-2/whispering-cairn.jpg)
 
 7.  False Tomb
 

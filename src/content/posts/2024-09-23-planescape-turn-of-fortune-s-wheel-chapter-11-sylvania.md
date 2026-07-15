@@ -16,7 +16,7 @@ Editor's note: This autopublished on me before I got a chance to finalize it. Th
 
 I'm picking back up posting my in progress guide to running Turn of Fortune's Wheel. I am planning on posting a new gate town each Sunday. I'll have an outline of informatin about each time (including anything useful from 2e and an outline of the adventure as written with any of my own tweaks. 
 
-![An empyrean partying with some feywild creatures.](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeS_6JIfBidqLnnANln7fV1fUG1Rt5jWlwavDbxxqUHqF3uI2HSYBLE8aM9CE05c7xCZFeCQJbgF4mAAOqKVSmQlkR5MrIflwruYDdQJTsTPBcFmUiHRI8NiVhtiZc6jsDIDDYxsS_6bVjPt9eSqH4nf4_Lp4EfMnGxJyzkY87pqF0ryxat1xqMhCI8HY/w320-h320/Kopoha.webp "Chatgpt's interpretation of Kopoha partying it up")  
+![An empyrean partying with some feywild creatures.](../../assets/posts/2024-09-23-planescape-turn-of-fortune-s-wheel-chapter-11-sylvania/kopoha.jpg "Chatgpt's interpretation of Kopoha partying it up")  
 
   
 

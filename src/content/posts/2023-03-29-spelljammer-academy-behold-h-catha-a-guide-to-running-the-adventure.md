@@ -7,7 +7,7 @@ tags:
 description: "Prep notes for Behold H'Catha, the third Spelljammer Academy adventure — negotiating with spectators over a meteorite on the beholder world, with tips on cutting the awkward Journey Interrupted encounter."
 ---
 
-![Adventurer's beholding H'Catha](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj9FfyPaz5rXzHul9_TDbUKxtOhoQB36Ytl1aBvZv2cV-Dqet40wZ84BGP6wCpu4gWTs2Oauqt6wY4-GCmONngONdr5rpxYnLcpHtsozat1UXmZ6YQ-tRC5KdI1NA1hXDDDPhncaQfXT9ODizSl33VoOtof3i_DFlX1drHST7s15BD0PlgkYPVEq8y/w320-h236/H'Catha.png "Adventurer's beholding H'Catha")
+![Adventurer's beholding H'Catha](../../assets/posts/2023-03-29-spelljammer-academy-behold-h-catha-a-guide-to-running-the-adventure/h-catha.png "Adventurer's beholding H'Catha")
 
 I'm running Spelljammer Academy for my two DnD groups, and I am posting my prep notes for others to re-use, and updating the posts with learnings from running the game. I'm using the template from SlyFlourish's notion.so post. 
 

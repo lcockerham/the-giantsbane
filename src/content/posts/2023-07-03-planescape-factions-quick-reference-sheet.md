@@ -17,7 +17,7 @@ As I have been doing my conversions, Sean McGovern's [Guide to Planescape Factio
 
 With the release of the 5e campaign setting right around the corner, I'm going to be posting some of my conversions in the future.
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXCeaycuJpran30fymjA8PSwN7ephgMDmjx6AKiDw2yo1p6DEah2MlELbXQ4TSup0GAUwIa_-KYlPUT_Oe1MDqtuQqG2fWQG_DQtOgGMFrEVObfgJ8zOEJdwB32oTs-KU65QTVyTf_kBRDY6hNcIxKwyO9-2txWViT6DDbwdLKxGYY6DbkmGQu2NfinD4/s320/Faction%20Leader.png)
+![Sketch portrait of a weathered old man wearing a hat and smoking a pipe, representing a Planescape faction leader](../../assets/posts/2023-07-03-planescape-factions-quick-reference-sheet/faction-leader.png)
 
 | Faction Name | Nickname | Headquarters | Philosophy | Leader | Allies | Enemies |
 |---|---|---|---|---|---|---|

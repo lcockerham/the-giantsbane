@@ -18,7 +18,7 @@ I borrowed several things in this post from SlyFlourish's excellent Session Zero
 
   
 
-![City of Splendors: Waterdeep](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQJIr7rCvKBOJ2IURqqvfVPI1n0ssVWSU995J1yI5uLGasQ6X1yQkYC6TaMPTvEk-tHR8-QKwWYITHrZgLwAmj3LtKj-obNHj0GlEdAdKliIGMGQPjhfWYjxVv4b8m-HXxtxdBH9NGeWDehdJ7NJIZe8qrcKAZ1_npesyteDqaRWpNDpmGXAIMpBH7GTk/w247-h320/City_of_Splendors,_Waterdeep_\(D&D_manual\).jpg "The cover to one of my favorite books")  
+![City of Splendors: Waterdeep](../../assets/posts/2024-09-06-waterdeep-dragon-heist-session-zero/city-of-splendors-waterdeep-d-d-manual.jpg "The cover to one of my favorite books")  
 
   
 

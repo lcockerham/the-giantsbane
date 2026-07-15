@@ -18,7 +18,7 @@ First, I started a trial for [VorpalBoard](https://www.vorpalboard.com/), a se
 
 I used my iPad to stream as I did not want to dedicate my phone to the stream while we were playing. I mounted the iPad on this [tripod](https://www.amazon.com/dp/B0C5M9PVF9?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1). It worked fine to view the terrain and minis. I used a [Jabra speakerphone](https://www.amazon.com/dp/B00548P1TS?ref=ppx_yo2ov_dt_b_fed_asin_title) to handle everyone communicating. I had used them in the past for work calls, but this was a big upgrade compared to prior hybrid experiences of just using external mics and speakers from another player's laptop. If you are going to play hybrid regularly, I think a Jabra is a great investment to make. 
 
-![A picture of a miniatures in a tower in the middle of a dnd battle](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguUsPVcEnYUZypnO71W99yZAEkxD3JE5eAdqrcUM42Dbdnz70gvZir_xr352Z0Wh4SKYootitkwxuWQf47Np2Lnv7UhJyG0V2IyBLDBl_l5C2-aOqf-8zlKYYPYyUc8-I2Jpja6eAJGLhm0JLd1UynKX0A6k0KoRo56dXdBcod8NBTSuWltchuOSz6kLk/w320-h240/Tower1.jpg "Battle in Progress!")  
+![A picture of a miniatures in a tower in the middle of a dnd battle](../../assets/posts/2024-12-27-the-mystery-of-maerlon-s-tower-tools-for-running-a-hybrid-adventure/tower1.jpg "Battle in Progress!")  
 
   
 
@@ -50,4 +50,4 @@ And that's it! Hopefully, someone else can find all the prep I did for this sess
 
   
 
-![A watchtower on a battle mat](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKpxFm_Dpx9CawEhqelMWmgGduZPb5KnMTW77ZuUNYqSxcIyXWBUopwlDMPfBqGjU7Zobb5G1KFnyg9e6rKo1pZLN7C34a58x4YRuwYaIH-OE_dMY0rAr-zv-YLgjPnhHBommHgZ221hByxAzFGDKqrPpsfDBBwdJ5AfxNQntGGgBDFiNN_S0EjuRi5TI/w320-h240/Tower2.jpg "All Along the Watchtower!")
+![A watchtower on a battle mat](../../assets/posts/2024-12-27-the-mystery-of-maerlon-s-tower-tools-for-running-a-hybrid-adventure/tower2.jpg "All Along the Watchtower!")

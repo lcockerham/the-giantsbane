@@ -16,7 +16,7 @@ I'm picking back up posting my in progress guide to running Turn of Fortune's Wh
 
   
 
-![Rigus](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt4nbVP_L6O0Umf_HC1e1wCFjt1JgSCtWpbS3gyEibZOud_kbwi5UXSeXxU8RTvzWXMNAuLbny5KvIW-u8uoe4l2F2NKXkWvPNzImVPHrwNBfUrVgIqVi2kcSt0NYgxRBY9jH9XMCYhRWpNuS199I_OUgwzFJ8S9M_F-tsb2uKXyMFcccRLbYJuq-NPCQ/s16000/Rigus.jpg "Rigus")  
+![Rigus](../../assets/posts/2024-09-15-planescape-turn-of-fortune-s-wheel-chapter-10-rigus/rigus.jpg "Rigus")  
   
 
 Notes about Rigus

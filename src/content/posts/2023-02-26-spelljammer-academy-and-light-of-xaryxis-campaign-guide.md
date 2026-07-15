@@ -7,7 +7,7 @@ tags:
 description: "Session 0 guide for running Spelljammer Academy and Light of Xaryxis — campaign pitch, seven truths about Wildspace, character creation hooks, and safety tool recommendations."
 ---
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC-TAX-2TqICcf98EtOYmKVkw4BfEioeWuzM8CNpH3w9wjFL-FfbW_qomxoUMFIskE-norgEUue8Wkx--AZSMGTc1khoYOUBTrcou2AiOdbeWyc9tTyIqKHFkiAkj73a_tCPUtLdgFlc6tkuBkLnngCFv6KAqEl8axwpUKRfDU14QzU9y6WxiX62K6/s320/spelljammer%20cover.png)
+![Cover art for Spelljammer: Adventures in Space](../../assets/posts/2023-02-26-spelljammer-academy-and-light-of-xaryxis-campaign-guide/spelljammer-cover.png)
 
 I'm running Spelljammer Academy and Light of Xaryxis for both of my gaming groups. I'm using Sly Flourish's session 0 [template](https://slyflourish.com/frostmaiden_session_zero.html) he created for his Rime of the Frostmaiden campaign to prepare. I'm going to post these prep notes for others to use. I'll update them as I run the campaign with things I learn. I'm also using SlyFlourish's [safety tools](https://slyflourish.com/safety_tools.html).
 

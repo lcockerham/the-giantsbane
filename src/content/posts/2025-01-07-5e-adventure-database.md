@@ -10,7 +10,7 @@ description: "A growing Notion database of 5e published adventures rated by qual
 
 I've created a table in Notion because it's my favorite tool for documenting D&D things. I've published it on the web [here](https://noble-crib-29a.notion.site/eb2d4bfa49e446519ec36378a81b4ac2?v=7a9ea82197804d83aeba59e94d099ebb). This is a work in progress! I've only added three books worth of adventures so far, but they are big ones: Storm King's Thunder, Dungeon of the Mad Mage, and Tales from the Yawning Portal. I chose the first two because I have ran significant portions of them and have some informed opinions. As for Tales, it was the anthology I have read most recently. 
 
-![Image from cover of Tales from the Yawning Portal](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgXgalrWpZeLro-fs-2hBkEu8KvXbGOsWjxQEKZQLELBpY1VOZ-R3-CU7ebopseLuyRzGXZzxfUJWMBRWiNaUCZ5pGUmt6n3M_16xr-PjxmLtyk88AK9KdaIUFQjFEBvKu_5wAboriKB5OiLFYz7qbRKM2hFhvklSF8bk2A4-RrSBlY-9VFJHGko-H70A/w400-h210/yawningpdurnan.jpeg "Durnan knows what's up.")  
+![Image from cover of Tales from the Yawning Portal](../../assets/posts/2025-01-07-5e-adventure-database/yawningpdurnan.jpg "Durnan knows what's up.")  
 
   
 

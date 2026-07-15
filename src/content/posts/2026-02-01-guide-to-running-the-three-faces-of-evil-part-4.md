@@ -46,7 +46,7 @@ Area numbers in parentheses with each section. 
 
 ## Ebon Aspect
 
-![A demonic monster rising from the black liquid of a fountain to attack adventurers](https://blogger.googleusercontent.com/img/a/AVvXsEjbm8pXPgvE3_U1kAKkmBJiOgltecBtUU-h5mxjgdyR2ynkOib4ja8RD6oSAZ-QFh36dEg1T-GuotJA-lUFOaxHNxVK3BYgz_sK8O6UQR2YfXTtSsF7r-FBRE28CgbnwNSOkjvPQLy92phcY1tiPlK5O6mSwFHteiEd5Yf2D9UbLPR47F-4NaRIL7O0q4M=w400-h304 "Somebody missed breakfast this morning")  
+![A demonic monster rising from the black liquid of a fountain to attack adventurers](../../assets/posts/2026-02-01-guide-to-running-the-three-faces-of-evil-part-4/a-demonic-monster-rising-from-the-black-liquid-of-a-fountain-to-attack-adventurers.png "Somebody missed breakfast this morning")  
   
 
 Assuming the players slay all three high priests, the Ebon Aspect wakes up sometime shortly thereafter and attacks when it has the most dramatic effect. My party chose to let the Faceless One escape, and never had to deal with the Ebon Aspect, so be warned this conversion of it has not been playtested. 

@@ -13,7 +13,7 @@ I found this chapter difficult to run. The characters are bystanders in the init
 
 [Guide to Chapter 10: Space Invaders](https://thegiantsbane.blogspot.com/2024/05/guide-to-running-light-of-xaryxis_28.html)
 
-![Prince Xeleth](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyPWMOOW2DmBz5tCn_soYiJb8eZ8gSjoW9MzXpNtECHJyXvpoKP7vKbK-tPeIuueQXoYRRru6HhaozpYGQe0tqDyQ6P4APii2L-EhkDW94C4PSUTTsMmjbrGajyJlhsuc5lZPbiS30k70CP17-4Vpob-KQZLM_CR3rZMzptq7Otc8Xxz-9mPRTKEZXTkI/w267-h320/Xeleth.png "Prince Xeleth")
+![Prince Xeleth](../../assets/posts/2024-05-22-guide-to-running-light-of-xaryxis-chapter-9-discord-and-diplomacy/xeleth.png "Prince Xeleth")
 
 -   Introduction
     -   The solar dragon is real, but Prince Xeleth is an illusion.

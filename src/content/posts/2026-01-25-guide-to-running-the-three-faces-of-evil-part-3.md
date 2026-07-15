@@ -13,7 +13,7 @@ description: "Part 3 of the DM guide to The Three Faces of Evil — the pitch-da
 
 There are no light sources in the caves, and the ground is difficult terrain everywhere.
 
-![Adventurers encountering grimlocks on a rope bridge](https://blogger.googleusercontent.com/img/a/AVvXsEhkOdhfuqplRmy3-zFJ6ZEIXHLCJxS9ubEkqz2QhEczViqjHtj3qTNL5L21hsCA1OE_7vT1BcjTr4jEUzAoegMfg9it8hHUurkCx5tkIVx-VvCoD4VgYtptkwrupdw2dRw1_eIccv-ydmcut0ieejoOpCxeJO0DIUqoMC7aVOdnZrk7JrIBHDvj-pfzkQ4=w400-h274 "Good chance this doesn't actually happen in the adventure")  
+![Adventurers encountering grimlocks on a rope bridge](../../assets/posts/2026-01-25-guide-to-running-the-three-faces-of-evil-part-3/adventurers-encountering-grimlocks-on-a-rope-bridge.png "Good chance this doesn't actually happen in the adventure")  
   
 
 1.  Stone Forest

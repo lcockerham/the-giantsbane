@@ -8,7 +8,7 @@ description: "A guide to deciding whether to run Ghosts of Saltmarsh — a great
 
 I've been DMing, playing, and reading fifth edition adventures since the launch of the edition. I decided to write some guides that DMs can use to can use to choose their next adventure. I'll post one at a time, then tackle them as a whole at the end. 
 
-![An Angry Sahaugin](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhimY4uC2i7m_VVkibgxo7BVrdtw6Ba6Y0xO18IYW4wyw_PDFE4lMCX0CyUA8ebtEvdWV9z7QvdjCvvNoegcA09RpBj3cCZPibjRSES541n274emL0T679AzsQlX8e8SQ2YrUynbkiFC-yugI6fdhoL5nUY30ffxSqTD32yvM5Th3D2s557GIZskfTB/w320-h236/sahaugin.png "An Angry Sahaugin")  
+![An Angry Sahaugin](../../assets/posts/2023-05-26-how-to-choose-your-next-dnd-adventure-ghosts-of-saltmarsh/sahaugin.png "An Angry Sahaugin")  
   
   
 

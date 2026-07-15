@@ -53,7 +53,7 @@ Another highlight was the underwater area in the Lair of the Laborers. It made t
 
 The last encounter I will highlight is Alaster’s Haunt. You can see my Dwarven Forge (and a measuring stick) build for this below. Basically, it's walk the plank across a pit filled with metal balls that will shoot out of the wall if you step on a pressure plate. Oh, and a grick dwells in the balls as well. My smart party sent the rogue ahead, shimmying underneath the plank. He got bit hard by the hiding grick, but the party dispatched it at range before the rogue fell and met Alastor’s ghost.
 
-![Alastor's Haunt](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidcLz9BfgZGYCd_VNKsmJSJIJxLgoOTJ-cvnELhI6Xjt0yEq8OOW74lHYpO7fFRKr-MPCvp-OoqiN4QX_hmzCeOC72Uvl2rzq26cgGDrxJVTT3fV5VsumSuw9VLOiFAdOLGPZX4YPf5S9ilEhsWhidpX2WLvlVmGDDGHaOAJbEjLmt6PhnQUaeCUquqkY/w300-h400/Alastor's%20Haunt.jpg "My Dwarven Forge build for the encounter, complete with a measuring stick and all the extra dice I accumulated over the years.")  
+![Alastor's Haunt](../../assets/posts/2025-08-21-review-of-the-whipering-cairn-from-the-age-of-worms-adventure-path/alastor-s-haunt.jpg "My Dwarven Forge build for the encounter, complete with a measuring stick and all the extra dice I accumulated over the years.")  
 
   
 

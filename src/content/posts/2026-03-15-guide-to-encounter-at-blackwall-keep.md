@@ -32,7 +32,7 @@ The first random encounter rolled will be with lizardfolk. The key information t
 
 I used the One Ring journey rules to travel to Blackwall Keep, and then used the travel rules from [The Last Travel Book You Will Ever Need](https://www.dmsguild.com/en/product/549589/the-last-travel-book-you-will-ever-need) to cross the Mistmarsh. I might do a separate post about Journey rules later. 
 
-![](https://blogger.googleusercontent.com/img/a/AVvXsEiWB25CeFCCoy6QGZp2s644JnatsZZohgMbufzccnjuzyGcohMUzBHn0QLia-rpcHtAAMs9vmazcrYOXFNRraJKErwkhWfUfZYjl-xIEJAWPxfHzGeneTiaGBkU7whR-Pyd-Vo_5iwKMyLDz0nxGEYDmOAqe8CNV42JXqrcHRHvuu7qa1ITt_MXIQrPwzs)  
+![Regional map showing the road between Diamond Lake and Blackwall Keep](../../assets/posts/2026-03-15-guide-to-encounter-at-blackwall-keep/image-1.png)  
 
 ## The Siege of Blackwall Keep
 

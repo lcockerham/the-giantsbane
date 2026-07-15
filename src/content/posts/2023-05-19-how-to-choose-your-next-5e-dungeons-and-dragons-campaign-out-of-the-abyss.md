@@ -9,7 +9,7 @@ description: "A guide to deciding whether to run Out of the Abyss — atmospheri
 
  I've been DMing, playing, and reading fifth edition adventures since the launch of the edition. I decided to write some guides that DMs can use to can use to choose their next adventure. I'll post one at a time, then tackle them as a whole at the end. 
 
-![Demogorgon](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6tLdVXBIkg88TMjzGyupUCvaYfa9pXwWVKsHJuOlpkb6mCPfkodnbr2OQGOuuYiqgm3e97ddh9eT9PhuzYGJiBh6thoVpylj7ExglKLL6VVqPsJ0NK3uFXoglZH1Z4Iut6UeQDlk8AkYSOqKtXh5TuVJcta924i676iWETJECaDESqYg5Yasa8tEg/w320-h222/demogorgan.png "This guy doesn't seem happy.")  
+![Demogorgon](../../assets/posts/2023-05-19-how-to-choose-your-next-5e-dungeons-and-dragons-campaign-out-of-the-abyss/demogorgan.png "This guy doesn't seem happy.")  
   
 
 ## Out of the Abyss

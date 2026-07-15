@@ -9,7 +9,7 @@ description: "A guide to deciding whether to run Storm King's Thunder, with a ch
 
 I've been DMing, playing, and reading fifth edition adventures since the launch of the edition. I decided to write some guides that DMs can use to choose their next adventure. I'll post one at a time, then tackle them as a whole at the end.
 
-![Hekaton](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ7hJrI6C2-vVppcAq1SaXfunFcvJl4uqD5vnpEC3f7zJCavTyUdDyGWYYbN2bm-Khjw8kJNntJPF_192cgs1xfaClzs5Aq1UcFPzJQ-Crc1y8Xhn3NISCbSH3cELBkq_C7vaNexD4aKCClPD7IJ7anxCDOOhbj6fPQjdKfHbUL7OWbFyiOpjW18LL/s16000/hekaton.png "Sad giant is sad")
+![Hekaton](../../assets/posts/2023-05-05-how-to-choose-your-next-5e-dungeons-and-dragons-campaign-storm-king-s-thunder/hekaton.png "Sad giant is sad")
 
 ### Summary
 

@@ -11,7 +11,7 @@ I've been DMing, playing, and reading fifth edition adventures since the launch 
 
   
 
-![Picture of Strahd](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrTf7NKNX42lYs5-knqxYAbiHulsfC3gp-18ttZBSoVVcgZodmeZwJr0PRtaEP2ggZsiYx_tLcYbHAao2Pz0faFRa1FdSKc0huw5pvFkBvR126DPQaIh5wJKnrst2IwEUHF_h5kIvcnWqzBt5S5AjfLbeBFhnmTDXONimgP5MuZysO-Q7XRVn_YIQi/w320-h205/strahd.png "Look at this a-hole. You know you want to defeat him!")  
+![Picture of Strahd](../../assets/posts/2023-04-27-how-to-choose-your-next-5e-dungeons-and-dragons-campaign-curse-of-strahd/strahd.png "Look at this a-hole. You know you want to defeat him!")  
   
 Curse of Strahd  
 

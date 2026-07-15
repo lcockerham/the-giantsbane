@@ -23,7 +23,7 @@ Another important tweak is to give the characters more gold while exploring the 
 
 There are two ways for the characters to exit — the exits in M10 or climbing out through the delivery chute in M6.
 
-![Wake Up Chief!](https://blogger.googleusercontent.com/img/a/AVvXsEhn6ICPKdnyZUOb6aapQgv44xU5_2Fbm_NVpUKPOb0gnW12SFGEs15BPl5mGCT6QxMLEzlldEsfflHvha70ivdwsa0Bo79YbfKmJp0CarCY2wmzpjhRtls-0OKROHPukfS2HxsRLVBS0iDytabJy-6m4WBrr0wwCiKn-60dN3lXesQ55C_EIimFqKAvyWE=w216-h320 "Morte greets the characters as they awake in the Mortuary.")
+![Wake Up Chief!](../../assets/posts/2024-01-16-planescape-turn-of-fortune-s-wheel-chapter-1-the-mortuary/wake-up-chief.png "Morte greets the characters as they awake in the Mortuary.")
 
 ## The Mortuary
 

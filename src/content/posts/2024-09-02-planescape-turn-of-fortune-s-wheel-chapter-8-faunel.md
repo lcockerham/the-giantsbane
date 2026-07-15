@@ -12,7 +12,7 @@ description: "Guide to Faunel, the half-absorbed beastland gate-town in Turn of 
 
 [Chapter 7: Excelsior](https://thegiantsbane.blogspot.com/2024/08/planescape-turn-of-fortunes-wheel_0899033758.html)
 
-![Mick of the Vile Hunt](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnynOBmPG3qzDEDIpOUsnUpJmjhE7g4PQTfogaoY7EAVJ36B-VZZrLxHhwDm8mtJwM8TqDDqcrtXCnLx0lN4PaLDBVw6r2V6mDfbnQ2myXPtP_wpICjfEI1AXh_Q3O_hqVNp7eL93OSSE8xthYBezufD2fGuXy0zFAXLGPg4uAWfkIFDPdoYZkK6WfEAw/w320-h232/Mick.png "Evil Gnoll Crocodile Dundee")
+![Mick of the Vile Hunt](../../assets/posts/2024-09-02-planescape-turn-of-fortune-s-wheel-chapter-8-faunel/mick.png "Evil Gnoll Crocodile Dundee")
 
 I'm picking back up posting my in progress guide to running Turn of Fortune's Wheel. I am planning on posting a new gate town each Sunday. I'll have an outline of information about each gate town (including anything useful from 2e) and an outline of the adventure as written with any of my own tweaks.
 
