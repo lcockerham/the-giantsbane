@@ -1,5 +1,5 @@
 ---
-title: "How to Choose Your Next 5e Dungeons and Dragons Campaign: Dragon of Icespire Keep From D&D Essientials"
+title: "How to Choose Your Next 5e Dungeons and Dragons Campaign: Dragon of Icespire Keep From D&D Essentials"
 date: "2023-04-13"
 tags:
   - "Campaigns"
