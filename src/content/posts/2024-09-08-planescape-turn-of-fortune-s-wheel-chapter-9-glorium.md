@@ -10,7 +10,7 @@ description: "Guide to Glorium, the glory-obsessed gate-town to Ysgard in Turn o
 
 ## Chapter 9: Glorium
 
-[Chapter 8: Faunel](https://thegiantsbane.blogspot.com/2024/09/planescape-turn-of-fortunes-wheel.html)
+[Chapter 8: Faunel](/posts/planescape-turn-of-fortune-s-wheel-chapter-8-faunel)
 
 I'm picking back up posting my in progress guide to running Turn of Fortune's Wheel. I am planning on posting a new gate town each Sunday. I'll have an outline of information about each gate town (including anything useful from 2e) and an outline of the adventure as written with any of my own tweaks.
 
@@ -62,4 +62,4 @@ I'm picking back up posting my in progress guide to running Turn of Fortune's Wh
         -   **_+1 weapon_**
         -   **_Cloak of protection_**
 
-[Chapter 10: Rigus](https://thegiantsbane.blogspot.com/2024/09/planescape-turn-of-fortunes-wheel_0679974179.html)
+[Chapter 10: Rigus](/posts/planescape-turn-of-fortune-s-wheel-chapter-10-rigus)

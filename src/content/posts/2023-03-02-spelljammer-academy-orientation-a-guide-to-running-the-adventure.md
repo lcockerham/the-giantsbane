@@ -8,7 +8,7 @@ description: "Prep notes for Orientation, the first Spelljammer Academy adventur
 ---
 
 ![Illustration of an observatory tower with a spiral staircase and telescope, overlooking a docked spelljamming ship](../../assets/posts/2023-03-02-spelljammer-academy-orientation-a-guide-to-running-the-adventure/orientation.png)  
-I'm running Spelljammer Academy for my two DnD groups, and I am posting my prep notes for others to re-use, and updating the posts with learnings from running the game. I'm using the template from SlyFlourish's notion.so [post](https://slyflourish.com/lazy_dnd_with_notion.html). Part 2: [Trial By Fire](https://thegiantsbane.blogspot.com/2023/03/session-overview-for-spelljammer_0999825051.html)Part 3: [Realmspace Sortie!](https://thegiantsbane.blogspot.com/2023/03/session-overview-for-spelljammer_01265382499.html)Part 4: [Behold H'Catha](https://thegiantsbane.blogspot.com/2023/03/session-overview-for-spelljammer_28.html)Characters
+I'm running Spelljammer Academy for my two DnD groups, and I am posting my prep notes for others to re-use, and updating the posts with learnings from running the game. I'm using the template from SlyFlourish's notion.so [post](https://slyflourish.com/lazy_dnd_with_notion.html). Part 2: [Trial By Fire](/posts/spelljammer-academy-trial-by-fire-a-guide-to-running-the-adventure)Part 3: [Realmspace Sortie!](/posts/spelljammer-academy-realmspace-sortie-a-guide-to-running-the-adventure)Part 4: [Behold H'Catha](/posts/spelljammer-academy-behold-h-catha-a-guide-to-running-the-adventure)Characters
 
 -   Review the characters
 

@@ -10,9 +10,7 @@ description: "Guide to Excelsior, the celestial gate-town to Mount Celestia in T
 
 ## Chapter 7: Excelsior
 
-[Chapter 6: Curst](https://thegiantsbane.blogspot.com/2024/08/planescape-turn-of-fortunes-wheel_01713720547.html)
-
-![Excelsior](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRR8hvuFXePmdFZqO3i2k_nTENDeQEwEoLQKOZYTnb2NJICUhaYYw176NYPRBkuVaXt7VnAgm4NhzaZQPonG76CXTG5KxwRErbsQgJLxbguO-UUY5ceTA/w320-h320/ "My best effort at generating an image of Excelsior using AI image tools")
+[Chapter 6: Curst](/posts/planescape-turn-of-fortune-s-wheel-chapter-6-curst)
 
 I'm picking back up posting my in progress guide to running Turn of Fortune's Wheel. I am planning on posting a new gate town each Sunday. I'll have an outline of information about each gate town (including anything useful from 2e) and an outline of the adventure as written with any of my own tweaks.
 
@@ -77,4 +75,4 @@ I'm picking back up posting my in progress guide to running Turn of Fortune's Wh
     -   Varrel will let the characters have one **iron flask.**
     -   Rolm seeks the characters out before they leave town and gives them a **lantern of revealing.**
 
-[Chapter 8: Faunel](https://thegiantsbane.blogspot.com/2024/09/planescape-turn-of-fortunes-wheel.html)
+[Chapter 8: Faunel](/posts/planescape-turn-of-fortune-s-wheel-chapter-8-faunel)

@@ -34,6 +34,4 @@ So begins the final part of Light of Xaryxis. This whole last part is a lot of c
 -   I skipped the solar dragon battle. It was too much combat in one session, and the characters were already depleted, with another fight in the next chapter before a long rest.
 -   I added random events at the top of each round as well:
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXg3GSPr5oywWUqNtiCtoXkNmJmZ9GZ_oUWngW_2PAd1RHT200BxqsSiDIc8tKUFY8uluh8mAbHs7ckrAGMw-lFSGJjp_Pn2dm3xkVtSGJjp_Pn2dm3xkVtSZ4pU96w95aD66Iq12p1DZC-a4AyuyVUM/s320/Space%20battle%20effects.png)
-
 -   I'm not going to summarize the Xaryxispace information here as I do not think it matters for the campaign.

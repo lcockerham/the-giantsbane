@@ -10,7 +10,7 @@ description: "Guide to Curst, the prison gate-town to Carceri in Turn of Fortune
 
 ## Chapter 6: Curst
 
-[Chapter 5: Automata](https://thegiantsbane.blogspot.com/2024/08/planescape-turn-of-fortunes-wheel.html)
+[Chapter 5: Automata](/posts/planescape-turn-of-fortune-s-wheel-chapter-5-automata)
 
 ![Curst](../../assets/posts/2024-08-18-planescape-turn-of-fortune-s-wheel-chapter-6-curst/curst-gate.png "You can check out any time you like, but you can never leave")
 
@@ -59,4 +59,4 @@ I'm picking back up posting my in progress guide to running Turn of Fortune's Wh
 
 -   Once the characters escape, this is a good segue to have the characters escort Fellik to Excelsior, one of the next gate-towns on their list.
 
-[Chapter 7: Excelsior](https://thegiantsbane.blogspot.com/2024/08/planescape-turn-of-fortunes-wheel_0899033758.html)
+[Chapter 7: Excelsior](/posts/planescape-turn-of-fortune-s-wheel-chapter-7-excelsior)

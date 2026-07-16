@@ -10,7 +10,7 @@ description: "Guide to the final chapter of Part 2 of Turn of Fortune's Wheel �
 
 Planescape: Turn of Fortune's Wheel Chapter 12: Outlands Explorations 
 
-[Chapter 11: Sylvania](https://thegiantsbane.blogspot.com/2024/09/planescape-turn-of-fortunes-whell.html)
+[Chapter 11: Sylvania](/posts/planescape-turn-of-fortune-s-wheel-chapter-11-sylvania)
 
 Whew, almost done with part 2! This final chapter provides some encounters in the Outlands. I've also provided brief details on the parts of adventure that aren't specifically in the adventure. 
 

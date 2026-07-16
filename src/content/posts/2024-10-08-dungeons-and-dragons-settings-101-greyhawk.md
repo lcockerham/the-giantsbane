@@ -93,7 +93,6 @@ Sources:
 
 -   [Greyhawk's Wikipedia article](https://en.wikipedia.org/wiki/Greyhawk)
 -   [Greyhawk fanon wiki](https://greyhawk.fandom.com/wiki/Mordenkainen)
--   [ghwiki](https://ghwiki.greyparticle.com/index.php/Melf)
 -   [Living Greyhawk's wikipedia article](https://en.wikipedia.org/wiki/Living_Greyhawk)
 -   [Greyhawk Online](https://greyhawkonline.com/greyhawkwiki/Robilar)
 -   [Wikiproject Dungeons & Dragons](https://wikiproject-dungeons-dragons.fandom.com/wiki/Rary)

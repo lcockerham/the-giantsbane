@@ -10,7 +10,7 @@ description: "Guide to Faunel, the half-absorbed beastland gate-town in Turn of 
 
 ## Chapter 8: Faunel
 
-[Chapter 7: Excelsior](https://thegiantsbane.blogspot.com/2024/08/planescape-turn-of-fortunes-wheel_0899033758.html)
+[Chapter 7: Excelsior](/posts/planescape-turn-of-fortune-s-wheel-chapter-7-excelsior)
 
 ![Mick of the Vile Hunt](../../assets/posts/2024-09-02-planescape-turn-of-fortune-s-wheel-chapter-8-faunel/mick.png "Evil Gnoll Crocodile Dundee")
 
@@ -74,4 +74,4 @@ I'm picking back up posting my in progress guide to running Turn of Fortune's Wh
 
 -   At the end of the chapter, if he is still around, Razak will give the characters his **_ring of animal friendship_** in thanks for their help.
 
-[Chapter 9: Glorium](https://thegiantsbane.blogspot.com/2024/09/planescape-turn-of-fortunes-wheel_0856830312.html)
+[Chapter 9: Glorium](/posts/planescape-turn-of-fortune-s-wheel-chapter-9-glorium)

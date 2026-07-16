@@ -41,7 +41,7 @@ Next, I have a custom GPT on [chatgpt.com](http://chatgpt.com) I have created ca
 
   
 
-So I took the outline above and fed it into my GPT with this prompt: "Can you take this adventure outline and add details to it? Things like what are on the levels of the wizards tower, who the wizard and his son are, some details about the magic weapon, etc?" Below is the unedited initial result provided by ChatGPT. I'll provide an assessment of how what it did well and what it did poorly beyond the adventure. For reference, here is a link to my prior [post](https://thegiantsbane.blogspot.com/2024/12/the-mystery-of-maeralons-tower.html) with my finalized version of the adventure. 
+So I took the outline above and fed it into my GPT with this prompt: "Can you take this adventure outline and add details to it? Things like what are on the levels of the wizards tower, who the wizard and his son are, some details about the magic weapon, etc?" Below is the unedited initial result provided by ChatGPT. I'll provide an assessment of how what it did well and what it did poorly beyond the adventure. For reference, here is a link to my prior [post](/posts/the-mystery-of-maeralon-s-tower-a-waterdeep-dragon-heist-faction-quest) with my finalized version of the adventure. 
 
   
 

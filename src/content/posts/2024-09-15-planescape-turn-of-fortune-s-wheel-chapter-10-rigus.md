@@ -10,7 +10,7 @@ description: "Guide to Rigus, the militaristic gate-town to Acheron in Turn of F
 
 Chapter 10:Rigus 
 
-[Chapter 9: Glorium](https://thegiantsbane.blogspot.com/2024/09/planescape-turn-of-fortunes-wheel_0856830312.html)
+[Chapter 9: Glorium](/posts/planescape-turn-of-fortune-s-wheel-chapter-9-glorium)
 
 I'm picking back up posting my in progress guide to running Turn of Fortune's Wheel. I am planning on posting a new gate town each Sunday. I'll have an outline of informatin about each time (including anything useful from 2e) and an outline of the adventure as written with any of my own tweaks.
 
@@ -71,7 +71,7 @@ Victory
 -   Cloak of protection
 -   Dimensional Shackles
 
-[Chapter 11: Sylvania](https://thegiantsbane.blogspot.com/2024/09/planescape-turn-of-fortunes-whell.html)
+[Chapter 11: Sylvania](/posts/planescape-turn-of-fortune-s-wheel-chapter-11-sylvania)
 
   
 
