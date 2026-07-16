@@ -1,3 +1,72 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import 'tailwindcss';
+@plugin '@tailwindcss/typography';
+
+@theme {
+  --color-ink: #e0d5cc;
+  --color-crimson: #cc2222;
+  --color-crimson-dark: #8b1a1a;
+  --color-crimson-muted: #7a3030;
+  --color-pit-950: #0d0d0d;
+  --color-pit-900: #111111;
+  --color-pit-800: #1a1a1a;
+  --color-pit-700: #222222;
+  --color-pit-600: #2a2a2a;
+  --color-pit-500: #333333;
+  --color-dim: #8a7060;
+
+  --font-cinzel: 'Cinzel', serif;
+  --font-lora: 'Lora', Georgia, serif;
+}
+
+.prose-blood {
+  --tw-prose-body: var(--color-ink);
+  --tw-prose-headings: var(--color-ink);
+  --tw-prose-links: var(--color-crimson);
+  --tw-prose-bold: var(--color-ink);
+  --tw-prose-bullets: var(--color-crimson-muted);
+  --tw-prose-hr: var(--color-pit-600);
+  --tw-prose-quotes: var(--color-dim);
+  --tw-prose-quote-borders: var(--color-crimson-dark);
+  --tw-prose-code: var(--color-crimson);
+  --tw-prose-th-borders: var(--color-pit-500);
+  --tw-prose-td-borders: var(--color-pit-600);
+  font-family: var(--font-lora);
+  font-size: 1.1rem;
+  line-height: 1.85;
+}
+
+.prose-blood h1,
+.prose-blood h2,
+.prose-blood h3 {
+  font-family: var(--font-cinzel);
+  font-weight: 600;
+}
+
+.prose-blood h4 {
+  font-family: var(--font-cinzel);
+}
+
+.prose-blood a {
+  color: var(--color-crimson);
+  text-decoration: none;
+  border-bottom: 1px solid var(--color-crimson-dark);
+}
+
+.prose-blood a:hover {
+  color: #e04444;
+  border-bottom-color: var(--color-crimson);
+}
+
+.prose-blood blockquote {
+  background-color: var(--color-pit-800);
+  border-left-color: var(--color-crimson-dark);
+  padding: 0.75rem 1.25rem;
+  border-radius: 0 0.375rem 0.375rem 0;
+  font-style: italic;
+  color: var(--color-dim);
+}
+
+.prose-blood ul > li::marker,
+.prose-blood ol > li::marker {
+  color: var(--color-crimson-muted);
+}
