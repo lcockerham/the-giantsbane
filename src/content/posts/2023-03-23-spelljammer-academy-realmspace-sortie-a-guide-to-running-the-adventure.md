@@ -11,11 +11,11 @@ description: "Prep notes for Realmspace Sortie, the third Spelljammer Academy ad
 
 I'm running Spelljammer Academy for my two DnD groups, and I am posting my prep notes for others to re-use, and updating the posts with learnings from running the game. I'm using the template from SlyFlourish's notion.so post.
 
-Part 1: [Orientation](https://thegiantsbane.blogspot.com/2023/03/session-overview-for-spelljammer.html)
+Part 1: [Orientation](/posts/spelljammer-academy-orientation-a-guide-to-running-the-adventure)
 
-Part 2: [Trial By Fire](https://thegiantsbane.blogspot.com/2023/03/session-overview-for-spelljammer_0999825051.html)
+Part 2: [Trial By Fire](/posts/spelljammer-academy-trial-by-fire-a-guide-to-running-the-adventure)
 
-Part 4: [Behold H'Catha](https://thegiantsbane.blogspot.com/2023/03/session-overview-for-spelljammer_28.html)
+Part 4: [Behold H'Catha](/posts/spelljammer-academy-behold-h-catha-a-guide-to-running-the-adventure)
 
 ## Scenes
 

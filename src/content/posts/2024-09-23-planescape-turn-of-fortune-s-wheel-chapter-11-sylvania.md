@@ -10,7 +10,7 @@ description: "Guide to Sylvania, gate-town to Arborea in Turn of Fortune's Wheel
 
 ## Chapter 11: Sylvania
 
-[Chapter 10: Rigus](https://thegiantsbane.blogspot.com/2024/09/planescape-turn-of-fortunes-wheel_0679974179.html)
+[Chapter 10: Rigus](/posts/planescape-turn-of-fortune-s-wheel-chapter-10-rigus)
 
 Editor's note: This autopublished on me before I got a chance to finalize it. This is the corrected version!
 
@@ -83,7 +83,7 @@ Notes about Sylvania
 -   If Kopoha goes on a rampage, again Danai is disappointed but escorts the characters.
 -   I would change this to Danai giving the characters the periapt if they are successful, so that the outcome isn’t the same with the spirit no matter what.
 
-[Chapter 12: Outlands Explorations](https://thegiantsbane.blogspot.com/2024/10/planescape-turn-of-fortunes-wheel.html)
+[Chapter 12: Outlands Explorations](/posts/planescape-turn-of-fortune-s-wheel-chapter-12-outlands-explorations)
 
   
 

@@ -9,8 +9,6 @@ description: "Guide to Part 2 of Light of Xaryxis — expanded Rock of Bral enco
 
 ## Introduction: Terrors of the Void
 
-![Bral Bird](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhazLJrCaVMNJqFG9ytRK48zGAZa_J4Qvmz_WIN2q_CtHCACUgC8KIv0Jyx_UgA5bIn5O4yDhHcbfFSfffXdM4-ZhShPjqazl2Ngv1kwl2rKK6OxI8bxhf_BshBD37VKsU_QOTtK3khtQxMwiG5WX_qod8/w320-h278/Blog_Bral.png "It's a bird who lives at the Rock of Bral. Don't ask me how it got there.")
-
 [Guide to Part 1, Seeds of Destruction](/posts/guide-to-running-light-of-xaryxis-part-1-seeds-of-destruction)
 
 [Guide to Chapter 7 - Trust Issues](/posts/guide-to-running-light-of-xaryxis-chapter-7-trust-issues)
@@ -70,8 +68,6 @@ The characters hear a scream from a house as they are walking in Bral. If they i
 ### Pantheistic College of Celestian
 
 I have a PC that worships Celestian, so I added detail to the Pantheistic College of Celestian found in 2e's Rock of Bral in the form of a priest NPC, Valtor Astron. I generated an image and description for him using AI tools.
-
-![Valtor Astron, priest of Celestian](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlFPXptdI1lXIvt84YYqBHmexKQq5KbNPR9jUe37LouUty66KjuDCDDpGsL1nitQffWn77jyil12DAgCn1fm0DfCkVqS2hzH_DfrKSqbnl6yHIcbhRLQkXs6bAFxmyYyO8-mBEomkrV-PU8ONtOdfCHqKF-YBEegqesM-hoBCic38j_HG5wHLuD1OdlY/w320-h320/Valtor%20Astron.png "generated using chatGPT")
 
 **Appearance:**
 

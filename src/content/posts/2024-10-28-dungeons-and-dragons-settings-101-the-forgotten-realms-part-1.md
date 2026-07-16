@@ -7,7 +7,7 @@ tags:
 description: "A primer on the Forgotten Realms for players new to the lore — major historical events from Netheril to the Second Sundering, plus iconic heroes like Elminster, Drizzt, and the Seven Sisters."
 ---
 
-This is the next part in my series of 101 introductions for the most common Dungeons and Dragons settings. If it made sense to cover [Greyhawk](https://thegiantsbane.blogspot.com/2024/09/dungeons-and-dragons-settings-101.html) first, it only makes sense for part two to be the most prolific campaign setting for Dungeons and Dragons: The Forgotten Realms. I've been running campaigns set in the Realms for two decades, so I'm excited to dive into one of my favorite settings. 
+This is the next part in my series of 101 introductions for the most common Dungeons and Dragons settings. If it made sense to cover [Greyhawk](/posts/dungeons-and-dragons-settings-101-greyhawk) first, it only makes sense for part two to be the most prolific campaign setting for Dungeons and Dragons: The Forgotten Realms. I've been running campaigns set in the Realms for two decades, so I'm excited to dive into one of my favorite settings. 
 
 ![The original 2e FR logo](../../assets/posts/2024-10-28-dungeons-and-dragons-settings-101-the-forgotten-realms-part-1/forgotten-realms-logo.png "Logo saying Forgotten Realms")
 

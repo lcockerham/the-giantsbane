@@ -10,7 +10,7 @@ description: "Guide to Chapter 4 of Turn of Fortune's Wheel — securing the wal
 
 In this chapter, the characters will encounter a walking castle they can take control of to journey through the Outlands. The characters must travel to multiple gate towns to add memories to a mimir that will eventually help them find R04M.
 
-Look [here](https://thegiantsbane.blogspot.com/2024/02/planescape-turn-of-fortunes-wheel_13.html) for posts about part 1 of the adventure.
+Look [here](/posts/planescape-turn-of-fortune-s-wheel-chapter-3-overview) for posts about part 1 of the adventure.
 
 ![Iedcaru the walking castle](../../assets/posts/2024-07-15-planescape-turn-of-fortune-s-wheel-chapter-4-into-the-outlands/walking-castle.png "Iedcaru the walking castle")
 

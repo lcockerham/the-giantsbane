@@ -15,7 +15,7 @@ Spelljammer Academy is an adventure released on [dndbeyond](https://www.dndbeyon
 
 Spelljammer Academy is broken up into four mini adventures that can be played in under two hours. After each mini adventure, your character gains a level. Once they finish the adventure, the characters will be fifth level, the starting level for Light of Xaryxis (LoX), the adventure found in Spelljammer: Adventures in Space.  The main goal is provide an on ramp to that adventure, and to provide Spelljammer content for Adventurer's League, Wizards of the Coast's organized play program. 
 
-I played the first two mini adventurers as part of a [Virtual Play Weekend](https://yawningportal.dnd.wizards.com/). I then DMed the adventure twice, once in person and once online, with my two regular groups. 
+I played the first two mini adventurers as part of a [Virtual Play Weekend](https://web.archive.org/web/20240415155008/https://yawningportal.dnd.wizards.com/). I then DMed the adventure twice, once in person and once online, with my two regular groups. 
 
 ## The Good
 

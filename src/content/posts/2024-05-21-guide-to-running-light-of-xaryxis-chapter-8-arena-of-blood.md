@@ -9,11 +9,9 @@ description: "Guide to Chapter 8 of Light of Xaryxis — negotiating with the me
 
 On to chapter 8. This chapter is pretty straightforward — go to Vocath's base, do a little negotiating, and then fight a gauntlet of foes for Vocath's amusement. And then the BBEG crashes the victory celebration.
 
-[Guide to Chapter 7: Trust Issues](https://thegiantsbane.blogspot.com/2024/05/guide-to-running-light-of-xaryxis.html)
+[Guide to Chapter 7: Trust Issues](/posts/guide-to-running-light-of-xaryxis-chapter-7-trust-issues)
 
-[Guide to Chapter 9: Discord and Diplomacy](https://thegiantsbane.blogspot.com/2024/05/guide-to-running-light-of-xaryxis_21.html)
-
-![Vocath](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgamNeSiaxiPGRY_s76ix-tk7jh08GlNk8iNNZfIra2NiaGxzwjjY6UEqM8b2zs4rvWDupkwBMpMSg9ZSsqwl6oKNVLU9N6-gkpuxrk3YAZPCnJRfq4yLX22d_MyX1nb4wt1GXVLl9RpYMTqf_7zspjLnhnzHDS9Uh9hsDfYuc7MPG-Tx6K7V_RlKiMeU/w255-h320/Vocath.png "Seems like a great dude to negotiate with")
+[Guide to Chapter 9: Discord and Diplomacy](/posts/guide-to-running-light-of-xaryxis-chapter-9-discord-and-diplomacy)
 
 -   Introduction
     -   Read Warwyck box text.
@@ -57,4 +55,4 @@ On to chapter 8. This chapter is pretty straightforward — go to Vocath's base,
 
 Tactics courtesy of [The Monsters Know What They're Doing](https://www.themonstersknow.com/megapede-brohg-and-braxat-tactics/).
 
-[Chapter 9: Discord and Diplomacy](https://thegiantsbane.blogspot.com/2024/05/guide-to-running-light-of-xaryxis_21.html)
+[Chapter 9: Discord and Diplomacy](/posts/guide-to-running-light-of-xaryxis-chapter-9-discord-and-diplomacy)

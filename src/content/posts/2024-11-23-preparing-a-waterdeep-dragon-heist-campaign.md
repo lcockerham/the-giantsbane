@@ -12,7 +12,7 @@ description: "Practical lessons from ten sessions of Waterdeep: Dragon Heist —
 
 Introduction
 
-I'm ten sessions into a Waterdeep: Dragon Heist campaign. So far, it's been great fun. Here is my [Session 0](https://thegiantsbane.blogspot.com/2024/09/waterdeep-dragon-heist-session-zero.html) for the campaign. If I were to amend that based on what I have learned so far, I would add the following bullet points:
+I'm ten sessions into a Waterdeep: Dragon Heist campaign. So far, it's been great fun. Here is my [Session 0](/posts/waterdeep-dragon-heist-session-zero) for the campaign. If I were to amend that based on what I have learned so far, I would add the following bullet points:
 
 -   Waterdeep is the campaign's central character. A goal of play is to learn about the city and its unique characteristics, especially its rulership, guilds, and factions. 
 -   Each character will join a faction, and completing quests for factions will provide renown and perks for the characters.

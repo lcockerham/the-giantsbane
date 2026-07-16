@@ -8,7 +8,7 @@ tags:
 description: "A review of tools for running a hybrid D&D session — VorpalBoard streaming, Dwarven Forge Watchtower terrain, a Jabra speakerphone, and miniature recommendations for Mystery of Maeralon's Tower."
 ---
 
-I ran [The Mystery of Maerlon's Tower](https://thegiantsbane.blogspot.com/2024/12/the-mystery-of-maeralons-tower.html) as a hybrid game. My home group used to run hybrid pre-pandemic using only Zoom, a webcam, and a normal tabletop with terrain and minis so I had some experience. But for this session, I wanted to try out some new tools. Two players and I were in a room around a table together and three players joined virtually. 
+I ran [The Mystery of Maerlon's Tower](/posts/the-mystery-of-maeralon-s-tower-a-waterdeep-dragon-heist-faction-quest) as a hybrid game. My home group used to run hybrid pre-pandemic using only Zoom, a webcam, and a normal tabletop with terrain and minis so I had some experience. But for this session, I wanted to try out some new tools. Two players and I were in a room around a table together and three players joined virtually. 
 
 Vorpal Board
 

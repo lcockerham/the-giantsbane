@@ -10,7 +10,7 @@ description: "Guide to Automata, the orderly gate-town to Mechanus in Turn of Fo
 
 ## Chapter 5: Automata
 
-[Chapter 4: Into the Outlands](https://thegiantsbane.blogspot.com/2024/07/planescape-turn-of-fortunes-wheel.html)
+[Chapter 4: Into the Outlands](/posts/planescape-turn-of-fortune-s-wheel-chapter-4-into-the-outlands)
 
 ![Automata Quote](../../assets/posts/2024-08-11-planescape-turn-of-fortune-s-wheel-chapter-5-automata/automata-quote.png "Automata Quote")
 
@@ -61,4 +61,4 @@ I'm picking back up posting my in progress guide to running Turn of Fortune's Wh
         -   The characters get fast tracked to receiving the permits they need and access to the portal.
         -   Don't forget to have characters record their memory at the gate.
 
-[Chapter 6: Curst](https://thegiantsbane.blogspot.com/2024/08/planescape-turn-of-fortunes-wheel_01713720547.html)
+[Chapter 6: Curst](/posts/planescape-turn-of-fortune-s-wheel-chapter-6-curst)
