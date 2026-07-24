@@ -7,7 +7,11 @@ interface Props {
   ogType?: 'website' | 'article';
 }
 
-const { title, description = "A D&D dungeon master's resource blog by Lucas Cockerham.", ogType = 'website' } = Astro.props;
+const {
+  title,
+  description = "A D&D dungeon master's resource blog by Lucas Cockerham.",
+  ogType = 'website',
+} = Astro.props;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 ---
 
@@ -32,20 +36,50 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
       href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Lora:ital,wght@0,400;0,600;1,400&display=swap"
       rel="stylesheet"
     />
-    <link rel="alternate" type="application/rss+xml" title="The Giantsbane" href="/rss.xml" />
-    <title>{title === 'The Giantsbane' ? title : `${title} | The Giantsbane`}</title>
+    <link
+      rel="alternate"
+      type="application/rss+xml"
+      title="The Giantsbane"
+      href="/rss.xml"
+    />
+    <title>
+      {title === 'The Giantsbane' ? title : `${title} | The Giantsbane`}
+    </title>
   </head>
   <body class="bg-pit-900 text-ink min-h-screen flex flex-col font-lora">
     <header class="bg-pit-800 border-b-2 border-crimson-dark">
-      <div class="max-w-6xl mx-auto px-6 py-5 flex items-center justify-between">
-        <a href="/" class="font-cinzel text-2xl font-bold tracking-wide no-underline">
+      <div
+        class="max-w-6xl mx-auto px-6 py-5 flex items-center justify-between"
+      >
+        <a
+          href="/"
+          class="font-cinzel text-2xl font-bold tracking-wide no-underline"
+        >
           The <span class="text-crimson">Giantsbane</span>
         </a>
-        <nav class="flex items-stretch font-cinzel text-xs tracking-widest uppercase">
-          <a href="/" class="text-dim hover:text-crimson hover:bg-pit-700 px-5 py-2 border-l border-pit-600 transition-colors">Home</a>
-          <a href="/archive" class="text-dim hover:text-crimson hover:bg-pit-700 px-5 py-2 border-l border-pit-600 transition-colors">Archive</a>
-          <a href="/tags" class="text-dim hover:text-crimson hover:bg-pit-700 px-5 py-2 border-l border-pit-600 transition-colors">Tags</a>
-          <a href="/rss.xml" class="text-dim hover:text-crimson hover:bg-pit-700 px-5 py-2 border-l border-pit-600 transition-colors">RSS</a>
+        <nav
+          class="flex items-stretch font-cinzel text-xs tracking-widest uppercase"
+        >
+          <a
+            href="/"
+            class="text-dim hover:text-crimson hover:bg-pit-700 px-5 py-2 border-l border-pit-600 transition-colors"
+            >Home</a
+          >
+          <a
+            href="/archive"
+            class="text-dim hover:text-crimson hover:bg-pit-700 px-5 py-2 border-l border-pit-600 transition-colors"
+            >Archive</a
+          >
+          <a
+            href="/tags"
+            class="text-dim hover:text-crimson hover:bg-pit-700 px-5 py-2 border-l border-pit-600 transition-colors"
+            >Tags</a
+          >
+          <a
+            href="/rss.xml"
+            class="text-dim hover:text-crimson hover:bg-pit-700 px-5 py-2 border-l border-pit-600 transition-colors"
+            >RSS</a
+          >
         </nav>
       </div>
     </header>
@@ -55,7 +89,9 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     </main>
 
     <footer class="bg-pit-800 border-t-2 border-crimson-dark mt-10">
-      <div class="max-w-6xl mx-auto px-6 py-5 flex justify-between items-center font-cinzel text-xs tracking-widest uppercase text-pit-500">
+      <div
+        class="max-w-6xl mx-auto px-6 py-5 flex justify-between items-center font-cinzel text-xs tracking-widest uppercase text-pit-500"
+      >
         <span>The Giantsbane</span>
         <span>&copy; {new Date().getFullYear()} Lucas Cockerham</span>
       </div>

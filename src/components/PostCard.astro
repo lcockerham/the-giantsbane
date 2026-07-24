@@ -40,24 +40,36 @@ const preview = description || excerptFromBody(post.body ?? '');
 
 <article class="py-5 border-b border-pit-700 first:pt-0">
   <div class="flex flex-wrap gap-2 mb-2">
-    {tags.map((tag) => (
-      <a
-        href={`/tags/${tag.toLowerCase()}`}
-        class="font-cinzel text-xs tracking-wider uppercase text-dim bg-pit-800 px-2 py-0.5 hover:text-crimson transition-colors"
-      >
-        {tag}
-      </a>
-    ))}
+    {
+      tags.map((tag) => (
+        <a
+          href={`/tags/${tag.toLowerCase()}`}
+          class="font-cinzel text-xs tracking-wider uppercase text-dim bg-pit-800 px-2 py-0.5 hover:text-crimson transition-colors"
+        >
+          {tag}
+        </a>
+      ))
+    }
   </div>
   <h2 class="font-cinzel text-lg font-semibold leading-snug mb-1">
-    <a href={`/posts/${slug}`} class="text-ink hover:text-crimson transition-colors">
+    <a
+      href={`/posts/${slug}`}
+      class="text-ink hover:text-crimson transition-colors"
+    >
       {title}
     </a>
   </h2>
-  <time datetime={date.toISOString()} class="font-cinzel text-xs tracking-widest uppercase text-pit-500 block mb-2">
+  <time
+    datetime={date.toISOString()}
+    class="font-cinzel text-xs tracking-widest uppercase text-pit-500 block mb-2"
+  >
     {formattedDate}
   </time>
-  {preview && (
-    <p class="text-dim text-sm leading-relaxed font-lora line-clamp-2">{preview}</p>
-  )}
+  {
+    preview && (
+      <p class="text-dim text-sm leading-relaxed font-lora line-clamp-2">
+        {preview}
+      </p>
+    )
+  }
 </article>

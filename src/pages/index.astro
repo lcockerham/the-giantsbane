@@ -5,15 +5,23 @@ import PostCard from '../components/PostCard.astro';
 import Sidebar from '../components/Sidebar.astro';
 
 const allPosts = await getCollection('posts', ({ data }) => !data.draft);
-const posts = allPosts.sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+const posts = allPosts.sort(
+  (a, b) => b.data.date.getTime() - a.data.date.getTime(),
+);
 ---
 
 <BaseLayout title="The Giantsbane">
   <div class="grid grid-cols-1 lg:grid-cols-[1fr_260px] gap-12">
     <div>
       <div class="mb-6 pb-4 border-b border-pit-700">
-        <p class="font-cinzel text-xs tracking-widest uppercase text-crimson mb-1">Latest Posts</p>
-        <p class="text-dim text-sm font-lora italic">Guides, reviews, and 5e conversions for dungeon masters</p>
+        <p
+          class="font-cinzel text-xs tracking-widest uppercase text-crimson mb-1"
+        >
+          Latest Posts
+        </p>
+        <p class="text-dim text-sm font-lora italic">
+          Guides, reviews, and 5e conversions for dungeon masters
+        </p>
       </div>
       <div>
         {posts.map((post) => <PostCard post={post} />)}

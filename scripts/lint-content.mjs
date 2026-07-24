@@ -6,7 +6,9 @@ import { readFileSync, readdirSync } from 'fs';
 import { join } from 'path';
 import { fileURLToPath } from 'url';
 
-const POSTS_DIR = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
+const POSTS_DIR = fileURLToPath(
+  new URL('../src/content/posts/', import.meta.url),
+);
 
 const FRONTMATTER_RE = /^---\r?\n([\s\S]*?)\r?\n---\r?\n([\s\S]*)$/;
 const EMPTY_LINK_RE = /\[[^\]]*\]\(\s*\)/g;
@@ -70,18 +72,28 @@ for (const filename of files) {
   if (tagsBlock) {
     const tags = tagsBlock[1]
       .split(/\r?\n/)
-      .map((line) => line.trim().replace(/^-\s*/, '').replace(/^["']|["']$/g, ''))
+      .map((line) =>
+        line
+          .trim()
+          .replace(/^-\s*/, '')
+          .replace(/^["']|["']$/g, ''),
+      )
       .filter(Boolean);
     for (const tag of tags) {
       if (!SAFE_TAG_RE.test(tag)) {
-        error(filename, `tag "${tag}" is not URL-safe (must match ${SAFE_TAG_RE})`);
+        error(
+          filename,
+          `tag "${tag}" is not URL-safe (must match ${SAFE_TAG_RE})`,
+        );
       }
     }
   }
 }
 
 if (errors > 0) {
-  console.error(`\n${errors} error(s), ${warnings} warning(s). Fix errors before committing.`);
+  console.error(
+    `\n${errors} error(s), ${warnings} warning(s). Fix errors before committing.`,
+  );
   process.exit(1);
 }
 

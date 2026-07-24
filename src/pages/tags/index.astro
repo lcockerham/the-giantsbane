@@ -18,17 +18,23 @@ const tags = Object.entries(tagCounts).sort((a, b) => b[1] - a[1]);
 <BaseLayout title="Tags">
   <div class="grid grid-cols-1 lg:grid-cols-[1fr_260px] gap-12">
     <div>
-      <p class="font-cinzel text-xs tracking-widest uppercase text-crimson mb-6">Tags</p>
+      <p
+        class="font-cinzel text-xs tracking-widest uppercase text-crimson mb-6"
+      >
+        Tags
+      </p>
       <div class="flex flex-wrap gap-3">
-        {tags.map(([tag, count]) => (
-          <a
-            href={`/tags/${tag.toLowerCase()}`}
-            class="font-cinzel text-xs tracking-wider uppercase border border-pit-600 px-3 py-2 text-dim hover:text-crimson hover:border-crimson-dark bg-pit-800 transition-colors flex items-center gap-2"
-          >
-            {tag}
-            <span class="text-pit-500">{count}</span>
-          </a>
-        ))}
+        {
+          tags.map(([tag, count]) => (
+            <a
+              href={`/tags/${tag.toLowerCase()}`}
+              class="font-cinzel text-xs tracking-wider uppercase border border-pit-600 px-3 py-2 text-dim hover:text-crimson hover:border-crimson-dark bg-pit-800 transition-colors flex items-center gap-2"
+            >
+              {tag}
+              <span class="text-pit-500">{count}</span>
+            </a>
+          ))
+        }
       </div>
     </div>
     <Sidebar />

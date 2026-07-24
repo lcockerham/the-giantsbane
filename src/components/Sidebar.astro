@@ -17,8 +17,14 @@ const topTags = Object.entries(tagCounts)
 
 <aside class="space-y-8">
   <div>
-    <h3 class="font-cinzel text-xs tracking-widest uppercase text-crimson border-b border-pit-600 pb-2 mb-4">Subscribe</h3>
-    <p class="text-dim text-sm leading-relaxed font-lora mb-3">Get new posts by email.</p>
+    <h3
+      class="font-cinzel text-xs tracking-widest uppercase text-crimson border-b border-pit-600 pb-2 mb-4"
+    >
+      Subscribe
+    </h3>
+    <p class="text-dim text-sm leading-relaxed font-lora mb-3">
+      Get new posts by email.
+    </p>
     <form
       action="https://buttondown.com/api/emails/embed-subscribe/lcockerham"
       method="post"
@@ -43,49 +49,177 @@ const topTags = Object.entries(tagCounts)
   </div>
 
   <div>
-    <h3 class="font-cinzel text-xs tracking-widest uppercase text-crimson border-b border-pit-600 pb-2 mb-4">About</h3>
+    <h3
+      class="font-cinzel text-xs tracking-widest uppercase text-crimson border-b border-pit-600 pb-2 mb-4"
+    >
+      About
+    </h3>
     <p class="text-dim text-sm leading-relaxed font-lora">
       DMing since 1997. Platinum author on DM's Guild.
     </p>
   </div>
 
   <div>
-    <h3 class="font-cinzel text-xs tracking-widest uppercase text-crimson border-b border-pit-600 pb-2 mb-4">Tags</h3>
+    <h3
+      class="font-cinzel text-xs tracking-widest uppercase text-crimson border-b border-pit-600 pb-2 mb-4"
+    >
+      Tags
+    </h3>
     <div class="flex flex-wrap gap-2">
-      {topTags.map(([tag, count]) => (
-        <a
-          href={`/tags/${tag.toLowerCase()}`}
-          class="font-cinzel text-xs tracking-wide bg-pit-800 border border-pit-600 px-2 py-1 text-dim hover:text-crimson hover:border-crimson-dark transition-colors"
-        >
-          {tag} <span class="text-pit-500">{count}</span>
-        </a>
-      ))}
+      {
+        topTags.map(([tag, count]) => (
+          <a
+            href={`/tags/${tag.toLowerCase()}`}
+            class="font-cinzel text-xs tracking-wide bg-pit-800 border border-pit-600 px-2 py-1 text-dim hover:text-crimson hover:border-crimson-dark transition-colors"
+          >
+            {tag} <span class="text-pit-500">{count}</span>
+          </a>
+        ))
+      }
     </div>
   </div>
 
   <div>
-    <h3 class="font-cinzel text-xs tracking-widest uppercase text-crimson border-b border-pit-600 pb-2 mb-4">DM's Guild</h3>
+    <h3
+      class="font-cinzel text-xs tracking-widest uppercase text-crimson border-b border-pit-600 pb-2 mb-4"
+    >
+      DM's Guild
+    </h3>
     <ul class="space-y-2 text-sm font-lora">
-      <li><a href="https://www.dmsguild.com/product/339739/DMs-Guide-to-Dragon-of-Icespire-Peak" target="_blank" rel="noopener" class="text-dim hover:text-ink transition-colors">Icespire Peak Guide <span class="text-[#e2e8f0]">★ Platinum</span></a></li>
-      <li><a href="https://www.dmsguild.com/product/471844/DMs-Guide-to-Turn-of-Fortunes-Wheel-Part-1" target="_blank" rel="noopener" class="text-dim hover:text-ink transition-colors">Fortune's Wheel Pt. 1 <span class="text-[#c8a84b]">★ Electrum</span></a></li>
-      <li><a href="https://www.dmsguild.com/product/492360/DMs-Guide-to-Turn-of-Fortunes-Wheel-Part-2" target="_blank" rel="noopener" class="text-dim hover:text-ink transition-colors">Fortune's Wheel Pt. 2 <span class="text-[#9ba8b8]">★ Silver</span></a></li>
-      <li><a href="https://www.dmsguild.com/product/175868/The-Mystery-at-Drearys-Well" target="_blank" rel="noopener" class="text-dim hover:text-ink transition-colors">Mystery at Dreary's Well <span class="text-[#9ba8b8]">★ Silver</span></a></li>
-      <li><a href="https://www.dmsguild.com/product/421692/Ghosts-of-Saltmarsh-Encounters" target="_blank" rel="noopener" class="text-dim hover:text-ink transition-colors">Ghosts of Saltmarsh</a></li>
-      <li><a href="https://www.dmsguild.com/product/383936/Return-to-White-Plume-Mountain-5E-Conversion" target="_blank" rel="noopener" class="text-dim hover:text-ink transition-colors">Return to White Plume Mtn.</a></li>
-      <li><a href="https://www.dmsguild.com/product/408071/A-DMs-Guide-to-the-Joy-of-Extradimensional-Spaces" target="_blank" rel="noopener" class="text-dim hover:text-ink transition-colors">Extradimensional Spaces</a></li>
-      <li><a href="https://www.dmsguild.com/product/357021/Betrayal-in-the-Hartsvale" target="_blank" rel="noopener" class="text-dim hover:text-ink transition-colors">Betrayal in the Hartsvale</a></li>
-      <li><a href="https://www.dmsguild.com/product/419229/The-Town-of-ManyAxes" target="_blank" rel="noopener" class="text-dim hover:text-ink transition-colors">The Town of ManyAxes</a></li>
-      <li><a href="https://www.dmsguild.com/product/184559/Dark-Redemption" target="_blank" rel="noopener" class="text-dim hover:text-ink transition-colors">Dark Redemption</a></li>
+      <li>
+        <a
+          href="https://www.dmsguild.com/product/339739/DMs-Guide-to-Dragon-of-Icespire-Peak"
+          target="_blank"
+          rel="noopener"
+          class="text-dim hover:text-ink transition-colors"
+          >Icespire Peak Guide <span class="text-[#e2e8f0]">★ Platinum</span></a
+        >
+      </li>
+      <li>
+        <a
+          href="https://www.dmsguild.com/product/471844/DMs-Guide-to-Turn-of-Fortunes-Wheel-Part-1"
+          target="_blank"
+          rel="noopener"
+          class="text-dim hover:text-ink transition-colors"
+          >Fortune's Wheel Pt. 1 <span class="text-[#c8a84b]">★ Electrum</span
+          ></a
+        >
+      </li>
+      <li>
+        <a
+          href="https://www.dmsguild.com/product/492360/DMs-Guide-to-Turn-of-Fortunes-Wheel-Part-2"
+          target="_blank"
+          rel="noopener"
+          class="text-dim hover:text-ink transition-colors"
+          >Fortune's Wheel Pt. 2 <span class="text-[#9ba8b8]">★ Silver</span></a
+        >
+      </li>
+      <li>
+        <a
+          href="https://www.dmsguild.com/product/175868/The-Mystery-at-Drearys-Well"
+          target="_blank"
+          rel="noopener"
+          class="text-dim hover:text-ink transition-colors"
+          >Mystery at Dreary's Well <span class="text-[#9ba8b8]">★ Silver</span
+          ></a
+        >
+      </li>
+      <li>
+        <a
+          href="https://www.dmsguild.com/product/421692/Ghosts-of-Saltmarsh-Encounters"
+          target="_blank"
+          rel="noopener"
+          class="text-dim hover:text-ink transition-colors"
+          >Ghosts of Saltmarsh</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://www.dmsguild.com/product/383936/Return-to-White-Plume-Mountain-5E-Conversion"
+          target="_blank"
+          rel="noopener"
+          class="text-dim hover:text-ink transition-colors"
+          >Return to White Plume Mtn.</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://www.dmsguild.com/product/408071/A-DMs-Guide-to-the-Joy-of-Extradimensional-Spaces"
+          target="_blank"
+          rel="noopener"
+          class="text-dim hover:text-ink transition-colors"
+          >Extradimensional Spaces</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://www.dmsguild.com/product/357021/Betrayal-in-the-Hartsvale"
+          target="_blank"
+          rel="noopener"
+          class="text-dim hover:text-ink transition-colors"
+          >Betrayal in the Hartsvale</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://www.dmsguild.com/product/419229/The-Town-of-ManyAxes"
+          target="_blank"
+          rel="noopener"
+          class="text-dim hover:text-ink transition-colors"
+          >The Town of ManyAxes</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://www.dmsguild.com/product/184559/Dark-Redemption"
+          target="_blank"
+          rel="noopener"
+          class="text-dim hover:text-ink transition-colors">Dark Redemption</a
+        >
+      </li>
     </ul>
   </div>
 
   <div>
-    <h3 class="font-cinzel text-xs tracking-widest uppercase text-crimson border-b border-pit-600 pb-2 mb-4">Recommended</h3>
+    <h3
+      class="font-cinzel text-xs tracking-widest uppercase text-crimson border-b border-pit-600 pb-2 mb-4"
+    >
+      Recommended
+    </h3>
     <ul class="space-y-2 text-sm font-lora">
-      <li><a href="https://dmdavid.com" target="_blank" rel="noopener" class="text-dim hover:text-ink transition-colors">DMDavid</a></li>
-      <li><a href="https://slyflourish.com" target="_blank" rel="noopener" class="text-dim hover:text-ink transition-colors">Sly Flourish</a></li>
-      <li><a href="https://www.patreon.com/cw/MasteringDnD" target="_blank" rel="noopener" class="text-dim hover:text-ink transition-colors">Mastering Dungeons</a></li>
-      <li><a href="https://alphastream.org" target="_blank" rel="noopener" class="text-dim hover:text-ink transition-colors">Alphastream</a></li>
+      <li>
+        <a
+          href="https://dmdavid.com"
+          target="_blank"
+          rel="noopener"
+          class="text-dim hover:text-ink transition-colors">DMDavid</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://slyflourish.com"
+          target="_blank"
+          rel="noopener"
+          class="text-dim hover:text-ink transition-colors">Sly Flourish</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://www.patreon.com/cw/MasteringDnD"
+          target="_blank"
+          rel="noopener"
+          class="text-dim hover:text-ink transition-colors"
+          >Mastering Dungeons</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://alphastream.org"
+          target="_blank"
+          rel="noopener"
+          class="text-dim hover:text-ink transition-colors">Alphastream</a
+        >
+      </li>
     </ul>
   </div>
 </aside>

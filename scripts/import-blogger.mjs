@@ -17,7 +17,8 @@ import TurndownService from 'turndown';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const POSTS_DIR = join(__dirname, '..', 'src', 'content', 'posts');
-const FEED_BASE = 'https://thegiantsbane.blogspot.com/feeds/posts/default?alt=json&max-results=25';
+const FEED_BASE =
+  'https://thegiantsbane.blogspot.com/feeds/posts/default?alt=json&max-results=25';
 
 mkdirSync(POSTS_DIR, { recursive: true });
 
@@ -50,7 +51,7 @@ function slugFromUrl(alternateLinks) {
 
 function extractDescription(htmlContent) {
   // Take the first non-empty paragraph as description
-  const match = htmlContent.match(/<p[^>]*>(.*?)<\/p>/si);
+  const match = htmlContent.match(/<p[^>]*>(.*?)<\/p>/is);
   if (!match) return undefined;
   // Strip tags
   const text = match[1].replace(/<[^>]+>/g, '').trim();
@@ -67,7 +68,8 @@ function toFrontmatter(fields) {
         lines.push(`${key}: []`);
       } else {
         lines.push(`${key}:`);
-        for (const item of value) lines.push(`  - "${item.replace(/"/g, '\\"')}"`);
+        for (const item of value)
+          lines.push(`  - "${item.replace(/"/g, '\\"')}"`);
       }
     } else if (typeof value === 'string') {
       const escaped = value.replace(/"/g, '\\"');
@@ -91,7 +93,10 @@ async function run() {
 
     const feed = data.feed;
     if (!feed) {
-      console.error('Unexpected feed structure', JSON.stringify(data).slice(0, 200));
+      console.error(
+        'Unexpected feed structure',
+        JSON.stringify(data).slice(0, 200),
+      );
       break;
     }
 
@@ -103,7 +108,12 @@ async function run() {
       const published = entry.published?.['$t'] ?? '';
       const htmlContent = entry.content?.['$t'] ?? '';
       const labels = (entry.category ?? []).map((c) => c.term).filter(Boolean);
-      const slug = slugFromUrl(entry.link) ?? title.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+      const slug =
+        slugFromUrl(entry.link) ??
+        title
+          .toLowerCase()
+          .replace(/[^a-z0-9]+/g, '-')
+          .replace(/^-|-$/g, '');
 
       const dateObj = new Date(published);
       const dateStr = dateObj.toISOString().slice(0, 10); // YYYY-MM-DD
