@@ -3,7 +3,7 @@
 // Exits non-zero if any errors are found; warnings are printed but don't fail.
 
 import { readFileSync, readdirSync } from 'fs';
-import { join, relative } from 'path';
+import { join } from 'path';
 import { fileURLToPath } from 'url';
 
 const POSTS_DIR = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
