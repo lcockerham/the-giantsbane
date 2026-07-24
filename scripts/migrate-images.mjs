@@ -134,7 +134,6 @@ async function main() {
         downloaded += 1;
       }
 
-      const relPath = relative(POSTS_DIR, targetPath).split('\\').join('/');
       const relativeMarkdownPath = `../../assets/posts/${postSlug}/${filename}`;
       const newImg = title
         ? `![${alt}](${relativeMarkdownPath} "${title}")`
