@@ -11,7 +11,13 @@
  * Run: node scripts/migrate-images.mjs
  */
 
-import { writeFileSync, readFileSync, readdirSync, mkdirSync, existsSync } from 'node:fs';
+import {
+  writeFileSync,
+  readFileSync,
+  readdirSync,
+  mkdirSync,
+  existsSync,
+} from 'node:fs';
 import { join, dirname, relative } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -19,7 +25,8 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const POSTS_DIR = join(__dirname, '..', 'src', 'content', 'posts');
 const ASSETS_DIR = join(__dirname, '..', 'src', 'assets', 'posts');
 
-const IMG_RE = /!\[([^\]]*)\]\((https:\/\/blogger\.googleusercontent\.com[^\s)]+)(?:\s+"([^"]*)")?\)/g;
+const IMG_RE =
+  /!\[([^\]]*)\]\((https:\/\/blogger\.googleusercontent\.com[^\s)]+)(?:\s+"([^"]*)")?\)/g;
 
 const CONTENT_TYPE_EXT = {
   'image/png': 'png',
@@ -35,12 +42,14 @@ function sleep(ms) {
 
 function toOriginalUrl(url) {
   const classic = url.match(
-    /^(https:\/\/blogger\.googleusercontent\.com\/img\/b\/[^/]+\/[^/]+)\/(s\d+|w\d+(?:-h\d+)?|h\d+)\/([^/?]+)$/
+    /^(https:\/\/blogger\.googleusercontent\.com\/img\/b\/[^/]+\/[^/]+)\/(s\d+|w\d+(?:-h\d+)?|h\d+)\/([^/?]+)$/,
   );
   if (classic) {
     return { url: `${classic[1]}/s0/${classic[3]}`, rawFilename: classic[3] };
   }
-  const proxy = url.match(/^(https:\/\/blogger\.googleusercontent\.com\/img\/a\/[^=]+)=(.*)$/);
+  const proxy = url.match(
+    /^(https:\/\/blogger\.googleusercontent\.com\/img\/a\/[^=]+)=(.*)$/,
+  );
   if (proxy) {
     return { url: `${proxy[1]}=s0`, rawFilename: null };
   }
@@ -106,11 +115,15 @@ async function main() {
       try {
         result = await downloadImage(fetchUrl);
       } catch (err) {
-        console.warn(`  [fallback] ${postFile}: s0 fetch failed (${err.message}), trying original URL`);
+        console.warn(
+          `  [fallback] ${postFile}: s0 fetch failed (${err.message}), trying original URL`,
+        );
         try {
           result = await downloadImage(originalUrl);
         } catch (err2) {
-          console.error(`  [FAIL] ${postFile}: ${originalUrl} — ${err2.message}`);
+          console.error(
+            `  [FAIL] ${postFile}: ${originalUrl} — ${err2.message}`,
+          );
           failed += 1;
           failures.push({ postFile, url: originalUrl, error: err2.message });
           continue;
@@ -142,7 +155,10 @@ async function main() {
       changed = true;
 
       if (!alt) {
-        emptyAlt.push({ postFile, targetPath: relative(join(__dirname, '..'), targetPath) });
+        emptyAlt.push({
+          postFile,
+          targetPath: relative(join(__dirname, '..'), targetPath),
+        });
       }
 
       await sleep(150);
@@ -157,7 +173,8 @@ async function main() {
   console.log(`Failed: ${failed}`);
   if (failures.length) {
     console.log('\nFailures:');
-    for (const f of failures) console.log(`  ${f.postFile}: ${f.url} (${f.error})`);
+    for (const f of failures)
+      console.log(`  ${f.postFile}: ${f.url} (${f.error})`);
   }
   if (emptyAlt.length) {
     console.log(`\nEmpty alt text (${emptyAlt.length}) — needs manual review:`);

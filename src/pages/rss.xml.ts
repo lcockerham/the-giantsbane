@@ -5,7 +5,9 @@ import { postSlug } from '../lib/series';
 
 export async function GET(context: APIContext) {
   const posts = await getCollection('posts', ({ data }) => !data.draft);
-  const sorted = posts.sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+  const sorted = posts.sort(
+    (a, b) => b.data.date.getTime() - a.data.date.getTime(),
+  );
 
   return rss({
     title: 'The Giantsbane',
