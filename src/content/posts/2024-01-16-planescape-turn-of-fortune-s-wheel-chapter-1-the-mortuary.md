@@ -86,9 +86,9 @@ What follows is an outline of what characters will find in each area of the Mort
 -   An example speech the Dryads might give:
 
 > Welcome, travelers, to the shadows of what you perceive as life. Behold the Gulthias trees, where the veil between life and death is thinnest. As a Dryad of the Heralds of Dust, I see beyond the illusion you call 'life.' Understand that we exist in an afterlife, a mere echo of a reality long faded. What you grasp as life is but the first whisper of death.
-
+>
 > The Heralds of Dust seek the True Death, a transcendence beyond this multiverse, beyond the illusions that bind us. We embrace the stages of death, shedding the chains of hope and passion that tether our souls to this false existence. We do not fear the undead; instead, we revere them as guides, as they tread the path closer to True Death. In our ranks, the undead serve not as abominations, but as harbingers of the deeper truths. Our Factol Skall, a being of profound knowledge and detachment, leads us in our quest. He, like us, seeks to guide souls toward dignified rest, preparing them for the ultimate transcendence.
-
+>
 > Do not cling to your fleeting passions and hopes. They are but distractions, keeping you from the profound truth. The true journey lies in embracing the decay, the transformation, and ultimately, the release into True Death. This grove, tended by my hand, is a sanctuary for those who seek to understand the deeper realities of existence, a place where the boundaries of life and death blur and reveal the path to true liberation.
 
 **M9: Records Room**

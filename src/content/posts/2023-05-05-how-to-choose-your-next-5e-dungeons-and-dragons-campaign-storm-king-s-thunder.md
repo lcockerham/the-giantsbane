@@ -11,15 +11,15 @@ I've been DMing, playing, and reading fifth edition adventures since the launch 
 
 ![Hekaton](../../assets/posts/2023-05-05-how-to-choose-your-next-5e-dungeons-and-dragons-campaign-storm-king-s-thunder/hekaton.png "Sad giant is sad")
 
-### Summary
+## Summary
 
 Storm King's Thunder is a Dungeons & Dragons 5th Edition adventure for characters of levels 1 to 11. It was published by Wizards of the Coast on September 6, 2016. In this epic adventure, players are tasked with uncovering the mystery behind the disappearance of the storm giant king, Hekaton, and the subsequent upheaval among the giants. As giants wreak havoc across the Sword Coast, the heroes must travel vast distances, confront formidable foes, and ultimately restore order to the giant ordning. The adventure is inspired by G-1-2-3 Against the Giants, one of the earliest Dungeons and Dragons Adventures that was written by Gary Gygax.
 
-### My Experience
+## My Experience
 
 I started a campaign in early 2018, and my group had asked me to run Storm King's Thunder. Having read it, I thought the entry level adventure designed to get to level 5 was particularly weak, so I opted to run a trek through Undermountain using converted materials from 2e and 4e Undermountain adventures. It was fairly easy to add a hook to get the characters to Goldenfields to start the campaign. We spent a lot of the campaign wandering the North and using information from Chapter 3: The Savage Frontier. I only used the Den of the Hill Giants and the Forge of the Fire Giants because I really didn't think the other giant steadings were all that great. I finished out the adventure by sending the characters through the later 5e Undermountain levels that were published while we were playing the campaign. I delayed the fight with Iymrith until later levels, and removed the storm giant help the adventure provides.
 
-### Why You Should Run It
+## Why You Should Run It
 
 -   The savage frontier is a great tour of the North. You can use it in conjunction with the caravan section of Hoard of the Dragon Queen to make a great exploration adventure across the North.
 -   Giants are great foes mechanically in 5e because they have a lot of hit points and do a lot of damage. That leads to harder and more exciting encounters.
@@ -27,12 +27,12 @@ I started a campaign in early 2018, and my group had asked me to run Storm King'
 -   It's really easy to skip the parts of it you don't like. Huge chunks of the adventure can be ignored if you so desire.
 -   I really like Goldenfields as a location to kick off the campaign.
 
-### Why You Should Skip It
+## Why You Should Skip It
 
 -   There's a lot of material I am not interested in running in the adventure. It gives a sandbox to pick and choose from, but it felt like the choices were obvious, because the quality was uneven. I thought the 1-5 adventure was a boring lead in to the real adventure. Anything involving the Uthgardt burial mounds was actively bad. I had no interest in running the stone, frost and storm giant adventures.
 -   If you just want to pick up an adventure and run it from start to finish, Storm King's Thunder is just too uneven. There are a lot of better single book adventures where you have to do less work.
 
-### What You Should Repurpose From It
+## What You Should Repurpose From It
 
 Chapter 3: The Savage North is a great tool for DMs. If your party is traveling the north, it gives you just enough detail to make many locations interesting. It also really flushes out Goldenfields as an adventure hub. I think any individual giant locale is reusable to a campaign where you need it. Storm King's Thunder's greatest strength is that it does provide a bunch of really good building blocks that can be incorporated into other adventures.
 

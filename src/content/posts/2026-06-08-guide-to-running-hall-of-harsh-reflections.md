@@ -12,7 +12,7 @@ description: "A prep guide for Hall of Harsh Reflections, the fourth Age of Worm
 
 See my [review of Hall of Harsh Reflections](/posts/review-of-hall-of-harsh-reflections-from-the-age-of-worms-adventure-path). Level 7–8. [Dungeon #127 PDF](https://ia600506.us.archive.org/3/items/dungeon-magazine-127/Dungeon_Magazine_127.pdf) | [Paizo Supplement](https://paizo.com/dungeonissues/127/DA127_Supplement_LR.pdf) | [Dragon #336 Wormfood](https://dn721605.ca.archive.org/0/items/DragonMagazine260_201801/DragonMagazine336.pdf)
 
-# Foreword
+## Foreword
 Most of this post is written by AI. I've invested quite a bit of time in building an llm-wiki for the Age of Worms campaign, to the point where if I read the adventure, I can use AI to competently write a prep document. It's 85% as good as what I could do, but in 5% of the time. I've lightly edited the entire post for accuracy and corrected bad mechanics everywhere I found them, as well as the most common style fixes. You will also see "My notes" sections when I want to call out something I would change or handle with care. 
 
 ## Outline
@@ -109,7 +109,7 @@ Occurs 3 nights after the PCs arrive. Telakin's doppelganger agent **Elaxan** ma
 
 If Elaxan is killed, he reverts to his true form and automatically clears the PCs of all charges. If the PCs are arrested, they're stripped of gear and held overnight — doppelganger agents inside the watch deliver them to Sodden Hold the next morning (split party, gear confiscated, delivered straight to D5). If Tarquin survives and the PCs prove their innocence: free room and board for a month.
 
-***My notes: This is hard to pull off. You really have to steal some character agency to make this go easily. It's okay if your group can roll with it, but if they usually don't (or this isn't a group you know well) I would go ahead and have the doppelganger impersonate a present character and just lower the Persuasion DCs by 5 since it's much easier to prove it wasn't a PC. ***
+***My notes: This is hard to pull off. You really have to steal some character agency to make this go easily. It's okay if your group can roll with it, but if they usually don't (or this isn't a group you know well) I would go ahead and have the doppelganger impersonate a present character and just lower the Persuasion DCs by 5 since it's much easier to prove it wasn't a PC.***
 
 
 ## Sodden Hold — Telakin's Doppelganger Stronghold
@@ -164,7 +164,7 @@ If you decided to use a captured PC replaced by doppelgangers, that PC is here (
 - **Ixiaxian** (Doppelganger assassin, MME) — the spy possibly embedded in the party. Reveals himself here, attacking the most vulnerable PC. The player immediately resumes their actual manacled character.
 - **Variable doppelgangers** (1 per non-replaced PC): 22 HP each, with the Haunting Similarity feat (advantage attacking the PC they're emulating). Use one Doppelganger Assassin, one Doppelganger Warlock, one Doppelganger Dark Whisperer, and normal doppelgangers for the rest.
 - Treasure: Ixiaxian carries the duplicated PC's gear plus a mind-clone sapphire (2,000 gp — an encoded copy of the PC's memories, accessible via *detect thoughts*).
-- If no PC was replaced beforehand, swap this room for 4× Aranea in a chamber full of silvery spider webs. ***My notes: I wouldn't skip this encounter, and the araneas will make little sense. This is a great spot to actually swap out a PC ahead of time if you want the reveal to land — I did this in my own game and it worked, though it's a heavy-handed move you should telegraph as being in service of the scene, not a "gotcha." ***
+- If no PC was replaced beforehand, swap this room for 4× Aranea in a chamber full of silvery spider webs. ***My notes: I wouldn't skip this encounter, and the araneas will make little sense. This is a great spot to actually swap out a PC ahead of time if you want the reveal to land — I did this in my own game and it worked, though it's a heavy-handed move you should telegraph as being in service of the scene, not a "gotcha."***
 
 **D16. Mirror Maze** — Floor-to-ceiling polished metal mirrors forming a labyrinth of reflections. Pressure-plate walls: squares flanking dashed lines on the map have pressure plates; triggering both simultaneously raises a mirrored wall instantly (DC 25 Dexterity save to dive through before it closes). A hidden floor switch (DC 20 Intelligence (Investigation) check) or DC 20 Thieves' Tools lowers the walls again. 3× boosted **Doppelganger Guard** (78 HP each, potions of invisibility) — two use invisibility to flank and attack, the third warns Telakin in D17 then rejoins. They know all the wall locations and use them to split the party, taking party members' forms once their invisibility ends. ***My notes: I skipped this encounter.***
 

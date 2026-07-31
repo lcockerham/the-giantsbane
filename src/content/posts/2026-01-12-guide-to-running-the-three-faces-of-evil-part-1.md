@@ -11,8 +11,8 @@ description: "Part 1 of the DM guide to The Three Faces of Evil — the modified
 
 Introduction
 
--   See my review of the adventure [here](/posts/review-of-the-three-faces-of-evil-from-the-age-of-worms-adventure-path). 
--   Find the web supplement [here](https://paizo.com/dungeonissues/125/DA125_Supplement_HRes.pdf). 
+-   See [my review of the adventure](/posts/review-of-the-three-faces-of-evil-from-the-age-of-worms-adventure-path). 
+-   Find [the web supplement](https://paizo.com/dungeonissues/125/DA125_Supplement_HRes.pdf). 
 -   This guide will be in four parts. This section will cover the Call to Action and entering the mine, followed by posts for the three wings of the dungeon. 
 
 ## Call to Action

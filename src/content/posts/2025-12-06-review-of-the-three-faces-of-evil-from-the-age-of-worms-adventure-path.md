@@ -8,7 +8,7 @@ tags:
 description: "A detailed review of The Three Faces of Evil, the second Age of Worms adventure — a dungeon crawl through three evil cults that is better than its lackluster reputation suggests."
 ---
 
-  See my review of the first adventure, The Whispering Cairn, [here](/posts/review-of-the-whispering-cairn-from-the-age-of-worms-adventure-path). 
+  See [my review of the first adventure, The Whispering Cairn](/posts/review-of-the-whispering-cairn-from-the-age-of-worms-adventure-path). 
 
 ## Initial Thoughts
 
@@ -18,7 +18,7 @@ I ran this adventure over 6 2-3 hour sessions with a group I have gamed with for
 
 ## Strong Start
 
-One of the top critiques online is of the adventure hook. It's basically a major NPC, Allustan, pointing the characters at the dungeon that makes up the majority of the adventure. I took the advice of one of the threads on the Paizo forums ([link](https://paizo.com/threads/rzs2hgo1?Advice-for-Three-Faces-of-Evil)) and threw the characters in jail. Balabar then showed up and flexed his power in town and forced the characters to go deal with the cultists who had compromised him. As I was preparing this, SlyFlourish posted [Avoid Removing Player Agency](https://slyflourish.com/avoid_removing_player_agency.html) that clearly said, "Don't capture your characters." I did it anyway, but I told the players what I was doing and to treat it cinematically. It worked well as an introduction to a campaign villain and a forceful hook into the adventure. I think this works well so long as you telegraph what you are doing to your party. It is also much safer if you know your players well, which I did. 
+One of the top critiques online is of the adventure hook. It's basically a major NPC, Allustan, pointing the characters at the dungeon that makes up the majority of the adventure. I took the advice of one of the threads on the Paizo forums ([Paizo forum thread](https://paizo.com/threads/rzs2hgo1?Advice-for-Three-Faces-of-Evil)) and threw the characters in jail. Balabar then showed up and flexed his power in town and forced the characters to go deal with the cultists who had compromised him. As I was preparing this, SlyFlourish posted [Avoid Removing Player Agency](https://slyflourish.com/avoid_removing_player_agency.html) that clearly said, "Don't capture your characters." I did it anyway, but I told the players what I was doing and to treat it cinematically. It worked well as an introduction to a campaign villain and a forceful hook into the adventure. I think this works well so long as you telegraph what you are doing to your party. It is also much safer if you know your players well, which I did. 
 
 ## Adventure Structure
 

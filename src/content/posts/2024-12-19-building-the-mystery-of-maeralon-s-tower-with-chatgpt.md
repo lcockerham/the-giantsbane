@@ -47,15 +47,15 @@ So I took the outline above and fed it into my GPT with this prompt: "Can you ta
 
 The Mystery of Maeralon's Tower, ChatGPT version
 
-### Adventure Title: _The Mystery of Maeralon's Tower_
+## Adventure Title: _The Mystery of Maeralon's Tower_
 
-### Call to Action
+## Call to Action
 
 **Barnabus Blastwind** of the Watchful Order of Magists and Protectors approaches the party with an urgent request. The Watchful Order has lost contact with **Maeralon Silvercord**, a reclusive yet respected wizard living in the Field Ward. His tower has activated defenses and launched attacks on passerby, and no one has been able to approach safely. Barnabus offers the party 500 gp to investigate, disable the defensive magic, and determine what happened to Maeralon.
 
 **Background:** Maeralon Silvercord was a known enchanter and artificer, especially interested in defensive magics. His last known project involved binding an otherworldly sentience to a magical item. His son **Arastin Silvercord** is a budding wizard studying with the Harpells in Longsaddle and won’t arrive in Waterdeep for several days.
 
-### Approaching the Tower
+## Approaching the Tower
 
 -   **The Arcane Ballista**: This enchanted ballista at the top of the tower fires bolts that contain explosive magical energy. Encased in a **Prismatic Sphere**, it can shoot bolts out but is difficult to damage in return.
 -   **Wild Magic Zone**: A 50-foot radius around the tower is suffused with unstable magic. Spellcasting here triggers Wild Magic effects, with a variety of outcomes inspired by the _Magical Chaos Table_ from FRE3​. Effects could range from harmless illusions to unexpected surges of elemental energy. This chaos may hint that Maeralon’s last project has broken free from control.
@@ -63,23 +63,23 @@ The Mystery of Maeralon's Tower, ChatGPT version
 
 * * *
 
-### Inside the Tower
+## Inside the Tower
 
 The tower has four floors, each serving a unique purpose in Maeralon’s studies.
 
-#### Level 1: Entrance and Reception
+### Level 1: Entrance and Reception
 
 Upon entering, the party is greeted by a **Living Burning Hands** spell—a defensive conjuration designed to dissuade intruders. The room appears to be a study, scattered with papers and books on enchantments and defensive magics.
 
 -   **Clues**: Among the papers are notes about "binding sentient power" and a half-finished rune sketch that suggests a project to animate or empower an object with a fragment of consciousness.
 
-#### Level 2: Library and Workshop
+### Level 2: Library and Workshop
 
 This level contains shelves of books on magical theory, elemental magic, and lore from various realms. At the center of the room, three **Stone Cursed** statues stand, which will animate and attack when the party arrives. These statues were crafted from Maeralon's own failed attempts to animate his tower’s defenses.
 
 -   **Workshop Details**: The workshop has an alchemist’s lab and a magic circle etched into the floor, surrounded by candle stubs and scorched runes. Here, Maeralon had been testing containment spells, hinting that he might have bound an entity to one of his creations.
 
-#### Level 3: Maeralon’s Quarters
+### Level 3: Maeralon’s Quarters
 
 The party finds Maeralon’s body on the floor, his face frozen in shock. A **Clockwork Iron Cobra**, his guardian construct, stands menacingly nearby, and a **Mimic** disguised as a chest lurks in the corner.
 
@@ -88,7 +88,7 @@ The party finds Maeralon’s body on the floor, his face frozen in shock. A **Cl
 -   **Clues and Lore**: On his desk is a half-finished manuscript on binding spirits. His final notes reveal he was trying to enchant a weapon with sentient awareness, referencing an artifact called _The Watcher’s Edge_.
     
 
-#### Level 4: Roof and Control Room
+### Level 4: Roof and Control Room
 
 The top of the tower houses the **Animated Ballista** and an orb on a pedestal. The orb functions as the control core, projecting a **Prismatic Sphere** around the ballista and maintaining the wild magic zone around the tower. If the party makes a DC 16 Intelligence (Arcana) check and succeeds, they can disable the control orb, deactivating the sphere, the wild magic, and neutralizing remaining constructs (except for the mimic).
 
@@ -96,7 +96,7 @@ The top of the tower houses the **Animated Ballista** and an orb on a pedestal. 
 
 * * *
 
-### Key NPCs
+## Key NPCs
 
 -   **Maeralon Silvercord**: A once-reclusive wizard known for his defensive enchantments, Maeralon was driven by the idea of a perfect defense. His experiment with sentience, meant to infuse his creations with awareness, ultimately led to his demise when his magic went awry.
     
@@ -105,7 +105,7 @@ The top of the tower houses the **Animated Ballista** and an orb on a pedestal. 
 
 * * *
 
-### Rewards
+## Rewards
 
 -   **Barnabus’s Payment**: The 500 gp reward and 3 renown with the Watchful Order.
     

@@ -2,7 +2,7 @@
 
 A static blog for D&D dungeon masters, built with [Astro 5](https://astro.build) and Tailwind CSS, hosted on Cloudflare Workers (static assets).
 
-Live site: **https://thegiantsbane.com**
+Live site: **<https://thegiantsbane.com>**
 
 ---
 
@@ -21,7 +21,7 @@ Live site: **https://thegiantsbane.com**
 
 ## Local development
 
-```
+```bash
 npm install
 npm run dev
 ```
@@ -30,7 +30,7 @@ The dev server starts at `http://localhost:4321` (or the next available port).
 
 Other commands:
 
-```
+```bash
 npm run build     # production build → dist/
 npm run preview   # preview the production build locally
 ```
@@ -106,7 +106,7 @@ This repo was built and maintained with [Claude Code](https://claude.ai/code). I
 
 Suggested prompts to get started:
 
-```
+```text
 # After forking and cloning:
 "Update the site URL to https://yourdomain.com in astro.config.mjs and robots.txt"
 
@@ -134,7 +134,7 @@ Rather than tweaking the existing theme by hand, ask Claude Code to generate sev
 
 Try prompts like:
 
-```
+```text
 "Generate three different color palette options for this blog — one warm/earthy,
 one dark/moody, one clean/minimal — and show me the Tailwind config for each."
 
@@ -164,7 +164,7 @@ Images are self-hosted in `src/assets/posts/` (migrated from Blogger hotlinks vi
 
 ## Project structure
 
-```
+```text
 src/
   content/
     posts/          # Markdown blog posts (YYYY-MM-DD-slug.md)
