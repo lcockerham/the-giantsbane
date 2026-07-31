@@ -28,7 +28,7 @@ Some notes on timing for the events:
 -   Semaunya’s Bog can go anywhere, but as the adventure suggests, I would use it after a particularly grim town to provide an upbeat moment.
 -   I skipped Angels in the Outlands because I didn’t like it – the adventure can be silly enough as is.
 
-### Mausoleum of Chronepsis
+## Mausoleum of Chronepsis
 
 This is a great series of encounters, but my players found it very confusing. I’ll break down the scenes and give some pointers from what I learned by running them.
 
@@ -64,7 +64,7 @@ This is a great series of encounters, but my players found it very confusing. I�
 -   Once she is taken to the Mausoleum, she asks the characters to stay back since dragons are territorial and gives them one of her scales.
 -   As the characters leave, they see a massive **ancient time dragon** that tells the characters “Call, and I’ll be there”.
 
-### Semuanya’s Bog
+## Semuanya’s Bog
 
 This encounter is a good chance to add some levity or a change of pace after one of the gate towns.
 
@@ -97,7 +97,7 @@ This encounter is a good chance to add some levity or a change of pace after one
 -   Semaunya gives the characters an **_alchemy jug_** made from a green dragon skull and blooming flowers that can only produce spring water.
 -   Semaunya can’t help the characters with any information.
 
-### Other Realms
+## Other Realms
 
 -   Caverns of Thought
 

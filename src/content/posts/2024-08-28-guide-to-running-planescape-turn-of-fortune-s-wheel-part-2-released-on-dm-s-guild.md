@@ -28,7 +28,7 @@ For those who have been following my blog, you'll know that I've been sharing sn
 
 Whether you're a seasoned Planescape DM or just starting your journey through the planes, this guide will save you time and help you avoid potential pitfalls in the adventure. The Outlands are a pivotal part of the Planescape setting, and with this guide, you'll be well-equipped to bring these fantastic locations to life in your games.
 
-## Get Your Copy Today!
+## Get Your Copy Today
 
 Don't miss out on this essential resource for your Planescape adventures. Head over to DM's Guild now and grab your copy of **DM's Guide to Planescape: Turn of Fortune's Wheel, Part 2**. Elevate your game and immerse your players in the wonders of the Outlands!
 

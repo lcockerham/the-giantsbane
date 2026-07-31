@@ -18,5 +18,6 @@ jobs:
       - run: npm run lint
       - run: npm run format:check
       - run: npm run lint:content
+      - run: npm run lint:md
       - run: npm run test
       - run: npm run build

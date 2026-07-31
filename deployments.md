@@ -8,8 +8,8 @@ Last verified working: 2026-06-10.
 - **Platform:** Cloudflare **Workers + static assets** (NOT Cloudflare Pages — the account has no Pages projects; don't go looking for one).
 - **Worker name:** `the-giantsbane`
 - **Account ID:** `b4ea0223b90bf66e759dedecd0ce0aaf`
-- **Live domain:** https://thegiantsbane.com
-- **Dashboard:** https://dash.cloudflare.com/b4ea0223b90bf66e759dedecd0ce0aaf/workers/services/view/the-giantsbane/production
+- **Live domain:** <https://thegiantsbane.com>
+- **Dashboard:** <https://dash.cloudflare.com/b4ea0223b90bf66e759dedecd0ce0aaf/workers/services/view/the-giantsbane/production>
 - **CI:** Cloudflare **Workers Builds**, connected to GitHub repo `lcockerham/the-giantsbane`. Builds run automatically on push.
 
 ## How a deploy works
