@@ -10,7 +10,7 @@ tags:
 description: "A prep guide for Hall of Harsh Reflections, the fourth Age of Worms adventure — the Free City investigation, Telakin's doppelganger stronghold at Sodden Hold, and Zyrxog's mind flayer domain."
 ---
 
-See my [review of Hall of Harsh Reflections](/posts/review-of-hall-of-harsh-reflections-from-the-age-of-worms-adventure-path). Level 7–8. [Dungeon #127 PDF](https://ia600506.us.archive.org/3/items/dungeon-magazine-127/Dungeon_Magazine_127.pdf) | [Paizo Supplement](https://paizo.com/dungeonissues/127/DA127_Supplement_LR.pdf) | [Dragon #336 Wormfood](https://dn721605.ca.archive.org/0/items/DragonMagazine260_201801/DragonMagazine336.pdf)
+See my [review of Hall of Harsh Reflections](/posts/review-of-hall-of-harsh-reflections-from-the-age-of-worms-adventure-path). Level 7–8. The adventure was originally published in Dungeon #127 (Paizo, 2005), with the "Wormfood" support article in Dragon #336. Paizo's free [Dungeon #127 supplement](https://paizo.com/dungeonissues/127/DA127_Supplement_LR.pdf) is also worth grabbing.
 
 ## Foreword
 Most of this post is written by AI. I've invested quite a bit of time in building an llm-wiki for the Age of Worms campaign, to the point where if I read the adventure, I can use AI to competently write a prep document. It's 85% as good as what I could do, but in 5% of the time. I've lightly edited the entire post for accuracy and corrected bad mechanics everywhere I found them, as well as the most common style fixes. You will also see "My notes" sections when I want to call out something I would change or handle with care. 

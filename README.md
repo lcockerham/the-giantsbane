@@ -1,6 +1,6 @@
 # The Giantsbane
 
-A static blog for D&D dungeon masters, built with [Astro 5](https://astro.build) and Tailwind CSS, hosted on Cloudflare Workers (static assets).
+A static blog for D&D dungeon masters, built with [Astro 7](https://astro.build) and Tailwind CSS, hosted on Cloudflare Workers (static assets).
 
 Live site: **<https://thegiantsbane.com>**
 
@@ -10,8 +10,8 @@ Live site: **<https://thegiantsbane.com>**
 
 | Layer | Tool |
 |---|---|
-| Framework | Astro 5 (static output) |
-| Styling | Tailwind CSS v3 |
+| Framework | Astro 7 (static output) |
+| Styling | Tailwind CSS v4 |
 | Hosting | Cloudflare Workers + static assets (free tier) |
 | Email subscriptions | Buttondown |
 | RSS | `@astrojs/rss` |
@@ -130,13 +130,13 @@ Claude Code can also write new posts if you give it an outline, help you add new
 
 ### Generating a custom look and feel
 
-Rather than tweaking the existing theme by hand, ask Claude Code to generate several distinct options and let you pick. The key files for visual identity are `src/layouts/BaseLayout.astro` (header, footer, font imports), `src/components/Sidebar.astro`, and the Tailwind color palette in `tailwind.config.*`.
+Rather than tweaking the existing theme by hand, ask Claude Code to generate several distinct options and let you pick. The key files for visual identity are `src/layouts/BaseLayout.astro` (header, footer, font imports), `src/components/Sidebar.astro`, and the Tailwind color palette in the `@theme` block of `src/styles/global.css`.
 
 Try prompts like:
 
 ```text
 "Generate three different color palette options for this blog — one warm/earthy,
-one dark/moody, one clean/minimal — and show me the Tailwind config for each."
+one dark/moody, one clean/minimal — and show me the `@theme` colors for each."
 
 "Redesign the header in BaseLayout.astro three different ways: one with a centered
 logo and full-width nav, one with a large hero banner, one compact single-line.
@@ -147,7 +147,7 @@ section and leads with the subscribe form, one that removes the sidebar entirely
 and puts navigation in a top bar."
 
 "Suggest three Google Font pairings that would suit a [medieval / technical / cozy]
-blog, and update the font imports and Tailwind font-family config for each."
+blog, and update the font imports and `@theme` font variables for each."
 ```
 
 The workflow: ask Claude Code to write the variants, run `npm run dev`, and compare them in your browser. Once you pick one, tell Claude Code to discard the others and clean up.
@@ -159,6 +159,12 @@ The workflow: ask Claude Code to write the variants, run `npm run dev`, and comp
 Posts include official art from D&D books, modules, and Dungeon magazine issues (Wizards of the Coast / Paizo), used to illustrate reviews and guides for those specific products — not sold, not used to promote unrelated content, and not stripped of any logos or trademarks present in the source art. This falls under Wizards' [Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy), which permits incorporating their IP into fan blogs and reviews like this one.
 
 Images are self-hosted in `src/assets/posts/` (migrated from Blogger hotlinks via `scripts/migrate-images.mjs`) rather than linked from their original source, so posts don't break if that source disappears. If you're a rights holder with a concern about a specific image, please open a GitHub issue and it'll be addressed.
+
+---
+
+## License
+
+The [MIT License](LICENSE) covers the site's code only. Post text and original images are © Lucas Cockerham, all rights reserved. Third-party art belongs to its respective owners.
 
 ---
 
