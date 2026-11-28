@@ -6,6 +6,21 @@ Live site: **<https://thegiantsbane.com>**
 
 ---
 
+## Goals
+
+The Giantsbane is Lucas's blog for D&D dungeon masters, and the home page for
+his DM's Guild titles.
+
+- **Publish posts:** reviews, guides to running published adventures,
+  conversions and reference sheets. Ideas are collected in `blog-post-ideas.md`.
+- **Point readers to the DM's Guild titles.** The sidebar's list is the
+  canonical list of what's live.
+- **Grow the email list** through Buttondown.
+- **Not here:** the titles themselves (written and built in their own repos)
+  or the Poreman's Journal archive (its own site).
+
+---
+
 ## Stack
 
 | Layer | Tool |
